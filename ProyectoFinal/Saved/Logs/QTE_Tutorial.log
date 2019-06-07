@@ -3686,3 +3686,370 @@ Please see Output Log for details.
 [2019.06.07-14.35.12:010][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
 [2019.06.07-14.35.12:159][ 71]LogSavePackage: Moving '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/FirstPersonExampleMapE286765E49B041C61A522E9398DEBE46.tmp' to '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/Maps/FirstPersonExampleMap.umap'
 [2019.06.07-14.35.13:949][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-14.37.18:732][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-14.37.23:542][784]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-14.37.23:549][784]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Kneel (1).fbx)
+[2019.06.07-14.37.23:558][784]LogFbx: Loading FBX Scene from ../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Kneel (1).fbx
+[2019.06.07-14.37.23:579][784]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.07-14.37.29:263][784]LogSlate: Window 'Opciones de importación de FBX' being destroyed
+[2019.06.07-14.37.29:289][784]FBXImport: Error: Mesh contains root bone as root but animation doesn't contain the root track.
+Import failed. 
+[2019.06.07-14.37.29:289][784]FBXImport: Error: Import failed. 
+[2019.06.07-14.37.45:979][784]LogSlate: Window 'Mensaje' being destroyed
+[2019.06.07-14.37.45:983][784]LogAssetTools: Warning: Failed to import '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Kneel (1).fbx'. Failed to create asset '/Game/Mannequin/Animations/Kneel__1_'.
+Please see Output Log for details.
+[2019.06.07-14.37.47:448][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-14.37.47:530][961]LogSlate: Window 'Registro del mensaje' being destroyed
+[2019.06.07-14.37.47:534][961]LogSlate: Window 'Registro del mensaje' being destroyed
+[2019.06.07-14.39.39:083][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-14.41.05:747][882]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Mannequin/Animations/MyAnimation1.MyAnimation1
+[2019.06.07-14.41.05:762][882]LogBlueprintActionDatabase: Requesting refresh due to module change: AnimationEditor (loaded)
+[2019.06.07-14.41.05:769][882]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.41.05:782][882]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.07-14.41.06:220][882]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.07-14.41.12:045][460]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.06.07-14.41.12:060][460]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.41.12:080][460]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.07-14.41.33:696][736]Cmd: TRANSACTION UNDO
+[2019.06.07-14.41.33:696][736]LogEditorTransaction: Undo Rotate Bone
+[2019.06.07-14.41.33:819][736]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.41.33:824][736]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.42.22:890][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-14.42.22:974][957]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2019.06.07-14.42.22:980][957]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.42.22:997][957]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.07-14.42.26:935][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-14.43.21:861][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-14.43.26:640][ 74]Cmd: TRANSACTION UNDO
+[2019.06.07-14.43.26:640][ 74]LogEditorTransaction: Undo Rotate Bone
+[2019.06.07-14.43.26:826][ 74]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.43.26:830][ 74]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.43.26:831][ 74]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.43.27:425][113]Cmd: TRANSACTION UNDO
+[2019.06.07-14.43.27:425][113]LogEditorTransaction: Undo Rotate Bone
+[2019.06.07-14.43.27:614][113]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.43.27:619][113]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.43.27:620][113]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.43.27:742][125]Cmd: TRANSACTION UNDO
+[2019.06.07-14.43.27:742][125]LogEditorTransaction: Undo Rotate Bone
+[2019.06.07-14.43.27:927][125]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.43.27:932][125]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.43.27:933][125]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.43.28:002][132]Cmd: TRANSACTION UNDO
+[2019.06.07-14.43.28:002][132]LogEditorTransaction: Undo Rotate Bone
+[2019.06.07-14.43.28:185][132]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.43.28:190][132]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.43.28:191][132]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.43.28:482][164]Cmd: TRANSACTION UNDO
+[2019.06.07-14.43.28:482][164]LogEditorTransaction: Undo Rotate Bone
+[2019.06.07-14.43.28:668][164]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.43.28:673][164]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.43.28:674][164]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.43.28:979][197]Cmd: TRANSACTION UNDO
+[2019.06.07-14.43.28:979][197]LogEditorTransaction: Undo Rotate Bone
+[2019.06.07-14.43.29:164][197]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.43.29:170][197]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.43.29:171][197]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.43.29:215][201]Cmd: TRANSACTION UNDO
+[2019.06.07-14.43.29:215][201]LogEditorTransaction: Undo Rotate Bone
+[2019.06.07-14.43.29:400][201]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.43.29:405][201]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.43.29:406][201]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.43.29:431][202]Cmd: TRANSACTION UNDO
+[2019.06.07-14.43.29:431][202]LogEditorTransaction: Undo Rotate Bone
+[2019.06.07-14.43.29:615][202]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.43.29:621][202]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.43.29:622][202]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.44.11:428][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-14.44.20:622][324]Cmd: TRANSACTION UNDO
+[2019.06.07-14.44.20:622][324]LogEditorTransaction: Undo Rotate Bone
+[2019.06.07-14.44.20:812][324]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.44.20:817][324]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.44.20:818][324]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.44.20:822][324]Cmd: TRANSACTION UNDO
+[2019.06.07-14.44.20:822][324]LogEditorTransaction: Undo Rotate Bone
+[2019.06.07-14.44.21:013][324]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.44.21:019][324]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.44.21:020][324]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.44.21:022][324]Cmd: TRANSACTION UNDO
+[2019.06.07-14.44.21:022][324]LogEditorTransaction: Undo Rotate Bone
+[2019.06.07-14.44.21:212][324]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.44.21:218][324]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.44.21:219][324]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.44.21:221][324]Cmd: TRANSACTION UNDO
+[2019.06.07-14.44.21:221][324]LogEditorTransaction: Undo Rotate Bone
+[2019.06.07-14.44.21:415][324]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.44.21:421][324]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.44.21:422][324]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.45.04:625][649]Cmd: TRANSACTION UNDO
+[2019.06.07-14.45.04:625][649]LogEditorTransaction: Undo Translate Bone
+[2019.06.07-14.45.04:811][649]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.45.04:817][649]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.45.04:818][649]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.45.04:919][651]Cmd: TRANSACTION UNDO
+[2019.06.07-14.45.04:919][651]LogEditorTransaction: Undo Translate Bone
+[2019.06.07-14.45.05:115][651]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.45.05:121][651]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.45.05:122][651]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.45.05:206][652]Cmd: TRANSACTION UNDO
+[2019.06.07-14.45.05:206][652]LogEditorTransaction: Undo Rotate Bone
+[2019.06.07-14.45.05:396][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.45.05:402][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.45.05:403][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.45.26:230][511]Cmd: TRANSACTION UNDO
+[2019.06.07-14.45.26:230][511]LogEditorTransaction: Undo Translate Bone
+[2019.06.07-14.45.26:417][511]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.45.26:424][511]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.45.26:425][511]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.45.34:770][281]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.07-14.46.10:723][924]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.06.07-14.46.10:723][924]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap' took 0.056
+[2019.06.07-14.46.10:727][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/Material_014] ([1] browsable assets)...
+[2019.06.07-14.46.10:735][924]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mannequin/Animations/Material_014.Material_014]
+[2019.06.07-14.46.10:735][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/Material_014]
+[2019.06.07-14.46.10:745][924]LogSavePackage: Moving '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Material_014_Auto9955135104B972461021835BE0A6A7028.tmp' to '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/Mannequin/Animations/Material_014_Auto9.uasset'
+[2019.06.07-14.46.10:745][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/Material_012] ([1] browsable assets)...
+[2019.06.07-14.46.10:754][924]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mannequin/Animations/Material_012.Material_012]
+[2019.06.07-14.46.10:754][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/Material_012]
+[2019.06.07-14.46.10:762][924]LogSavePackage: Moving '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Material_012_Auto9E1095DDA47DD5EA9E9D48FB98149DA81.tmp' to '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/Mannequin/Animations/Material_012_Auto9.uasset'
+[2019.06.07-14.46.10:762][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/Material_015] ([1] browsable assets)...
+[2019.06.07-14.46.10:770][924]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mannequin/Animations/Material_015.Material_015]
+[2019.06.07-14.46.10:770][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/Material_015]
+[2019.06.07-14.46.10:778][924]LogSavePackage: Moving '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Material_015_Auto9D2DB8EA74AFC78172AEC7EAF74722C80.tmp' to '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/Mannequin/Animations/Material_015_Auto9.uasset'
+[2019.06.07-14.46.10:779][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/Material_018] ([1] browsable assets)...
+[2019.06.07-14.46.10:787][924]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mannequin/Animations/Material_018.Material_018]
+[2019.06.07-14.46.10:787][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/Material_018]
+[2019.06.07-14.46.10:795][924]LogSavePackage: Moving '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Material_018_Auto9E6992BD14A56882C09A43896FAE39CD0.tmp' to '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/Mannequin/Animations/Material_018_Auto9.uasset'
+[2019.06.07-14.46.10:795][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/Material_019] ([1] browsable assets)...
+[2019.06.07-14.46.10:804][924]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mannequin/Animations/Material_019.Material_019]
+[2019.06.07-14.46.10:804][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/Material_019]
+[2019.06.07-14.46.10:811][924]LogSavePackage: Moving '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Material_019_Auto917416F8C44B4CD3D7A50C88AC79F55AA.tmp' to '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/Mannequin/Animations/Material_019_Auto9.uasset'
+[2019.06.07-14.46.10:812][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/Material_020] ([1] browsable assets)...
+[2019.06.07-14.46.10:820][924]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mannequin/Animations/Material_020.Material_020]
+[2019.06.07-14.46.10:820][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/Material_020]
+[2019.06.07-14.46.10:828][924]LogSavePackage: Moving '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Material_020_Auto9AEEAD57A45FD9AF69E92859A62DF69E6.tmp' to '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/Mannequin/Animations/Material_020_Auto9.uasset'
+[2019.06.07-14.46.10:828][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/Material_001] ([1] browsable assets)...
+[2019.06.07-14.46.10:837][924]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mannequin/Animations/Material_001.Material_001]
+[2019.06.07-14.46.10:837][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/Material_001]
+[2019.06.07-14.46.10:844][924]LogSavePackage: Moving '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Material_001_Auto99F6BB62C448B267BE791F5A1CC8ECAC8.tmp' to '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/Mannequin/Animations/Material_001_Auto9.uasset'
+[2019.06.07-14.46.10:845][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/Material_002] ([1] browsable assets)...
+[2019.06.07-14.46.10:853][924]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mannequin/Animations/Material_002.Material_002]
+[2019.06.07-14.46.10:853][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/Material_002]
+[2019.06.07-14.46.10:862][924]LogSavePackage: Moving '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Material_002_Auto95089A04A4CA918FBB138D79E2AE7A1E4.tmp' to '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/Mannequin/Animations/Material_002_Auto9.uasset'
+[2019.06.07-14.46.10:862][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/Material_016] ([1] browsable assets)...
+[2019.06.07-14.46.10:870][924]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mannequin/Animations/Material_016.Material_016]
+[2019.06.07-14.46.10:870][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/Material_016]
+[2019.06.07-14.46.10:878][924]LogSavePackage: Moving '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Material_016_Auto90813BAAF4474051227FC2388BCC36E16.tmp' to '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/Mannequin/Animations/Material_016_Auto9.uasset'
+[2019.06.07-14.46.10:878][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/Material_011] ([1] browsable assets)...
+[2019.06.07-14.46.10:886][924]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mannequin/Animations/Material_011.Material_011]
+[2019.06.07-14.46.10:886][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/Material_011]
+[2019.06.07-14.46.10:895][924]LogSavePackage: Moving '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Material_011_Auto92819A4814260D5BFBB5425A91CE9A842.tmp' to '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/Mannequin/Animations/Material_011_Auto9.uasset'
+[2019.06.07-14.46.10:895][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/Material_010] ([1] browsable assets)...
+[2019.06.07-14.46.10:903][924]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mannequin/Animations/Material_010.Material_010]
+[2019.06.07-14.46.10:903][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/Material_010]
+[2019.06.07-14.46.10:911][924]LogSavePackage: Moving '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Material_010_Auto9FC86BC204E9787A57E674CBC6D459AE0.tmp' to '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/Mannequin/Animations/Material_010_Auto9.uasset'
+[2019.06.07-14.46.10:912][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/Material_009] ([1] browsable assets)...
+[2019.06.07-14.46.10:920][924]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mannequin/Animations/Material_009.Material_009]
+[2019.06.07-14.46.10:920][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/Material_009]
+[2019.06.07-14.46.10:931][924]LogSavePackage: Moving '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Material_009_Auto9D60C4787439CE8D844A86E944AE963E2.tmp' to '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/Mannequin/Animations/Material_009_Auto9.uasset'
+[2019.06.07-14.46.10:931][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/Material_003] ([1] browsable assets)...
+[2019.06.07-14.46.10:946][924]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mannequin/Animations/Material_003.Material_003]
+[2019.06.07-14.46.10:946][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/Material_003]
+[2019.06.07-14.46.10:953][924]LogSavePackage: Moving '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Material_003_Auto92D8708CE4A07E03FA5449998E0CE839C.tmp' to '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/Mannequin/Animations/Material_003_Auto9.uasset'
+[2019.06.07-14.46.10:954][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/Material_005] ([1] browsable assets)...
+[2019.06.07-14.46.10:962][924]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mannequin/Animations/Material_005.Material_005]
+[2019.06.07-14.46.10:962][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/Material_005]
+[2019.06.07-14.46.10:970][924]LogSavePackage: Moving '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Material_005_Auto9DF1E7FC54983FCCFC850FEBF875A4103.tmp' to '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/Mannequin/Animations/Material_005_Auto9.uasset'
+[2019.06.07-14.46.10:971][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/Material_006] ([1] browsable assets)...
+[2019.06.07-14.46.10:978][924]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mannequin/Animations/Material_006.Material_006]
+[2019.06.07-14.46.10:978][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/Material_006]
+[2019.06.07-14.46.10:986][924]LogSavePackage: Moving '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Material_006_Auto9D2FD0A2B494A0D0FFB9CFD9E3E3F9908.tmp' to '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/Mannequin/Animations/Material_006_Auto9.uasset'
+[2019.06.07-14.46.10:986][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/Material_004] ([1] browsable assets)...
+[2019.06.07-14.46.10:994][924]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mannequin/Animations/Material_004.Material_004]
+[2019.06.07-14.46.10:994][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/Material_004]
+[2019.06.07-14.46.11:002][924]LogSavePackage: Moving '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Material_004_Auto9145D70544BE7006F15867A9A1D0A4743.tmp' to '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/Mannequin/Animations/Material_004_Auto9.uasset'
+[2019.06.07-14.46.11:003][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/Material_013] ([1] browsable assets)...
+[2019.06.07-14.46.11:011][924]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mannequin/Animations/Material_013.Material_013]
+[2019.06.07-14.46.11:011][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/Material_013]
+[2019.06.07-14.46.11:019][924]LogSavePackage: Moving '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Material_013_Auto96E3EC72341E1388DCEBDC8B65241CA7B.tmp' to '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/Mannequin/Animations/Material_013_Auto9.uasset'
+[2019.06.07-14.46.11:020][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/Material_007] ([1] browsable assets)...
+[2019.06.07-14.46.11:028][924]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mannequin/Animations/Material_007.Material_007]
+[2019.06.07-14.46.11:028][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/Material_007]
+[2019.06.07-14.46.11:035][924]LogSavePackage: Moving '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Material_007_Auto906C8C7BD4AC212BBB8C427BF8F811EF0.tmp' to '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/Mannequin/Animations/Material_007_Auto9.uasset'
+[2019.06.07-14.46.11:036][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/Material_008] ([1] browsable assets)...
+[2019.06.07-14.46.11:044][924]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mannequin/Animations/Material_008.Material_008]
+[2019.06.07-14.46.11:044][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/Material_008]
+[2019.06.07-14.46.11:051][924]LogSavePackage: Moving '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Material_008_Auto915F5C2584812B46267C224A3937BFD76.tmp' to '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/Mannequin/Animations/Material_008_Auto9.uasset'
+[2019.06.07-14.46.11:052][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/Material_017] ([1] browsable assets)...
+[2019.06.07-14.46.11:060][924]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mannequin/Animations/Material_017.Material_017]
+[2019.06.07-14.46.11:060][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/Material_017]
+[2019.06.07-14.46.11:068][924]LogSavePackage: Moving '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Material_017_Auto96C3A8797424CEF1F8FCC6D8EF59CE187.tmp' to '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/Mannequin/Animations/Material_017_Auto9.uasset'
+[2019.06.07-14.46.11:069][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/MyAnimation1] ([1] browsable assets)...
+[2019.06.07-14.46.11:077][924]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Mannequin/Animations/MyAnimation1.MyAnimation1]
+[2019.06.07-14.46.11:077][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/MyAnimation1]
+[2019.06.07-14.46.11:085][924]LogSavePackage: Moving '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/MyAnimation1_Auto9D4A5150949B04E20F2F572BDB72D6213.tmp' to '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/Mannequin/Animations/MyAnimation1_Auto9.uasset'
+[2019.06.07-14.46.11:087][924]LogFileHelpers: Auto-saving content packages took 0.360
+[2019.06.07-14.51.11:546][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-14.51.18:369][311]LogSlate: Window 'Create New Animation Object' being destroyed
+[2019.06.07-14.52.17:846][739]Cmd: TRANSACTION UNDO
+[2019.06.07-14.52.17:846][739]LogEditorTransaction: Undo Translate Bone
+[2019.06.07-14.52.18:035][739]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.52.18:043][739]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.52.18:044][739]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.53.06:644][277]Cmd: TRANSACTION UNDO
+[2019.06.07-14.53.06:644][277]LogEditorTransaction: Undo Rotate Bone
+[2019.06.07-14.53.06:839][277]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.53.06:846][277]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.53.06:847][277]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.53.06:885][278]Cmd: TRANSACTION UNDO
+[2019.06.07-14.53.06:885][278]LogEditorTransaction: Undo Rotate Bone
+[2019.06.07-14.53.07:079][278]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.53.07:088][278]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.53.07:089][278]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.53.07:092][278]Cmd: TRANSACTION UNDO
+[2019.06.07-14.53.07:092][278]LogEditorTransaction: Undo Rotate Bone
+[2019.06.07-14.53.07:285][278]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.53.07:294][278]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.53.07:295][278]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.53.07:350][279]Cmd: TRANSACTION UNDO
+[2019.06.07-14.53.07:350][279]LogEditorTransaction: Undo Rotate Bone
+[2019.06.07-14.53.07:542][279]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.53.07:551][279]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.53.07:552][279]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.53.07:555][279]Cmd: TRANSACTION UNDO
+[2019.06.07-14.53.07:555][279]LogEditorTransaction: Undo Rotate Bone
+[2019.06.07-14.53.07:749][279]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.53.07:758][279]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.53.07:760][279]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.53.07:849][282]Cmd: TRANSACTION UNDO
+[2019.06.07-14.53.07:849][282]LogEditorTransaction: Undo Rotate Bone
+[2019.06.07-14.53.08:041][282]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.53.08:050][282]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.53.08:051][282]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.53.15:023][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-14.54.17:707][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-14.54.26:871][188]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/MyAnimation1.MyAnimation1
+[2019.06.07-14.54.26:883][188]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.MyAnimation1) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.07-14.54.26:943][188]LogSavePackage: Moving '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/MyAnimation1A2C3626C425D20AA844AF0BB36048A54.tmp' to '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Content/Mannequin/Animations/MyAnimation1.uasset'
+[2019.06.07-14.54.36:782][319]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.06.07-14.54.40:071][622]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.06.07-14.54.40:074][622]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.06.07-14.54.45:353][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pared4)
+[2019.06.07-14.54.45:392][622]Cmd: SELECT NONE
+[2019.06.07-14.54.45:403][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pared4)
+[2019.06.07-14.54.45:442][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-14.54.47:945][897]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap
+[2019.06.07-14.57.18:405][160]LogSlate: Window 'FirstPersonExampleMap' being destroyed
+[2019.06.07-14.57.25:005][940]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Mannequin/Animations/MyAnimation1.MyAnimation1
+[2019.06.07-14.57.25:011][940]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.57.25:030][940]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.07-14.57.25:255][940]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.06.07-14.59.06:382][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-14.59.06:553][ 49]LogSavePackage: Moving '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/MyAnimation15F1113AD494B076C49F2DB9F82631E57.tmp' to '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Content/Mannequin/Animations/MyAnimation1.uasset'
+[2019.06.07-14.59.10:130][399]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2019.06.07-14.59.10:150][399]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_59:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.59.10:341][399]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_59:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.07-14.59.13:986][786]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.SK_Mannequin_PhysicsAsset
+[2019.06.07-14.59.14:009][786]LogBlueprintActionDatabase: Requesting refresh due to module change: PhysicsAssetEditor (loaded)
+[2019.06.07-14.59.14:010][786]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0002 seconds. Added 7 classes and 3 folders.
+[2019.06.07-14.59.14:022][786]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_61:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.59.37:340][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-14.59.37:412][550]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.06.07-14.59.37:419][550]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_62:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-14.59.37:433][550]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_62:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.06.07-15.00.31:227][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-15.01.19:397][504]LogSlate: Window 'Create New Animation Object' being destroyed
+[2019.06.07-15.01.19:404][504]LogLinker: No puede encontrar el archivo '/Game/Mannequin/Animations/Animación'
+[2019.06.07-15.01.19:405][504]LogLinker: No puede encontrar el archivo '/Game/Mannequin/Animations/Animación'
+[2019.06.07-15.01.22:521][780]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2019.06.07-15.01.22:521][780]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap' took 0.072
+[2019.06.07-15.01.22:524][780]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset] ([1] browsable assets)...
+[2019.06.07-15.01.22:532][780]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.SK_Mannequin_PhysicsAsset]
+[2019.06.07-15.01.22:532][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset]
+[2019.06.07-15.01.22:549][780]LogSavePackage: Moving '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/SK_Mannequin_PhysicsAsset_Auto04A6273F94A694B48774DC596C1A4C330.tmp' to '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset_Auto0.uasset'
+[2019.06.07-15.01.22:550][780]LogFileHelpers: Auto-saving content packages took 0.027
+[2019.06.07-15.01.36:311][224]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap
+[2019.06.07-15.02.19:415][ 80]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/Animación.Animación
+[2019.06.07-15.02.19:419][ 80]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Animación) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.06.07-15.02.26:630][891]LogEditorTransaction: Undo Delete current selection
+[2019.06.07-15.02.26:853][891]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-15.02.26:866][891]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_59:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-15.02.26:867][891]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_61:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2019.06.07-15.02.26:913][891]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_62:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-15.02.27:135][900]LogEditorTransaction: Undo Mover nodo
+[2019.06.07-15.02.27:356][900]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_55:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-15.02.27:361][900]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_59:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-15.02.27:362][900]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_61:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2019.06.07-15.02.27:408][900]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_62:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.06.07-15.04.43:323][517]BlueprintLog: New page: Compilar FirstPersonExampleMap
+[2019.06.07-15.04.43:484][517]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.06.07-15.04.44:516][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.06.07-15.04.44:712][626]LogSavePackage: Moving '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/FirstPersonExampleMapEE1EA18C480BF338C6366B8A46756857.tmp' to '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.06.07-15.04.44:729][626]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.248
+[2019.06.07-15.04.56:161][672]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.07-15.04.56:169][672]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.07-15.04.56:169][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.07-15.04.56:169][672]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (7/6/2019 9:04:56)
+[2019.06.07-15.04.56:170][672]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.07-15.04.56:179][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009685s)
+[2019.06.07-15.04.56:180][672]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.07-15.04.56:180][672]LogPlayLevel: PIE: World Init took: (0.000477s)
+[2019.06.07-15.04.56:180][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010280s)
+[2019.06.07-15.04.56:212][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.06.07-15.04.56:216][672]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.07-15.04.56:283][672]LogInit: FAudioDevice initialized.
+[2019.06.07-15.04.56:317][672]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.07-15.04.56:318][672]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.06.07-12.04.56
+[2019.06.07-15.04.56:319][672]LogWorld: Bringing up level for play took: 0.001629
+[2019.06.07-15.04.56:332][672]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,244
+[2019.06.07-15.04.56:332][672]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.07-15.04.58:524][901]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.07-15.04.58:524][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-15.04.58:560][901]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.07-15.04.58:561][901]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.07-15.04.58:593][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-15.04.58:597][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.06.07-15.04.58:628][903]LogPlayLevel: Display: Destroying online subsystem :Context_122
+[2019.06.07-15.04.59:584][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-15.05.08:279][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-15.05.16:636][952]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pared3)
+[2019.06.07-15.05.25:446][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-15.05.25:496][925]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.07-15.05.25:503][925]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.07-15.05.25:503][925]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.07-15.05.25:503][925]PIE: New page: Sesión PIE (reproducción en el editor): FirstPersonExampleMap (7/6/2019 9:05:25)
+[2019.06.07-15.05.25:504][925]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.06.07-15.05.25:513][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009308s)
+[2019.06.07-15.05.25:513][925]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.06.07-15.05.25:514][925]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2019.06.07-15.05.25:514][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010059s)
+[2019.06.07-15.05.25:544][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.06.07-15.05.25:548][925]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.07-15.05.25:616][925]LogInit: FAudioDevice initialized.
+[2019.06.07-15.05.25:643][925]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.06.07-15.05.25:645][925]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.06.07-12.05.25
+[2019.06.07-15.05.25:645][925]LogWorld: Bringing up level for play took: 0.001472
+[2019.06.07-15.05.25:659][925]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0,428
+[2019.06.07-15.05.25:660][925]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.07-15.05.33:067][811]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.07-15.05.33:067][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-15.05.33:100][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.07-15.05.33:101][811]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.06.07-15.05.33:144][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.07-15.05.33:148][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.06.07-15.05.33:166][812]LogPlayLevel: Display: Destroying online subsystem :Context_123
+[2019.06.07-15.05.34:452][957]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pared2)
+[2019.06.07-15.05.37:450][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-15.05.42:121][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pared2)
+[2019.06.07-15.05.43:487][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Piso)
+[2019.06.07-15.05.43:872][ 64]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin)
+[2019.06.07-15.05.48:015][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-15.05.54:914][ 66]LogSavePackage: Moving '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/MyAnimation14E721FBA4F9FD0E9146008AE9763F790.tmp' to '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Content/Mannequin/Animations/MyAnimation1.uasset'
+[2019.06.07-15.06.02:225][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-15.06.15:064][395]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.06.07-15.06.47:613][382]PIE: Error: SetInputMode_GameOnly expects a valid player controller as 'PlayerController' target
+[2019.06.07-15.06.50:671][677]BlueprintLog: New page: Compilar ThirdPersonCharacter
+[2019.06.07-15.06.50:856][677]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.06.07-15.07.12:847][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.07-15.07.12:942][158]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.06.07-15.07.13:121][158]LogSavePackage: Moving '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Saved/FirstPersonExampleMapDC22E36E4B5C11A34AAEA784C9ABCB81.tmp' to '../../../../../../Users/43718467/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/Maps/FirstPersonExampleMap.umap'
