@@ -1436,3 +1436,14 @@ Please see Output Log for details.
 [2019.06.13-18.40.28:184][282]LogStaticMesh: Generando la malla estática StaticMesh...
 [2019.06.13-18.40.28:507][282]LogStaticMesh: Built static mesh [0.32s] /Game/Meshes/StaticMesh.StaticMesh
 [2019.06.13-18.41.09:659][109]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.13-18.45.13:477][276]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.06.13-18.45.13:477][276]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/FirstPersonExampleMap' took 0.031
+[2019.06.13-18.45.13:479][276]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Character/Mesh/SK_Mannequin] ([1] browsable assets)...
+[2019.06.13-18.45.13:501][276]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin]
+[2019.06.13-18.45.13:501][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Mesh/SK_Mannequin]
+[2019.06.13-18.45.13:549][276]LogSavePackage: Moving '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/SK_Mannequin_Auto8446E94AA4FB01753A10070B908265709.tmp' to '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/Mannequin/Character/Mesh/SK_Mannequin_Auto8.uasset'
+[2019.06.13-18.45.13:550][276]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/StaticMesh] ([1] browsable assets)...
+[2019.06.13-18.45.13:569][276]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/StaticMesh.StaticMesh]
+[2019.06.13-18.45.13:569][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/StaticMesh]
+[2019.06.13-18.45.13:638][276]LogSavePackage: Moving '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/StaticMesh_Auto8EF77F1214F28E0EDB55521A8E43B43DC.tmp' to '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/Meshes/StaticMesh_Auto8.uasset'
+[2019.06.13-18.45.13:638][276]LogFileHelpers: Auto-saving content packages took 0.159
