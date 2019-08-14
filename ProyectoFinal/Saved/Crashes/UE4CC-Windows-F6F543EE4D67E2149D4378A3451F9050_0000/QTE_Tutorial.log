@@ -1,0 +1,1321 @@
+﻿Log file open, 08/14/19 07:57:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: QTE_Tutorial
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.159867
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ControlRig
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.32.0
+LogInit: Build: ++UE4+Release-4.22-CL-6063286
+LogInit: Engine Version: 4.22.1-6063286+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Apr 24 2019 04:36:48
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.14-10.57.54:105][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.14-10.57.54:105][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.14-10.57.54:105][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Engine.ini]
+[2019.08.14-10.57.54:105][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.14-10.57.54:105][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Engine.ini]
+[2019.08.14-10.57.54:105][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Engine.ini]
+[2019.08.14-10.57.54:105][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.14-10.57.54:105][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.14-10.57.54:105][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.14-10.57.54:105][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.14-10.57.54:105][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.14-10.57.54:105][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.14-10.57.54:105][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.14-10.57.54:105][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.14-10.57.54:105][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.14-10.57.54:105][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.14-10.57.54:105][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.14-10.57.54:105][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.14-10.57.54:105][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.14-10.57.54:105][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Engine.ini]
+[2019.08.14-10.57.54:105][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.14-10.57.54:105][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.14-10.57.54:105][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.14-10.57.54:105][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.14-10.57.54:105][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.14-10.57.54:105][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.14-10.57.54:105][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.14-10.57.54:105][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.14-10.57.54:105][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.14-10.57.54:105][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.14-10.57.54:105][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.14-10.57.54:105][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.14-10.57.54:105][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.14-10.57.54:105][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Engine.ini]
+[2019.08.14-10.57.54:105][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Engine.ini]
+[2019.08.14-10.57.54:110][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.14-10.57.54:111][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.14-10.57.54:112][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.14-10.57.54:112][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.14-10.57.54:161][  0]LogHAL: Display: Platform has ~ 16 GB [17009025024 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.14-10.57.54:161][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.08.14-10.57.54:162][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.14-10.57.54:163][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-10.57.54:163][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.14-10.57.54:163][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.14-10.57.54:163][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-10.57.54:163][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.14-10.57.54:163][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-10.57.54:163][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.14-10.57.54:163][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.14-10.57.54:163][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.14-10.57.54:163][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.14-10.57.54:163][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.14-10.57.54:163][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.14-10.57.54:163][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.14-10.57.54:163][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.14-10.57.54:164][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.14-10.57.54:164][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.14-10.57.54:164][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.14-10.57.54:164][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.14-10.57.54:164][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.14-10.57.54:164][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.14-10.57.54:164][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.14-10.57.54:164][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.14-10.57.54:164][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.14-10.57.54:164][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.14-10.57.54:164][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-10.57.54:164][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.14-10.57.54:164][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.14-10.57.54:164][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.14-10.57.54:164][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.14-10.57.54:164][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.14-10.57.54:164][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.14-10.57.54:164][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.14-10.57.54:164][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.14-10.57.54:164][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.14-10.57.54:164][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.14-10.57.54:164][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.14-10.57.54:164][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.14-10.57.54:165][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.14-10.57.54:165][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.14-10.57.54:165][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.14-10.57.54:165][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.14-10.57.54:165][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.14-10.57.54:165][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.14-10.57.54:165][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.14-10.57.54:165][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.14-10.57.54:165][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.14-10.57.54:165][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.14-10.57.54:165][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.14-10.57.54:165][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.14-10.57.54:165][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.14-10.57.54:165][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.14-10.57.54:165][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.14-10.57.54:165][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.14-10.57.54:165][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.14-10.57.54:165][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.14-10.57.54:165][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-10.57.54:165][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.14-10.57.54:165][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.14-10.57.54:165][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.14-10.57.54:165][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.14-10.57.54:166][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.14-10.57.54:166][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.14-10.57.54:166][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.14-10.57.54:166][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.14-10.57.54:166][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-10.57.54:166][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.14-10.57.54:166][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.14-10.57.54:166][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.14-10.57.54:166][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.14-10.57.54:166][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.14-10.57.54:166][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.14-10.57.54:166][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.14-10.57.54:166][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.14-10.57.54:166][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.14-10.57.54:166][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.14-10.57.54:166][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.14-10.57.54:166][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.14-10.57.54:166][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.14-10.57.54:166][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-10.57.54:166][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.14-10.57.54:166][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.14-10.57.54:166][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.14-10.57.54:168][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.14-10.57.54:168][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.14-10.57.54:168][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Engine.ini]
+[2019.08.14-10.57.54:170][  0]LogInit: Computer: A-PDELL18-11
+[2019.08.14-10.57.54:170][  0]LogInit: User: 43718467
+[2019.08.14-10.57.54:170][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.08.14-10.57.54:170][  0]LogInit: High frequency timer resolution =3.609370 MHz
+[2019.08.14-10.57.54:171][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.08.14-10.57.54:171][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.14-10.57.54:171][  0]LogMemory: Process Physical Memory: 100.36 MB used, 100.36 MB peak
+[2019.08.14-10.57.54:171][  0]LogMemory: Process Virtual Memory: 92.65 MB used, 92.65 MB peak
+[2019.08.14-10.57.54:171][  0]LogMemory: Physical Memory: 4807.05 MB used,  11414.02 MB free, 16221.07 MB total
+[2019.08.14-10.57.54:171][  0]LogMemory: Virtual Memory: 4688.38 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2019.08.14-10.57.54:280][  0]LogInit: Using OS detected language (es-ES).
+[2019.08.14-10.57.54:280][  0]LogInit: Using OS detected locale (es-AR).
+[2019.08.14-10.57.54:284][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2019.08.14-10.57.54:347][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.14-10.57.54:397][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.14-10.57.54:397][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.14-10.57.54:633][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.14-10.57.54:633][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.14-10.57.54:684][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2019.08.14-10.57.54:684][  0]LogD3D11RHI:       8079/0/8110 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.08.14-10.57.54:728][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.08.14-10.57.54:728][  0]LogD3D11RHI:       128/0/8110 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.08.14-10.57.54:730][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.14-10.57.54:730][  0]LogD3D11RHI:       0/0/8110 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.14-10.57.54:730][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.14-10.57.54:736][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.14-10.57.54:736][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.14-10.57.54:736][  0]LogWindows: EnumDisplayDevices:
+[2019.08.14-10.57.54:736][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2019.08.14-10.57.54:736][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.08.14-10.57.54:736][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.08.14-10.57.54:736][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.08.14-10.57.54:736][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.08.14-10.57.54:736][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.08.14-10.57.54:736][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.08.14-10.57.54:736][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.08.14-10.57.54:736][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2019.08.14-10.57.54:736][  0]LogD3D11RHI:   Driver Version: 416.34 (internal:25.21.14.1634, unified:416.34)
+[2019.08.14-10.57.54:736][  0]LogD3D11RHI:      Driver Date: 10-10-2018
+[2019.08.14-10.57.54:736][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2019.08.14-10.57.54:768][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.14-10.57.54:776][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.14-10.57.54:776][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.14-10.57.54:776][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.14-10.57.54:792][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.08.14-10.57.55:920][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.14-10.57.55:935][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.14-10.57.55:949][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.14-10.57.55:963][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.14-10.57.55:979][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.14-10.57.55:996][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.14-10.57.56:011][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.14-10.57.56:026][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.14-10.57.56:033][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.14-10.57.56:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.14-10.57.56:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.14-10.57.56:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.14-10.57.56:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.14-10.57.56:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.14-10.57.56:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.14-10.57.56:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.14-10.57.56:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.14-10.57.56:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.14-10.57.56:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.14-10.57.56:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.14-10.57.56:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.14-10.57.56:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.14-10.57.56:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.14-10.57.56:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.14-10.57.56:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.14-10.57.56:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.14-10.57.56:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.14-10.57.56:109][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.14-10.57.56:177][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.14-10.57.56:177][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.14-10.57.56:215][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.14-10.57.56:215][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.14-10.57.56:231][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.14-10.57.56:244][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.14-10.57.56:257][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.14-10.57.56:273][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.14-10.57.56:312][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.14-10.57.56:312][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.14-10.57.56:312][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.14-10.57.56:323][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.14-10.57.56:417][  0]LogShaderCompilers: Guid format shader working directory is 18 characters bigger than the processId version (Z:/Proyecto-final/ProyectoFinal/Intermediate/Shaders/WorkingDirectory/1660/).
+[2019.08.14-10.57.56:417][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/43718467/AppData/Local/Temp/UnrealShaderWorkingDir/7C5322044FB369B59E129CB21023B1A8/'.
+[2019.08.14-10.57.56:419][  0]LogXGEController: Cleaning working directory: C:/Users/43718467/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.08.14-10.57.56:419][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.14-10.57.56:420][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.14-10.57.56:420][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.14-10.57.56:990][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.14-10.57.56:990][  0]LogDerivedDataCache: Display: Starting with empty Boot cache
+[2019.08.14-10.57.56:991][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file Z:/Proyecto-final/ProyectoFinal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.14-10.57.56:991][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.14-10.57.56:992][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file Z:/Proyecto-final/ProyectoFinal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.14-10.57.56:992][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.14-10.57.57:003][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.14-10.57.57:003][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.14-10.57.57:003][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.14-10.57.57:014][  0]LogDerivedDataCache: Using Local data cache path C:/Users/43718467/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.14-10.57.57:014][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.14-10.57.57:014][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.14-10.57.57:053][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.14-10.57.57:058][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.14-10.57.57:062][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.14-10.57.57:197][  0]LogAssetRegistry: FAssetRegistry took 0.0369 seconds to start up
+[2019.08.14-10.57.57:740][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.14-10.57.57:886][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.14-10.57.57:886][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.14-10.57.57:886][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.14-10.57.57:886][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.14-10.57.57:886][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.14-10.57.58:004][  0]LogNetVersion: QTE_Tutorial 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2017145018)
+[2019.08.14-10.57.59:024][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.255439 seconds
+[2019.08.14-10.57.59:041][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.08.14-10.57.59:041][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.08.14-10.57.59:041][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.14-10.58.00:452][  0]LogMaterial: Display: Missing cached shader map for material M_Manip, compiling. 
+[2019.08.14-10.58.00:531][  0]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.14-10.58.00:531][  0]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.08.14-10.58.00:531][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.14-10.58.00:549][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.14-10.58.00:549][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/Proyecto-final/ProyectoFinal/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.08.14-10.58.00:549][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/Proyecto-final/ProyectoFinal/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.08.14-10.58.00:709][  0]SourceControl: El control de código fuente está desactivado
+[2019.08.14-10.58.00:709][  0]SourceControl: El control de código fuente está desactivado
+[2019.08.14-10.58.00:721][  0]SourceControl: El control de código fuente está desactivado
+[2019.08.14-10.58.00:727][  0]SourceControl: El control de código fuente está desactivado
+[2019.08.14-10.58.00:923][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.14-10.58.01:015][  0]LogOcInput: OculusInput pre-init called
+[2019.08.14-10.58.01:830][  0]LogEngine: Initializing Engine...
+[2019.08.14-10.58.01:832][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.14-10.58.01:834][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2019.08.14-10.58.02:158][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.14-10.58.02:197][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.14-10.58.02:217][  0]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.14-10.58.02:295][  0]LogInit: FAudioDevice initialized.
+[2019.08.14-10.58.02:296][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.14-10.58.02:332][  0]LogDerivedDataCache: Saved boot cache 0.04s 73MB C:/Users/43718467/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.14-10.58.02:339][  0]LogInit: Texture streaming: Enabled
+[2019.08.14-10.58.02:360][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.14-10.58.02:428][  0]LogInit: Transaction tracking system initialized
+[2019.08.14-10.58.02:487][  0]BlueprintLog: New page: Cargar el editor
+[2019.08.14-10.58.02:703][  0]LocalizationService: Localization service is disabled
+[2019.08.14-10.58.03:083][  0]LogFileCache: Scanning file cache for directory 'Z:/Proyecto-final/ProyectoFinal/Content/' took 0.02s
+[2019.08.14-10.58.03:083][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.14-10.58.03:083][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.14-10.58.03:159][  0]LogTexture: Display: Building textures: T_Traj (AutoDXT, 64X64)
+[2019.08.14-10.58.03:159][  0]LogMaterial: Display: Missing cached shader map for material M_Traj, compiling. 
+[2019.08.14-10.58.03:699][  0]SourceControl: El control de código fuente está desactivado
+[2019.08.14-10.58.03:706][  0]Cmd: MAP LOAD FILE="Z:/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.14-10.58.03:711][  0]LightingResults: New page: Diseñar la iluminación
+[2019.08.14-10.58.03:773][  0]MapCheck: New page: Revisión del mapa
+[2019.08.14-10.58.03:773][  0]LightingResults: New page: Diseñar la iluminación
+[2019.08.14-10.58.03:813][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.08.14-10.58.07:756][  0]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2019.08.14-10.58.07:756][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2019.08.14-10.58.07:756][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2019.08.14-10.58.07:756][  0]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 64X32)
+[2019.08.14-10.58.07:756][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2019.08.14-10.58.07:756][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2019.08.14-10.58.07:756][  0]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 512X256)
+[2019.08.14-10.58.07:756][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2019.08.14-10.58.07:756][  0]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2019.08.14-10.58.07:756][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.08.14-10.58.07:756][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.08.14-10.58.07:756][  0]LogStaticMesh: Generando la malla estática Floor_400x400...
+[2019.08.14-10.58.07:760][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2019.08.14-10.58.07:765][  0]LogMaterial: Display: Missing cached shader map for material T_Wood_Oak_Mat, compiling. 
+[2019.08.14-10.58.07:807][  0]LogMaterial: Display: Missing cached shader map for material T_Concrete_Tiles_Mat, compiling. 
+[2019.08.14-10.58.07:857][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_Stand_Relaxed_Death_B_IPC.MOB1_Stand_Relaxed_Death_B_IPC
+[2019.08.14-10.58.07:858][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_Stand_Relaxed_Death_B_IPC.MOB1_Stand_Relaxed_Death_B_IPC) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-10.58.07:863][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/Choking.Choking
+[2019.08.14-10.58.07:863][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/Choking.Choking) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-10.58.07:869][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/Maniobra.Maniobra
+[2019.08.14-10.58.07:869][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/Maniobra.Maniobra) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-10.58.07:925][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/RCP.RCP
+[2019.08.14-10.58.07:925][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/RCP.RCP) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-10.58.07:941][  0]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.08.14-10.58.08:009][  0]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.08.14-10.58.08:024][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.14-10.58.08:061][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.14-10.58.08:097][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.08.14-10.58.08:098][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.14-10.58.08:098][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,404ms to complete.
+[2019.08.14-10.58.08:098][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 4.402
+[2019.08.14-10.58.08:247][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-10.58.08:257][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-10.58.08:265][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-10.58.08:273][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-10.58.08:288][  0]LogCollectionManager: Loaded 0 collections in 0.003354 seconds
+[2019.08.14-10.58.08:329][  0]LogFileCache: Scanning file cache for directory 'Z:/Proyecto-final/ProyectoFinal/Saved/Collections/' took 0.01s
+[2019.08.14-10.58.08:329][  0]LogFileCache: Scanning file cache for directory 'Z:/Proyecto-final/ProyectoFinal/Content/Developers/43718467/Collections/' took 0.01s
+[2019.08.14-10.58.08:329][  0]LogFileCache: Scanning file cache for directory 'Z:/Proyecto-final/ProyectoFinal/Content/Collections/' took 0.00s
+[2019.08.14-10.58.08:329][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.08.14-10.58.08:343][  0]LogContentBrowser: Native class hierarchy populated in 0.0124 seconds. Added 2762 classes and 676 folders.
+[2019.08.14-10.58.08:357][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0020 seconds. Added 0 classes and 0 folders.
+[2019.08.14-10.58.08:362][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-10.58.08:365][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-10.58.08:366][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-10.58.08:367][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-10.58.08:368][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-10.58.08:369][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-10.58.08:370][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-10.58.08:372][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-10.58.08:373][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-10.58.08:374][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-10.58.08:375][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-10.58.08:376][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-10.58.08:377][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-10.58.08:379][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-10.58.08:380][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-10.58.08:381][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-10.58.08:382][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-10.58.08:384][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-10.58.08:385][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-10.58.08:386][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-10.58.08:387][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-10.58.08:388][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-10.58.08:389][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-10.58.08:390][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-10.58.08:391][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-10.58.08:393][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-10.58.08:462][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0020 seconds. Added 0 classes and 0 folders.
+[2019.08.14-10.58.08:477][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0024 seconds. Added 1 classes and 2 folders.
+[2019.08.14-10.58.08:538][  0]LogSlate: Took 0.000926 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.14-10.58.08:541][  0]LogSlate: Took 0.000845 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.14-10.58.08:549][  0]LogSlate: Took 0.000764 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.14-10.58.08:626][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.08.14-10.58.08:825][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.14-10.58.08:841][  0]LogSlate: Window 'Tutoriales' being destroyed
+[2019.08.14-10.58.08:876][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0021 seconds. Added 0 classes and 0 folders.
+[2019.08.14-10.58.08:876][  0]LogLoad: (Engine Initialization) Total time: 20.98 seconds
+[2019.08.14-10.58.08:876][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.14-10.58.08:987][  0]LogAssetRegistry: Asset discovery search completed in 11.8329 seconds
+[2019.08.14-10.58.08:990][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.14-10.58.08:990][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000062 seconds (updated 0 objects)
+[2019.08.14-10.58.08:993][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.14-10.58.09:038][  0]LogSlate: Took 0.000639 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.14-10.58.09:070][  1]LogFileCache: Retrieving MD5 hashes for directory 'Z:/Proyecto-final/ProyectoFinal/Content/' took 0.16s
+[2019.08.14-10.58.09:099][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/Proyecto-final/ProyectoFinal/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.08.14-10.58.09:099][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/Proyecto-final/ProyectoFinal/Content/', and we were unable to create a new request.
+[2019.08.14-10.58.09:099][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/Proyecto-final/ProyectoFinal/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.08.14-10.58.09:099][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/Proyecto-final/ProyectoFinal/Content/', and we were unable to create a new request.
+[2019.08.14-10.58.09:099][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/Proyecto-final/ProyectoFinal/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.08.14-10.58.09:100][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/Proyecto-final/ProyectoFinal/Content/Developers/43718467/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.08.14-10.58.09:100][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/Proyecto-final/ProyectoFinal/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.08.14-10.58.09:134][  2]LogDirectoryWatcher: A directory notification failed for 'Z:/Proyecto-final/ProyectoFinal/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.08.14-10.58.09:135][  2]LogDirectoryWatcher: A directory notification failed for 'Z:/Proyecto-final/ProyectoFinal/Saved/Collections/', and we were unable to create a new request.
+[2019.08.14-10.58.09:135][  2]LogDirectoryWatcher: A directory notification failed for 'Z:/Proyecto-final/ProyectoFinal/Content/Developers/43718467/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.08.14-10.58.09:136][  2]LogDirectoryWatcher: A directory notification failed for 'Z:/Proyecto-final/ProyectoFinal/Content/Developers/43718467/Collections/', and we were unable to create a new request.
+[2019.08.14-10.58.09:136][  2]LogDirectoryWatcher: A directory notification failed for 'Z:/Proyecto-final/ProyectoFinal/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.08.14-10.58.09:138][  2]LogDirectoryWatcher: A directory notification failed for 'Z:/Proyecto-final/ProyectoFinal/Content/Collections/', and we were unable to create a new request.
+[2019.08.14-10.58.28:893][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.14-10.58.39:630][747]LogMaterial: Display: Missing cached shader map for material Material_020, compiling. 
+[2019.08.14-10.58.39:645][747]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2019.08.14-10.58.39:660][747]LogMaterial: Display: Missing cached shader map for material Material_002, compiling. 
+[2019.08.14-10.58.39:680][747]LogMaterial: Display: Missing cached shader map for material Material_003, compiling. 
+[2019.08.14-10.58.39:699][747]LogMaterial: Display: Missing cached shader map for material Material_004, compiling. 
+[2019.08.14-10.58.39:716][747]LogMaterial: Display: Missing cached shader map for material Material_005, compiling. 
+[2019.08.14-10.58.39:732][747]LogMaterial: Display: Missing cached shader map for material Material_006, compiling. 
+[2019.08.14-10.58.39:746][747]LogMaterial: Display: Missing cached shader map for material Material_007, compiling. 
+[2019.08.14-10.58.39:761][747]LogMaterial: Display: Missing cached shader map for material Material_008, compiling. 
+[2019.08.14-10.58.39:776][747]LogMaterial: Display: Missing cached shader map for material Material_009, compiling. 
+[2019.08.14-10.58.39:796][747]LogMaterial: Display: Missing cached shader map for material Material_010, compiling. 
+[2019.08.14-10.58.39:814][747]LogMaterial: Display: Missing cached shader map for material Material_011, compiling. 
+[2019.08.14-10.58.39:832][747]LogMaterial: Display: Missing cached shader map for material Material_012, compiling. 
+[2019.08.14-10.58.39:850][747]LogMaterial: Display: Missing cached shader map for material Material_013, compiling. 
+[2019.08.14-10.58.39:869][747]LogMaterial: Display: Missing cached shader map for material Material_014, compiling. 
+[2019.08.14-10.58.39:888][747]LogMaterial: Display: Missing cached shader map for material Material_015, compiling. 
+[2019.08.14-10.58.39:908][747]LogMaterial: Display: Missing cached shader map for material Material_016, compiling. 
+[2019.08.14-10.58.39:928][747]LogMaterial: Display: Missing cached shader map for material Material_017, compiling. 
+[2019.08.14-10.58.39:948][747]LogMaterial: Display: Missing cached shader map for material Material_018, compiling. 
+[2019.08.14-10.58.39:969][747]LogMaterial: Display: Missing cached shader map for material Material_019, compiling. 
+[2019.08.14-10.58.41:965][932]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.14-10.58.43:125][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Materials/Material_020" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_020.uasset" SILENT=true
+[2019.08.14-10.58.43:159][932]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/Material_020BE8B1C6E4C8E16E391F08283421DFED7.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_020.uasset'
+[2019.08.14-10.58.43:201][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Materials/Material_001" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_001.uasset" SILENT=true
+[2019.08.14-10.58.43:238][932]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/Material_001D9568C88418B5D4506E409A7DDDB48F2.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_001.uasset'
+[2019.08.14-10.58.43:272][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Materials/Material_002" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_002.uasset" SILENT=true
+[2019.08.14-10.58.43:329][932]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/Material_0023363AEE14D56D9A05D0FCB8DE99ADC09.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_002.uasset'
+[2019.08.14-10.58.43:705][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Materials/Material_003" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_003.uasset" SILENT=true
+[2019.08.14-10.58.43:742][932]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/Material_003BEA3547045908B4495EAF5AD9629DD82.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_003.uasset'
+[2019.08.14-10.58.44:352][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Materials/Material_004" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_004.uasset" SILENT=true
+[2019.08.14-10.58.44:391][932]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/Material_004FAFF9D494C13D26ACAE0D4A18246BD97.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_004.uasset'
+[2019.08.14-10.58.45:469][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Materials/Material_005" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_005.uasset" SILENT=true
+[2019.08.14-10.58.45:506][932]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/Material_0058CC9A34E42CB273A74CBDEA35827CBF5.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_005.uasset'
+[2019.08.14-10.58.45:862][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Materials/Material_006" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_006.uasset" SILENT=true
+[2019.08.14-10.58.45:900][932]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/Material_006FEE5C4474D678280194351A17348ED62.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_006.uasset'
+[2019.08.14-10.58.46:636][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Materials/Material_007" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_007.uasset" SILENT=true
+[2019.08.14-10.58.46:674][932]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/Material_00766C31D66414BCF0885AB7E8B6248E322.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_007.uasset'
+[2019.08.14-10.58.47:030][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Materials/Material_008" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_008.uasset" SILENT=true
+[2019.08.14-10.58.47:072][932]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/Material_0086F43AD4649ABA65B259EC3B0C2B8A260.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_008.uasset'
+[2019.08.14-10.58.47:440][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Materials/Material_009" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_009.uasset" SILENT=true
+[2019.08.14-10.58.47:478][932]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/Material_009A78E5DD14F55A7C3FDC9E9BC8BCB1D02.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_009.uasset'
+[2019.08.14-10.58.47:880][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Materials/Material_010" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_010.uasset" SILENT=true
+[2019.08.14-10.58.47:922][932]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/Material_010A028C22049ADC32BBC0BE09D0CCFE56A.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_010.uasset'
+[2019.08.14-10.58.48:957][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Materials/Material_011" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_011.uasset" SILENT=true
+[2019.08.14-10.58.48:993][932]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/Material_011E5D224404D581BB35C0286B313D749BD.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_011.uasset'
+[2019.08.14-10.58.49:989][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Materials/Material_012" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_012.uasset" SILENT=true
+[2019.08.14-10.58.50:026][932]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/Material_01230367B2A402368FA4495B185F27D257E.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_012.uasset'
+[2019.08.14-10.58.50:312][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Materials/Material_013" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_013.uasset" SILENT=true
+[2019.08.14-10.58.50:346][932]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/Material_013D35F945F463E474689AD0EAC58DC8A85.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_013.uasset'
+[2019.08.14-10.58.50:385][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Materials/Material_014" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_014.uasset" SILENT=true
+[2019.08.14-10.58.50:422][932]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/Material_014B708B00647A9FD1A33C2B088768E62B5.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_014.uasset'
+[2019.08.14-10.58.51:085][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Materials/Material_015" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_015.uasset" SILENT=true
+[2019.08.14-10.58.51:124][932]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/Material_015C92452A44112CD37437B228ECECC251C.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_015.uasset'
+[2019.08.14-10.58.52:332][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Materials/Material_016" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_016.uasset" SILENT=true
+[2019.08.14-10.58.52:366][932]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/Material_01635197B4644913B9D9171549DE62EFBA8.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_016.uasset'
+[2019.08.14-10.58.52:804][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Materials/Material_017" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_017.uasset" SILENT=true
+[2019.08.14-10.58.52:837][932]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/Material_017D4C02C5A47A3C820138C1EBB5ED5796C.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_017.uasset'
+[2019.08.14-10.58.52:867][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Materials/Material_018" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_018.uasset" SILENT=true
+[2019.08.14-10.58.52:900][932]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/Material_018FCF9510E417131B09443ABB93D221637.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_018.uasset'
+[2019.08.14-10.58.52:985][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Materials/Material_019" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_019.uasset" SILENT=true
+[2019.08.14-10.58.53:022][932]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/Material_019CD74E69B497BE1C169E61C92B283E6BD.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Materials/Material_019.uasset'
+[2019.08.14-10.58.53:867][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.08.14-10.58.53:888][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2019.08.14-10.58.53:909][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.08.14-10.58.53:933][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-10.58.53:954][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.08.14-10.58.53:976][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.08.14-10.58.53:997][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-10.58.54:019][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.08.14-10.58.54:039][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.14-10.58.54:061][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2019.08.14-10.58.54:082][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-10.58.54:104][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-10.58.54:126][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-10.58.54:149][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-10.58.54:171][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-10.58.54:193][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-10.58.54:215][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.14-10.58.54:236][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-10.58.54:258][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-10.58.54:279][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.14-10.58.54:305][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.08.14-10.58.54:327][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-10.58.56:402][153]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.SK_Mannequin_PhysicsAsset
+[2019.08.14-10.58.56:424][153]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0016 seconds. Added 7 classes and 3 folders.
+[2019.08.14-10.58.56:434][153]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2019.08.14-10.58.56:630][153]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2019.08.14-10.58.56:640][153]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0015 seconds. Added 1 classes and 0 folders.
+[2019.08.14-10.58.56:970][153]LogSlate: Took 0.000854 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.14-10.59.06:785][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.14-10.59.15:821][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.14-10.59.15:874][887]LogSlate: Window 'SK_Mannequin_PhysicsAsset' being destroyed
+[2019.08.14-10.59.15:881][887]LogSlate: Window 'SK_Mannequin_PhysicsAsset' being destroyed
+[2019.08.14-10.59.17:404][ 48]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.SK_Mannequin_PhysicsAsset
+[2019.08.14-10.59.17:411][ 48]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2019.08.14-10.59.19:208][197]LogSlate: Window 'SK_Mannequin_PhysicsAsset' being destroyed
+[2019.08.14-10.59.19:220][197]LogSlate: Window 'SK_Mannequin_PhysicsAsset' being destroyed
+[2019.08.14-10.59.23:477][689]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2019.08.14-10.59.23:491][689]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.14-10.59.23:523][689]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.14-10.59.52:759][ 13]LogRenderer: Reallocating scene render targets to support 1208x884 Format 10 NumSamples 1 (Frame:3364).
+[2019.08.14-11.00.07:520][725]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.14-11.00.17:618][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.14-11.00.59:014][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.14-11.00.59:089][672]LogSlate: Window 'UE4_Mannequin_Skeleton' being destroyed
+[2019.08.14-11.00.59:092][672]LogSlate: Window 'UE4_Mannequin_Skeleton' being destroyed
+[2019.08.14-11.01.00:345][803]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Mannequin_PhysicsAsset)
+[2019.08.14-11.01.07:765][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.14-11.01.34:032][532]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2019.08.14-11.01.34:766][532]LogTexture: Display: Building textures: UE4Man_Logo_N (BC5, 512X512)
+[2019.08.14-11.01.34:766][532]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_N (BC5, 512X512)
+[2019.08.14-11.01.34:766][532]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_D (DXT1, 512X512)
+[2019.08.14-11.01.34:766][532]LogTexture: Display: Building textures: T_ML_Aluminum01_N (BC5, 512X512)
+[2019.08.14-11.01.34:766][532]LogTexture: Display: Building textures: UE4_Mannequin_occlusion_Mobile (DXT1, 512X512)
+[2019.08.14-11.01.34:766][532]LogTexture: Display: Building textures: UE4_Mannequin_MAT_MASKA (AutoDXT, 1024X1024)
+[2019.08.14-11.01.34:766][532]LogTexture: Display: Building textures: T_ML_Aluminum01 (DXT1, 512X512)
+[2019.08.14-11.01.34:766][532]LogTexture: Display: Building textures: UE4_Mannequin__normals (BC5, 2048X2048)
+[2019.08.14-11.01.34:766][532]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.08.14-11.01.34:816][532]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.08.14-11.01.34:878][532]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.08.14-11.01.34:926][532]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2019.08.14-11.01.34:941][532]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.14-11.01.34:983][532]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.14-11.01.36:681][585]LogShaderCompilers: Display: Shaders left to compile 170
+[2019.08.14-11.01.36:689][586]LogShaderCompilers: Display: Shaders left to compile 160
+[2019.08.14-11.01.36:751][588]LogShaderCompilers: Display: Shaders left to compile 150
+[2019.08.14-11.01.36:920][598]LogShaderCompilers: Display: Shaders left to compile 140
+[2019.08.14-11.01.36:936][599]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.08.14-11.01.37:281][620]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.08.14-11.01.38:158][671]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.08.14-11.01.38:255][674]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.08.14-11.01.38:432][683]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.08.14-11.01.38:615][694]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.08.14-11.01.38:987][716]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.08.14-11.01.39:130][724]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.08.14-11.01.39:159][726]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.08.14-11.01.40:152][780]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.08.14-11.01.40:152][780]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.08.14-11.01.40:380][791]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.14-11.01.40:910][820]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.08.14-11.01.55:129][196]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.14-11.01.57:702][428]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aim_Space_Ironsights.Aim_Space_Ironsights
+[2019.08.14-11.01.57:702][428]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Aim_Space_Ironsights.Aim_Space_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.04:825][207]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_1.Death_1
+[2019.08.14-11.02.04:825][207]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Death_1.Death_1) using current/default (AnimCompress_BitwiseCompressOnly_14) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.13:092][134]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Rt_Rifle_Ironsights.Walk_Rt_Rifle_Ironsights
+[2019.08.14-11.02.13:092][134]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Walk_Rt_Rifle_Ironsights.Walk_Rt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_61) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.24:150][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.14-11.02.24:208][353]LogSlate: Window 'UE4_Mannequin_Skeleton' being destroyed
+[2019.08.14-11.02.24:211][353]LogSlate: Window 'UE4_Mannequin_Skeleton' being destroyed
+[2019.08.14-11.02.41:227][319]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.14-11.02.41:264][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aim_Space_Hip.Aim_Space_Hip
+[2019.08.14-11.02.41:264][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Aim_Space_Hip.Aim_Space_Hip) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:385][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip
+[2019.08.14-11.02.41:385][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_12) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:386][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip
+[2019.08.14-11.02.41:386][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:387][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip
+[2019.08.14-11.02.41:387][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:388][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip
+[2019.08.14-11.02.41:388][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_10) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:464][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2019.08.14-11.02.41:464][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jog_Fwd_Rifle.Jog_Fwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_35) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:464][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Bwd_Rifle.Jog_Bwd_Rifle
+[2019.08.14-11.02.41:464][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jog_Bwd_Rifle.Jog_Bwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_34) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:465][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2019.08.14-11.02.41:465][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jog_Lt_Rifle.Jog_Lt_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:466][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Rt_Rifle.Jog_Rt_Rifle
+[2019.08.14-11.02.41:466][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jog_Rt_Rifle.Jog_Rt_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_37) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:512][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip
+[2019.08.14-11.02.41:512][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:537][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.Crouch_Idle_Rifle_Ironsights
+[2019.08.14-11.02.41:537][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.Crouch_Idle_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:562][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.Crouch_to_Stand_Rifle_Hip
+[2019.08.14-11.02.41:562][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.Crouch_to_Stand_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:580][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.Crouch_to_Stand_Rifle_Ironsights
+[2019.08.14-11.02.41:580][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.Crouch_to_Stand_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:602][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.Crouch_Walk_Bwd_Rifle_Ironsights
+[2019.08.14-11.02.41:602][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.Crouch_Walk_Bwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_7) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:633][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.Crouch_Walk_Fwd_Rifle_Ironsights
+[2019.08.14-11.02.41:633][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.Crouch_Walk_Fwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_9) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:653][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.Crouch_Walk_Lt_Rifle_Ironsights
+[2019.08.14-11.02.41:653][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.Crouch_Walk_Lt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_11) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:670][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights
+[2019.08.14-11.02.41:670][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_13) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:681][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_2.Death_2
+[2019.08.14-11.02.41:681][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Death_2.Death_2) using current/default (AnimCompress_BitwiseCompressOnly_15) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:692][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_3.Death_3
+[2019.08.14-11.02.41:692][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Death_3.Death_3) using current/default (AnimCompress_BitwiseCompressOnly_16) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:702][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_Ironsights_1.Death_Ironsights_1
+[2019.08.14-11.02.41:702][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Death_Ironsights_1.Death_Ironsights_1) using current/default (AnimCompress_BitwiseCompressOnly_17) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:712][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_Ironsights_2.Death_Ironsights_2
+[2019.08.14-11.02.41:712][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Death_Ironsights_2.Death_Ironsights_2) using current/default (AnimCompress_BitwiseCompressOnly_18) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:721][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Equip_Pistol_Standing.Equip_Pistol_Standing
+[2019.08.14-11.02.41:722][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Equip_Pistol_Standing.Equip_Pistol_Standing) using current/default (AnimCompress_BitwiseCompressOnly_19) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:732][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Equip_Rifle_Standing.Equip_Rifle_Standing
+[2019.08.14-11.02.41:732][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Equip_Rifle_Standing.Equip_Rifle_Standing) using current/default (AnimCompress_BitwiseCompressOnly_20) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:742][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Rifle_Hip.Fire_Rifle_Hip
+[2019.08.14-11.02.41:742][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Fire_Rifle_Hip.Fire_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_21) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:762][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Rifle_Ironsights.Fire_Rifle_Ironsights
+[2019.08.14-11.02.41:762][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Fire_Rifle_Ironsights.Fire_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_22) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:770][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Hip.Fire_Shotgun_Hip
+[2019.08.14-11.02.41:770][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Hip.Fire_Shotgun_Hip) using current/default (AnimCompress_BitwiseCompressOnly_23) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:779][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Ironsights.Fire_Shotgun_Ironsights
+[2019.08.14-11.02.41:779][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Ironsights.Fire_Shotgun_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_24) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:787][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_1.Hit_React_1
+[2019.08.14-11.02.41:787][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Hit_React_1.Hit_React_1) using current/default (AnimCompress_BitwiseCompressOnly_25) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:797][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_2.Hit_React_2
+[2019.08.14-11.02.41:797][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Hit_React_2.Hit_React_2) using current/default (AnimCompress_BitwiseCompressOnly_26) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:805][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_3.Hit_React_3
+[2019.08.14-11.02.41:806][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Hit_React_3.Hit_React_3) using current/default (AnimCompress_BitwiseCompressOnly_27) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:814][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_4.Hit_React_4
+[2019.08.14-11.02.41:814][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Hit_React_4.Hit_React_4) using current/default (AnimCompress_BitwiseCompressOnly_28) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:823][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Pistol.Idle_Pistol
+[2019.08.14-11.02.41:824][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Idle_Pistol.Idle_Pistol) using current/default (AnimCompress_BitwiseCompressOnly_29) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:836][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip.Idle_Rifle_Hip
+[2019.08.14-11.02.41:836][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip.Idle_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_30) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:848][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip_Break1.Idle_Rifle_Hip_Break1
+[2019.08.14-11.02.41:848][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip_Break1.Idle_Rifle_Hip_Break1) using current/default (AnimCompress_BitwiseCompressOnly_31) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:860][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip_Break2.Idle_Rifle_Hip_Break2
+[2019.08.14-11.02.41:860][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip_Break2.Idle_Rifle_Hip_Break2) using current/default (AnimCompress_BitwiseCompressOnly_32) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:872][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Ironsights.Idle_Rifle_Ironsights
+[2019.08.14-11.02.41:872][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Idle_Rifle_Ironsights.Idle_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_33) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:883][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Jog.Jump_From_Jog
+[2019.08.14-11.02.41:883][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jump_From_Jog.Jump_From_Jog) using current/default (AnimCompress_BitwiseCompressOnly_38) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:891][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Stand.Jump_From_Stand
+[2019.08.14-11.02.41:891][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jump_From_Stand.Jump_From_Stand) using current/default (AnimCompress_BitwiseCompressOnly_39) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:899][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Stand_Ironsights.Jump_From_Stand_Ironsights
+[2019.08.14-11.02.41:899][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Jump_From_Stand_Ironsights.Jump_From_Stand_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_40) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:915][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Death_1.Prone_Death_1
+[2019.08.14-11.02.41:915][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Prone_Death_1.Prone_Death_1) using current/default (AnimCompress_BitwiseCompressOnly_41) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:924][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Death_2.Prone_Death_2
+[2019.08.14-11.02.41:924][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Prone_Death_2.Prone_Death_2) using current/default (AnimCompress_BitwiseCompressOnly_42) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:939][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Fire_1.Prone_Fire_1
+[2019.08.14-11.02.41:939][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Prone_Fire_1.Prone_Fire_1) using current/default (AnimCompress_BitwiseCompressOnly_43) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:948][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Fire_2.Prone_Fire_2
+[2019.08.14-11.02.41:948][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Prone_Fire_2.Prone_Fire_2) using current/default (AnimCompress_BitwiseCompressOnly_44) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:957][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Idle.Prone_Idle
+[2019.08.14-11.02.41:957][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Prone_Idle.Prone_Idle) using current/default (AnimCompress_BitwiseCompressOnly_45) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:974][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Reload_Rifle.Prone_Reload_Rifle
+[2019.08.14-11.02.41:974][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Prone_Reload_Rifle.Prone_Reload_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_46) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:985][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Reload_Shotgun.Prone_Reload_Shotgun
+[2019.08.14-11.02.41:985][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Prone_Reload_Shotgun.Prone_Reload_Shotgun) using current/default (AnimCompress_BitwiseCompressOnly_47) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.41:996][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_To_Stand.Prone_To_Stand
+[2019.08.14-11.02.41:996][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Prone_To_Stand.Prone_To_Stand) using current/default (AnimCompress_BitwiseCompressOnly_48) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.42:005][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Pistol.Reload_Pistol
+[2019.08.14-11.02.42:005][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Reload_Pistol.Reload_Pistol) using current/default (AnimCompress_BitwiseCompressOnly_49) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.42:015][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Rifle_Hip.Reload_Rifle_Hip
+[2019.08.14-11.02.42:016][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Reload_Rifle_Hip.Reload_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_50) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.42:025][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Rifle_Ironsights.Reload_Rifle_Ironsights
+[2019.08.14-11.02.42:025][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Reload_Rifle_Ironsights.Reload_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_51) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.42:035][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Hip.Reload_Shotgun_Hip
+[2019.08.14-11.02.42:035][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Hip.Reload_Shotgun_Hip) using current/default (AnimCompress_BitwiseCompressOnly_52) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.42:049][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Ironsights.Reload_Shotgun_Ironsights
+[2019.08.14-11.02.42:049][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Ironsights.Reload_Shotgun_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_53) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.42:148][319]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2019.08.14-11.02.42:148][319]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2019.08.14-11.02.42:148][319]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2019.08.14-11.02.42:148][319]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2019.08.14-11.02.42:148][319]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 64X32)
+[2019.08.14-11.02.42:148][319]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2019.08.14-11.02.42:148][319]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2019.08.14-11.02.42:148][319]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 512X256)
+[2019.08.14-11.02.42:148][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.Walk_Fwd_Rifle_Ironsights
+[2019.08.14-11.02.42:148][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.Walk_Fwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_59) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.42:155][319]LogAIModule: Creating AISystem for world Showcase
+[2019.08.14-11.02.42:155][319]LogActorComponent: RegisterComponentWithWorld: (/Game/AnimStarterPack/Showcase.Showcase:PersistentLevel.WorldSettings.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.08.14-11.02.42:168][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Sprint_Fwd_Rifle.Sprint_Fwd_Rifle
+[2019.08.14-11.02.42:168][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Sprint_Fwd_Rifle.Sprint_Fwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_54) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.42:178][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.Stand_to_Crouch_Rifle_Hip
+[2019.08.14-11.02.42:178][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.Stand_to_Crouch_Rifle_Hip) using current/default (AnimCompress_BitwiseCompressOnly_55) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.42:187][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.Stand_to_Crouch_Rifle_Ironsights
+[2019.08.14-11.02.42:187][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.Stand_to_Crouch_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_56) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.42:196][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_To_Prone.Stand_To_Prone
+[2019.08.14-11.02.42:196][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Stand_To_Prone.Stand_To_Prone) using current/default (AnimCompress_BitwiseCompressOnly_57) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.42:285][319]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2019.08.14-11.02.42:292][319]LogBlueprint: Warning: [Compiler Ue4ASP_Character] [0294,81] Compile of Ue4ASP_Character successful, but with 1 Warning(s) [in 28 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2019.08.14-11.02.42:337][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.Walk_Bwd_Rifle_Ironsights
+[2019.08.14-11.02.42:337][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.Walk_Bwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_58) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.42:348][319]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Lt_Rifle_Ironsights.Walk_Lt_Rifle_Ironsights
+[2019.08.14-11.02.42:348][319]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Walk_Lt_Rifle_Ironsights.Walk_Lt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_60) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.02.42:376][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.08.14-11.02.55:335][319]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.14-11.02.55:339][319]LogUObjectGlobals: Force Deleting 85 Package(s):
+	Asset Name: /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+	Asset Name: /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.SK_Mannequin_PhysicsAsset
+	Asset Name: /Game/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.M_UE4Man_ChestLogo
+	Asset Name: /Game/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.UE4Man_Logo_N
+	Asset Name: /Game/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.M_UE4Man_Body
+	Asset Name: /Game/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.UE4_Mannequin_occlusion_Mobile
+	Asset Name: /Game/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.UE4_Mannequin_MAT_MASKA
+	Asset Name: /Game/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.UE4_Mannequin__normals
+	Asset Name: /Game/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4
+	Asset Name: /Game/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N
+[2019.08.14-11.02.59:161][319]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.08.14-11.02.59:162][319]LogMaterial: Warning: Z:\Proyecto-final\ProyectoFinal\Content\AnimStarterPack\UE4_Mannequin\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.08.14-11.02.59:162][319]LogMaterial: 	Missing Material Function
+[2019.08.14-11.02.59:162][319]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.08.14-11.02.59:162][319]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.08.14-11.02.59:162][319]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.08.14-11.02.59:162][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.08.14-11.02.59:162][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.08.14-11.02.59:162][319]LogMaterial: 	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.08.14-11.02.59:162][319]LogMaterial: 	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property Specular
+[2019.08.14-11.02.59:162][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.08.14-11.02.59:165][319]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.08.14-11.02.59:166][319]LogMaterial: Warning: Z:\Proyecto-final\ProyectoFinal\Content\AnimStarterPack\UE4_Mannequin\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.08.14-11.02.59:166][319]LogMaterial: 	Missing Material Function
+[2019.08.14-11.02.59:166][319]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.08.14-11.02.59:166][319]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.08.14-11.02.59:166][319]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.08.14-11.02.59:166][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.08.14-11.02.59:166][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.08.14-11.02.59:166][319]LogMaterial: 	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.08.14-11.02.59:166][319]LogMaterial: 	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property Specular
+[2019.08.14-11.02.59:166][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.08.14-11.02.59:168][319]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.08.14-11.02.59:169][319]LogMaterial: Warning: Z:\Proyecto-final\ProyectoFinal\Content\AnimStarterPack\UE4_Mannequin\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.08.14-11.02.59:169][319]LogMaterial: 	Missing Material Function
+[2019.08.14-11.02.59:169][319]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.08.14-11.02.59:169][319]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.08.14-11.02.59:169][319]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.08.14-11.02.59:169][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.08.14-11.02.59:169][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.08.14-11.02.59:169][319]LogMaterial: 	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.08.14-11.02.59:169][319]LogMaterial: 	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property Specular
+[2019.08.14-11.02.59:169][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.08.14-11.02.59:171][319]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.08.14-11.02.59:172][319]LogMaterial: Warning: Z:\Proyecto-final\ProyectoFinal\Content\AnimStarterPack\UE4_Mannequin\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.08.14-11.02.59:172][319]LogMaterial: 	Missing Material Function
+[2019.08.14-11.02.59:172][319]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.08.14-11.02.59:172][319]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.08.14-11.02.59:172][319]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.08.14-11.02.59:172][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.08.14-11.02.59:172][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.08.14-11.02.59:173][319]LogMaterial: 	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.08.14-11.02.59:173][319]LogMaterial: 	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property Specular
+[2019.08.14-11.02.59:173][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.08.14-11.02.59:175][319]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.08.14-11.02.59:176][319]LogMaterial: Warning: Z:\Proyecto-final\ProyectoFinal\Content\AnimStarterPack\UE4_Mannequin\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.08.14-11.02.59:176][319]LogMaterial: 	Missing Material Function
+[2019.08.14-11.02.59:176][319]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.08.14-11.02.59:176][319]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.08.14-11.02.59:176][319]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.08.14-11.02.59:176][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.08.14-11.02.59:176][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.08.14-11.02.59:176][319]LogMaterial: 	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.08.14-11.02.59:176][319]LogMaterial: 	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property Specular
+[2019.08.14-11.02.59:176][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.08.14-11.02.59:178][319]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.08.14-11.02.59:179][319]LogMaterial: Warning: Z:\Proyecto-final\ProyectoFinal\Content\AnimStarterPack\UE4_Mannequin\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.08.14-11.02.59:179][319]LogMaterial: 	Missing Material Function
+[2019.08.14-11.02.59:179][319]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.08.14-11.02.59:179][319]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.08.14-11.02.59:179][319]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.08.14-11.02.59:179][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.08.14-11.02.59:179][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.08.14-11.02.59:179][319]LogMaterial: 	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.08.14-11.02.59:179][319]LogMaterial: 	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property Specular
+[2019.08.14-11.02.59:179][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.08.14-11.02.59:181][319]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.08.14-11.02.59:182][319]LogMaterial: Warning: Z:\Proyecto-final\ProyectoFinal\Content\AnimStarterPack\UE4_Mannequin\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.08.14-11.02.59:182][319]LogMaterial: 	Missing Material Function
+[2019.08.14-11.02.59:182][319]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.08.14-11.02.59:182][319]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.08.14-11.02.59:182][319]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.08.14-11.02.59:182][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.08.14-11.02.59:183][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.08.14-11.02.59:183][319]LogMaterial: 	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.08.14-11.02.59:183][319]LogMaterial: 	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property Specular
+[2019.08.14-11.02.59:183][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.08.14-11.02.59:185][319]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.08.14-11.02.59:186][319]LogMaterial: Warning: Z:\Proyecto-final\ProyectoFinal\Content\AnimStarterPack\UE4_Mannequin\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.08.14-11.02.59:186][319]LogMaterial: 	Missing Material Function
+[2019.08.14-11.02.59:186][319]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.08.14-11.02.59:186][319]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.08.14-11.02.59:186][319]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.08.14-11.02.59:186][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.08.14-11.02.59:186][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.08.14-11.02.59:186][319]LogMaterial: 	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.08.14-11.02.59:186][319]LogMaterial: 	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property Specular
+[2019.08.14-11.02.59:186][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.08.14-11.02.59:188][319]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.08.14-11.02.59:189][319]LogMaterial: Warning: Z:\Proyecto-final\ProyectoFinal\Content\AnimStarterPack\UE4_Mannequin\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.08.14-11.02.59:189][319]LogMaterial: 	Missing Material Function
+[2019.08.14-11.02.59:189][319]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.08.14-11.02.59:189][319]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.08.14-11.02.59:189][319]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.08.14-11.02.59:189][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.08.14-11.02.59:189][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.08.14-11.02.59:189][319]LogMaterial: 	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.08.14-11.02.59:189][319]LogMaterial: 	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property Specular
+[2019.08.14-11.02.59:189][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.08.14-11.02.59:191][319]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.08.14-11.02.59:192][319]LogMaterial: Warning: Z:\Proyecto-final\ProyectoFinal\Content\AnimStarterPack\UE4_Mannequin\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.08.14-11.02.59:192][319]LogMaterial: 	Missing Material Function
+[2019.08.14-11.02.59:192][319]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.08.14-11.02.59:192][319]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.08.14-11.02.59:192][319]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.08.14-11.02.59:192][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.08.14-11.02.59:192][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.08.14-11.02.59:192][319]LogMaterial: 	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.08.14-11.02.59:192][319]LogMaterial: 	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property Specular
+[2019.08.14-11.02.59:192][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.08.14-11.02.59:195][319]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.08.14-11.02.59:196][319]LogMaterial: Warning: Z:\Proyecto-final\ProyectoFinal\Content\AnimStarterPack\UE4_Mannequin\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.08.14-11.02.59:196][319]LogMaterial: 	Missing Material Function
+[2019.08.14-11.02.59:196][319]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.08.14-11.02.59:196][319]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.08.14-11.02.59:196][319]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.08.14-11.02.59:196][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.08.14-11.02.59:196][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.08.14-11.02.59:196][319]LogMaterial: 	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.08.14-11.02.59:196][319]LogMaterial: 	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property Specular
+[2019.08.14-11.02.59:196][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.08.14-11.02.59:198][319]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.08.14-11.02.59:199][319]LogMaterial: Warning: Z:\Proyecto-final\ProyectoFinal\Content\AnimStarterPack\UE4_Mannequin\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.08.14-11.02.59:199][319]LogMaterial: 	Missing Material Function
+[2019.08.14-11.02.59:199][319]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.08.14-11.02.59:199][319]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2019.08.14-11.02.59:199][319]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.08.14-11.02.59:199][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2019.08.14-11.02.59:199][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.08.14-11.02.59:199][319]LogMaterial: 	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property BaseColor
+[2019.08.14-11.02.59:199][319]LogMaterial: 	Function MatLayerBlend_AO: (Node MakeMaterialAttributes) Error on property Specular
+[2019.08.14-11.02.59:199][319]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2019.08.14-11.02.59:200][319]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.08.14-11.02.59:239][319]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2019.08.14-11.02.59:248][319]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.08.14-11.02.59:283][319]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2019.08.14-11.02.59:289][319]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.08.14-11.02.59:323][319]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2019.08.14-11.02.59:328][319]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.08.14-11.02.59:361][319]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2019.08.14-11.03.05:613][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2019.08.14-11.03.05:635][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-11.03.05:655][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-11.03.05:678][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.08.14-11.03.05:700][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-11.03.05:722][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.08.14-11.03.05:744][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2019.08.14-11.03.05:765][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-11.03.05:786][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-11.03.05:809][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-11.03.05:830][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-11.03.05:854][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.05:875][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-11.03.05:897][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-11.03.05:918][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-11.03.05:939][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-11.03.05:961][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-11.03.05:982][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.06:005][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-11.03.06:027][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-11.03.06:048][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.06:070][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.06:092][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.06:112][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-11.03.06:133][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2019.08.14-11.03.06:154][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.14-11.03.06:176][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-11.03.06:197][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.14-11.03.06:218][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.06:240][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-11.03.06:260][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-11.03.06:282][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-11.03.06:304][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-11.03.06:325][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.14-11.03.06:346][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.06:366][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.06:388][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.06:409][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.06:431][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.06:453][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.06:474][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2019.08.14-11.03.06:496][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.14-11.03.06:519][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2019.08.14-11.03.06:543][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2019.08.14-11.03.06:563][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2019.08.14-11.03.06:587][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2019.08.14-11.03.06:607][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.14-11.03.06:630][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.06:653][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.14-11.03.06:676][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.14-11.03.06:696][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2019.08.14-11.03.06:718][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.06:739][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.06:760][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.14-11.03.06:781][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.14-11.03.06:803][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.14-11.03.06:824][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.06:846][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.14-11.03.06:867][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.06:890][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.06:912][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.06:934][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.06:955][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.14-11.03.06:977][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.06:998][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-11.03.07:018][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.14-11.03.07:040][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.07:060][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-11.03.07:082][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.07:105][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.07:126][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-11.03.07:147][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.07:168][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.07:189][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-11.03.07:213][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.07:233][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.14-11.03.07:255][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-11.03.07:279][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-11.03.07:300][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-11.03.07:322][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2019.08.14-11.03.07:342][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.14-11.03.07:363][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.07:384][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.07:405][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.07:426][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.07:449][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.08.14-11.03.07:470][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-11.03.16:862][357]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MCO_Mocap_Basics/Character/Mesh/SK_Mannequin_Anim.SK_Mannequin_Anim
+[2019.08.14-11.03.16:863][357]LogAnimationCompression: Recompressing (AnimSequence /Game/MCO_Mocap_Basics/Character/Mesh/SK_Mannequin_Anim.SK_Mannequin_Anim) using current/default (AnimCompress_BitwiseCompressOnly_12) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.03.16:870][357]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/MCO_Mocap_Basics/Character/Mesh/SK_Mannequin_Anim.SK_Mannequin_Anim
+[2019.08.14-11.03.17:765][357]LogTexture: Display: Building textures: T_ML_Aluminum01_N (BC5, 512X512)
+[2019.08.14-11.03.17:765][357]LogTexture: Display: Building textures: UE4Man_Logo_N (BC5, 512X512)
+[2019.08.14-11.03.17:765][357]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_D (AutoDXT, 512X512)
+[2019.08.14-11.03.17:765][357]LogTexture: Display: Building textures: T_ML_Rubber_Blue_01_N (BC5, 512X512)
+[2019.08.14-11.03.17:765][357]LogTexture: Display: Building textures: T_ML_Aluminum01 (AutoDXT, 512X512)
+[2019.08.14-11.03.17:765][357]LogTexture: Display: Building textures: UE4_Mannequin_occlusion (AutoDXT, 512X512)
+[2019.08.14-11.03.17:765][357]LogTexture: Display: Building textures: UE4_Mannequin_MAT_MASKA (AutoDXT, 1024X1024)
+[2019.08.14-11.03.17:765][357]LogTexture: Display: Building textures: UE4_Mannequin__normals (BC5, 2048X2048)
+[2019.08.14-11.03.17:765][357]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.08.14-11.03.17:803][357]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2019.08.14-11.03.17:847][357]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.08.14-11.03.17:910][357]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/MCO_Mocap_Basics/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.08.14-11.03.17:925][357]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.14-11.03.17:969][357]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.14-11.03.18:267][357]LogLinker: Warning: No puede encontrar el archivo '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2019.08.14-11.03.18:267][357]LogLinker: Warning: No puede encontrar el archivo '/Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin'
+[2019.08.14-11.03.18:267][357]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin'
+[2019.08.14-11.03.18:444][357]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.14-11.03.19:615][399]LogShaderCompilers: Display: Shaders left to compile 170
+[2019.08.14-11.03.19:681][400]LogShaderCompilers: Display: Shaders left to compile 160
+[2019.08.14-11.03.19:757][403]LogShaderCompilers: Display: Shaders left to compile 150
+[2019.08.14-11.03.19:881][407]LogShaderCompilers: Display: Shaders left to compile 140
+[2019.08.14-11.03.19:941][410]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.08.14-11.03.20:284][427]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.08.14-11.03.21:101][469]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.08.14-11.03.21:250][476]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.08.14-11.03.21:406][482]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.08.14-11.03.21:668][493]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.08.14-11.03.21:910][506]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.08.14-11.03.21:949][508]LogSlate: Window 'SK_Mannequin_Anim' being destroyed
+[2019.08.14-11.03.21:952][508]LogSlate: Window 'SK_Mannequin_Anim' being destroyed
+[2019.08.14-11.03.22:171][508]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.08.14-11.03.22:171][508]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.08.14-11.03.23:024][576]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.08.14-11.03.23:094][581]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.08.14-11.03.23:413][603]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.14-11.03.23:908][639]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.08.14-11.03.40:640][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.08.14-11.03.58:099][592]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.14-11.04.08:002][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.08.14-11.04.22:637][775]LogSlate: Window '¿Reemplazar las referencias?' being destroyed
+[2019.08.14-11.04.22:639][775]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.14-11.04.22:874][775]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.08.14-11.04.22:924][775]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.08.14-11.04.23:093][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.08.14-11.04.25:165][775]LogSlate: Window 'Guardar contenido' being destroyed
+[2019.08.14-11.04.25:196][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/Choking" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Animations/Choking.uasset" SILENT=true
+[2019.08.14-11.04.25:683][775]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/ChokingFD5EAA7C495DE95DAEF47F82952CDD56.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Animations/Choking.uasset'
+[2019.08.14-11.04.25:711][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/Maniobra" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Animations/Maniobra.uasset" SILENT=true
+[2019.08.14-11.04.25:817][775]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/Maniobra1C637B544E5D85385D7813B2969E0F0B.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Animations/Maniobra.uasset'
+[2019.08.14-11.04.25:843][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/RCP" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Animations/RCP.uasset" SILENT=true
+[2019.08.14-11.04.25:976][775]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/RCPB616907542153DDB83CF96A61E05D6EF.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Animations/RCP.uasset'
+[2019.08.14-11.04.26:004][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPerson_AnimBP" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" SILENT=true
+[2019.08.14-11.04.26:903][775]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/ThirdPerson_AnimBP6BF2B968476D0685EB1228A3194D6443.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2019.08.14-11.04.26:933][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPerson_IdleRun_2D" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" SILENT=true
+[2019.08.14-11.04.27:035][775]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/ThirdPerson_IdleRun_2DF606949840CB2E9624B04192AAA9580F.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset'
+[2019.08.14-11.04.27:062][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPerson_Jump" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" SILENT=true
+[2019.08.14-11.04.27:179][775]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/ThirdPerson_Jump1C2CBC0A4BE2ED246A803B89FDD5737B.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Animations/ThirdPerson_Jump.uasset'
+[2019.08.14-11.04.27:205][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPersonIdle" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Animations/ThirdPersonIdle.uasset" SILENT=true
+[2019.08.14-11.04.27:355][775]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/ThirdPersonIdle6C5E816A4104A9A098F734A409169773.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Animations/ThirdPersonIdle.uasset'
+[2019.08.14-11.04.27:382][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPersonJump_Loop" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" SILENT=true
+[2019.08.14-11.04.27:502][775]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/ThirdPersonJump_LoopCDAB5802446C508CCDD26982CFAE9D63.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset'
+[2019.08.14-11.04.27:530][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPersonJump_Start" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" SILENT=true
+[2019.08.14-11.04.27:658][775]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/ThirdPersonJump_Start25E14EB24452A8FA0C6DFA8C4C4016EA.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset'
+[2019.08.14-11.04.27:683][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPersonRun" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Animations/ThirdPersonRun.uasset" SILENT=true
+[2019.08.14-11.04.27:811][775]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/ThirdPersonRun7627D2FC405CD34A0562D8B991DAA350.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Animations/ThirdPersonRun.uasset'
+[2019.08.14-11.04.27:839][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPersonWalk" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Animations/ThirdPersonWalk.uasset" SILENT=true
+[2019.08.14-11.04.27:960][775]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/ThirdPersonWalk4D3D9C39446C3F982A22D1B71931170C.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Animations/ThirdPersonWalk.uasset'
+[2019.08.14-11.04.27:988][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Mesh/SK_Mannequin" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" SILENT=true
+[2019.08.14-11.04.28:566][775]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/SK_Mannequin8E9300E44C6D410566EC9CA81CCE12A2.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset'
+[2019.08.14-11.04.28:582][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" SILENT=true
+[2019.08.14-11.04.28:631][775]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/UE4_Mannequin_Skeleton8DAF401C4144D806E5EE8A81A8AB2D5E.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2019.08.14-11.04.28:822][775]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/MOB1_Stand_Relaxed_Death_B_IPCFD336FD34D536175C1E86B8217847ACD.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_Stand_Relaxed_Death_B_IPC.uasset'
+[2019.08.14-11.04.45:134][683]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Conversations/Root_Motion/Convo_01_Low_Key_Loop.Convo_01_Low_Key_Loop
+[2019.08.14-11.04.45:135][683]LogAnimationCompression: Recompressing (AnimSequence /Game/MCO_Mocap_Basics/Animation/Conversations/Root_Motion/Convo_01_Low_Key_Loop.Convo_01_Low_Key_Loop) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.04.45:181][683]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Conversations/Root_Motion/Convo_11_Listening_Loop.Convo_11_Listening_Loop
+[2019.08.14-11.04.45:181][683]LogAnimationCompression: Recompressing (AnimSequence /Game/MCO_Mocap_Basics/Animation/Conversations/Root_Motion/Convo_11_Listening_Loop.Convo_11_Listening_Loop) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.04.45:210][683]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_CrouchWalk_F.MOB1_CrouchWalk_F
+[2019.08.14-11.04.45:210][683]LogAnimationCompression: Recompressing (AnimSequence /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_CrouchWalk_F.MOB1_CrouchWalk_F) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.04.45:227][683]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Crouch_Idle_V2.MOB1_Crouch_Idle_V2
+[2019.08.14-11.04.45:227][683]LogAnimationCompression: Recompressing (AnimSequence /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Crouch_Idle_V2.MOB1_Crouch_Idle_V2) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.04.45:247][683]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Jog_F.MOB1_Jog_F
+[2019.08.14-11.04.45:247][683]LogAnimationCompression: Recompressing (AnimSequence /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Jog_F.MOB1_Jog_F) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.04.45:264][683]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Jog_F_to_Stand_Relaxed_RU.MOB1_Jog_F_to_Stand_Relaxed_RU
+[2019.08.14-11.04.45:264][683]LogAnimationCompression: Recompressing (AnimSequence /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Jog_F_to_Stand_Relaxed_RU.MOB1_Jog_F_to_Stand_Relaxed_RU) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.04.45:279][683]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Run_F.MOB1_Run_F
+[2019.08.14-11.04.45:279][683]LogAnimationCompression: Recompressing (AnimSequence /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Run_F.MOB1_Run_F) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.04.45:293][683]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Run_F_to_Stand_Relaxed_RU.MOB1_Run_F_to_Stand_Relaxed_RU
+[2019.08.14-11.04.45:293][683]LogAnimationCompression: Recompressing (AnimSequence /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Run_F_to_Stand_Relaxed_RU.MOB1_Run_F_to_Stand_Relaxed_RU) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.04.45:310][683]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Stand_Relaxed_Death_B.MOB1_Stand_Relaxed_Death_B
+[2019.08.14-11.04.45:310][683]LogAnimationCompression: Recompressing (AnimSequence /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Stand_Relaxed_Death_B.MOB1_Stand_Relaxed_Death_B) using current/default (AnimCompress_BitwiseCompressOnly_7) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.04.45:327][683]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Stand_Relaxed_Fgt_v1.MOB1_Stand_Relaxed_Fgt_v1
+[2019.08.14-11.04.45:327][683]LogAnimationCompression: Recompressing (AnimSequence /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Stand_Relaxed_Fgt_v1.MOB1_Stand_Relaxed_Fgt_v1) using current/default (AnimCompress_BitwiseCompressOnly_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.04.45:346][683]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Stand_Relaxed_Fgt_v4.MOB1_Stand_Relaxed_Fgt_v4
+[2019.08.14-11.04.45:346][683]LogAnimationCompression: Recompressing (AnimSequence /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Stand_Relaxed_Fgt_v4.MOB1_Stand_Relaxed_Fgt_v4) using current/default (AnimCompress_BitwiseCompressOnly_9) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.04.45:364][683]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Stand_Relaxed_Idle_v2.MOB1_Stand_Relaxed_Idle_v2
+[2019.08.14-11.04.45:364][683]LogAnimationCompression: Recompressing (AnimSequence /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Stand_Relaxed_Idle_v2.MOB1_Stand_Relaxed_Idle_v2) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.04.45:381][683]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Walk_F.MOB1_Walk_F
+[2019.08.14-11.04.45:381][683]LogAnimationCompression: Recompressing (AnimSequence /Game/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Walk_F.MOB1_Walk_F) using current/default (AnimCompress_BitwiseCompressOnly_11) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.04.45:404][683]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Scared/In_Place/SCR_Walk_Scared_Fwd_Look_Left_Loop_IP.SCR_Walk_Scared_Fwd_Look_Left_Loop_IP
+[2019.08.14-11.04.45:404][683]LogAnimationCompression: Recompressing (AnimSequence /Game/MCO_Mocap_Basics/Animation/Scared/In_Place/SCR_Walk_Scared_Fwd_Look_Left_Loop_IP.SCR_Walk_Scared_Fwd_Look_Left_Loop_IP) using current/default (AnimCompress_BitwiseCompressOnly_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.04.45:428][683]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Scared/In_Place/SCR_Walk_Scared_Fwd_Look_Right_Loop_IP.SCR_Walk_Scared_Fwd_Look_Right_Loop_IP
+[2019.08.14-11.04.45:428][683]LogAnimationCompression: Recompressing (AnimSequence /Game/MCO_Mocap_Basics/Animation/Scared/In_Place/SCR_Walk_Scared_Fwd_Look_Right_Loop_IP.SCR_Walk_Scared_Fwd_Look_Right_Loop_IP) using current/default (AnimCompress_BitwiseCompressOnly_6) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.04.45:454][683]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Scared/Root_Motion/SCR_Walk_Scared_Fwd_Look_Left_Loop.SCR_Walk_Scared_Fwd_Look_Left_Loop
+[2019.08.14-11.04.45:454][683]LogAnimationCompression: Recompressing (AnimSequence /Game/MCO_Mocap_Basics/Animation/Scared/Root_Motion/SCR_Walk_Scared_Fwd_Look_Left_Loop.SCR_Walk_Scared_Fwd_Look_Left_Loop) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.04.45:486][683]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Scared/Root_Motion/SCR_Walk_Scared_Fwd_Look_Right_Loop.SCR_Walk_Scared_Fwd_Look_Right_Loop
+[2019.08.14-11.04.45:486][683]LogAnimationCompression: Recompressing (AnimSequence /Game/MCO_Mocap_Basics/Animation/Scared/Root_Motion/SCR_Walk_Scared_Fwd_Look_Right_Loop.SCR_Walk_Scared_Fwd_Look_Right_Loop) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.04.45:507][683]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Walks/In_Place/Walk_02_Cheerful_Loop_IP.Walk_02_Cheerful_Loop_IP
+[2019.08.14-11.04.45:507][683]LogAnimationCompression: Recompressing (AnimSequence /Game/MCO_Mocap_Basics/Animation/Walks/In_Place/Walk_02_Cheerful_Loop_IP.Walk_02_Cheerful_Loop_IP) using current/default (AnimCompress_BitwiseCompressOnly_29) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.04.45:522][683]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Walks/In_Place/Walk_04_Texting_Loop_IP.Walk_04_Texting_Loop_IP
+[2019.08.14-11.04.45:522][683]LogAnimationCompression: Recompressing (AnimSequence /Game/MCO_Mocap_Basics/Animation/Walks/In_Place/Walk_04_Texting_Loop_IP.Walk_04_Texting_Loop_IP) using current/default (AnimCompress_BitwiseCompressOnly_30) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.04.45:540][683]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Walks/In_Place/Walk_06_Look_Around_Loop_IP.Walk_06_Look_Around_Loop_IP
+[2019.08.14-11.04.45:540][683]LogAnimationCompression: Recompressing (AnimSequence /Game/MCO_Mocap_Basics/Animation/Walks/In_Place/Walk_06_Look_Around_Loop_IP.Walk_06_Look_Around_Loop_IP) using current/default (AnimCompress_BitwiseCompressOnly_31) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.04.45:560][683]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Walks/In_Place/Walk_08_Listen_Music_Loop_IP.Walk_08_Listen_Music_Loop_IP
+[2019.08.14-11.04.45:560][683]LogAnimationCompression: Recompressing (AnimSequence /Game/MCO_Mocap_Basics/Animation/Walks/In_Place/Walk_08_Listen_Music_Loop_IP.Walk_08_Listen_Music_Loop_IP) using current/default (AnimCompress_BitwiseCompressOnly_32) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.04.45:579][683]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Walks/In_Place/Walk_13_Power_Walk_Loop_IP.Walk_13_Power_Walk_Loop_IP
+[2019.08.14-11.04.45:579][683]LogAnimationCompression: Recompressing (AnimSequence /Game/MCO_Mocap_Basics/Animation/Walks/In_Place/Walk_13_Power_Walk_Loop_IP.Walk_13_Power_Walk_Loop_IP) using current/default (AnimCompress_BitwiseCompressOnly_33) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.04.45:596][683]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Walks/Root_Motion/Walk_02_Cheerful_Loop.Walk_02_Cheerful_Loop
+[2019.08.14-11.04.45:596][683]LogAnimationCompression: Recompressing (AnimSequence /Game/MCO_Mocap_Basics/Animation/Walks/Root_Motion/Walk_02_Cheerful_Loop.Walk_02_Cheerful_Loop) using current/default (AnimCompress_BitwiseCompressOnly_24) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.04.45:610][683]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Walks/Root_Motion/Walk_04_Texting_Loop.Walk_04_Texting_Loop
+[2019.08.14-11.04.45:610][683]LogAnimationCompression: Recompressing (AnimSequence /Game/MCO_Mocap_Basics/Animation/Walks/Root_Motion/Walk_04_Texting_Loop.Walk_04_Texting_Loop) using current/default (AnimCompress_BitwiseCompressOnly_25) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.04.45:635][683]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Walks/Root_Motion/Walk_06_Look_Around_Loop.Walk_06_Look_Around_Loop
+[2019.08.14-11.04.45:635][683]LogAnimationCompression: Recompressing (AnimSequence /Game/MCO_Mocap_Basics/Animation/Walks/Root_Motion/Walk_06_Look_Around_Loop.Walk_06_Look_Around_Loop) using current/default (AnimCompress_BitwiseCompressOnly_26) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.04.45:658][683]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Walks/Root_Motion/Walk_08_Listen_Music_Loop.Walk_08_Listen_Music_Loop
+[2019.08.14-11.04.45:658][683]LogAnimationCompression: Recompressing (AnimSequence /Game/MCO_Mocap_Basics/Animation/Walks/Root_Motion/Walk_08_Listen_Music_Loop.Walk_08_Listen_Music_Loop) using current/default (AnimCompress_BitwiseCompressOnly_27) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.04.45:678][683]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MCO_Mocap_Basics/Animation/Walks/Root_Motion/Walk_13_Power_Walk_Loop.Walk_13_Power_Walk_Loop
+[2019.08.14-11.04.45:678][683]LogAnimationCompression: Recompressing (AnimSequence /Game/MCO_Mocap_Basics/Animation/Walks/Root_Motion/Walk_13_Power_Walk_Loop.Walk_13_Power_Walk_Loop) using current/default (AnimCompress_BitwiseCompressOnly_28) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.08.14-11.04.45:705][683]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.08.14-11.04.45:967][683]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.261 s
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: === Handled ensure: ===
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: 
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: Ensure condition failed: Found [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 198]
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: Cannot remove redirection from /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton, it was not registered
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: Stack: 
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffc73971711 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffc73669887 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffc6d4dddbd UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffc575a3607 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffc575ce52c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffc47aea89f UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffc47aaab33 UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffc47afa9d7 UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffc46936ba9 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffc46aa793e UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffc46aa2bf8 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffc46aa6200 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffc469010b9 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffc46901308 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffc584f8bef UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffc584ff390 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffc584da2c4 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffc58592a12 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffc58500c95 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffc583e4021 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffc58460301 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffc5844aaca UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffc58440414 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffc75e6b8e0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffc75e5ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffc75e6d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffc75e5c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffcb1966d41 USER32.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffcb1966713 USER32.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffc75e6e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ff7ff275d3e UE4Editor.exe!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ff7ff28554c UE4Editor.exe!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ff7ff2855ca UE4Editor.exe!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ff7ff29316c UE4Editor.exe!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ff7ff295b8e UE4Editor.exe!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffcb3a73034 KERNEL32.DLL!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: [Callstack] 0x00007ffcb3d63691 ntdll.dll!UnknownFunction []
+[2019.08.14-11.04.45:967][683]LogOutputDevice: Error: 
+[2019.08.14-11.04.45:968][683]LogStats:                SubmitErrorReport -  0.000 s

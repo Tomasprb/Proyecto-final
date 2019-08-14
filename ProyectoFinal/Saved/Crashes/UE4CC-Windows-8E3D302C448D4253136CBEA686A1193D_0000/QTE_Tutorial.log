@@ -1,0 +1,1409 @@
+﻿Log file open, 08/14/19 09:02:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: QTE_Tutorial
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.802774
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ControlRig
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.32.0
+LogInit: Build: ++UE4+Release-4.22-CL-6063286
+LogInit: Engine Version: 4.22.1-6063286+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Apr 24 2019 04:36:48
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.14-12.02.41:893][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.14-12.02.41:893][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.14-12.02.41:893][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Engine.ini]
+[2019.08.14-12.02.41:893][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.14-12.02.41:893][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Engine.ini]
+[2019.08.14-12.02.41:893][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Engine.ini]
+[2019.08.14-12.02.41:893][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.14-12.02.41:893][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.14-12.02.41:893][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.14-12.02.41:893][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.14-12.02.41:893][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.14-12.02.41:893][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.14-12.02.41:893][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.14-12.02.41:893][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.14-12.02.41:893][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.14-12.02.41:893][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.14-12.02.41:893][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.14-12.02.41:893][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.14-12.02.41:893][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.14-12.02.41:893][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Engine.ini]
+[2019.08.14-12.02.41:893][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.14-12.02.41:893][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.14-12.02.41:893][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.14-12.02.41:893][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.14-12.02.41:893][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.14-12.02.41:893][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.14-12.02.41:893][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.14-12.02.41:893][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.14-12.02.41:893][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.14-12.02.41:893][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.14-12.02.41:893][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.14-12.02.41:893][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.14-12.02.41:893][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.14-12.02.41:893][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Engine.ini]
+[2019.08.14-12.02.41:893][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Engine.ini]
+[2019.08.14-12.02.41:895][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-12.02.41:895][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.14-12.02.41:895][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.14-12.02.41:896][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.14-12.02.41:896][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.14-12.02.41:896][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.14-12.02.41:926][  0]LogHAL: Display: Platform has ~ 16 GB [17009025024 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.14-12.02.41:926][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.08.14-12.02.41:926][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.14-12.02.41:926][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.14-12.02.41:927][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Z:/Proyecto-final/ProyectoFinal/Saved/Config/Windows/Engine.ini]
+[2019.08.14-12.02.41:927][  0]LogInit: Computer: A-PDELL18-11
+[2019.08.14-12.02.41:927][  0]LogInit: User: 43718467
+[2019.08.14-12.02.41:927][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.08.14-12.02.41:927][  0]LogInit: High frequency timer resolution =3.609370 MHz
+[2019.08.14-12.02.41:928][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.08.14-12.02.41:928][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.14-12.02.41:928][  0]LogMemory: Process Physical Memory: 100.45 MB used, 100.45 MB peak
+[2019.08.14-12.02.41:928][  0]LogMemory: Process Virtual Memory: 92.79 MB used, 92.79 MB peak
+[2019.08.14-12.02.41:928][  0]LogMemory: Physical Memory: 5156.79 MB used,  11064.28 MB free, 16221.07 MB total
+[2019.08.14-12.02.41:928][  0]LogMemory: Virtual Memory: 4688.38 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2019.08.14-12.02.41:944][  0]LogInit: Using OS detected language (es-ES).
+[2019.08.14-12.02.41:944][  0]LogInit: Using OS detected locale (es-AR).
+[2019.08.14-12.02.41:944][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2019.08.14-12.02.41:977][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.14-12.02.42:002][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.14-12.02.42:002][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.14-12.02.42:106][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.14-12.02.42:107][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.14-12.02.42:152][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2019.08.14-12.02.42:152][  0]LogD3D11RHI:       8079/0/8110 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.08.14-12.02.42:175][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.08.14-12.02.42:175][  0]LogD3D11RHI:       128/0/8110 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.08.14-12.02.42:177][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.14-12.02.42:177][  0]LogD3D11RHI:       0/0/8110 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.14-12.02.42:177][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.14-12.02.42:182][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.14-12.02.42:182][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.14-12.02.42:182][  0]LogWindows: EnumDisplayDevices:
+[2019.08.14-12.02.42:182][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2019.08.14-12.02.42:182][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.08.14-12.02.42:182][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.08.14-12.02.42:183][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.08.14-12.02.42:183][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.08.14-12.02.42:183][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.08.14-12.02.42:184][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.08.14-12.02.42:184][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.08.14-12.02.42:184][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2019.08.14-12.02.42:184][  0]LogD3D11RHI:   Driver Version: 416.34 (internal:25.21.14.1634, unified:416.34)
+[2019.08.14-12.02.42:184][  0]LogD3D11RHI:      Driver Date: 10-10-2018
+[2019.08.14-12.02.42:184][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2019.08.14-12.02.42:213][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.14-12.02.42:215][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.14-12.02.42:216][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.14-12.02.42:216][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.14-12.02.42:229][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.08.14-12.02.42:475][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.14-12.02.42:488][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.14-12.02.42:501][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.14-12.02.42:514][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.14-12.02.42:527][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.14-12.02.42:541][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.14-12.02.42:554][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.14-12.02.42:568][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.14-12.02.42:573][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.14-12.02.42:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.14-12.02.42:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.14-12.02.42:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.14-12.02.42:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.14-12.02.42:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.14-12.02.42:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.14-12.02.42:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.14-12.02.42:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.14-12.02.42:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.14-12.02.42:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.14-12.02.42:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.14-12.02.42:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.14-12.02.42:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.14-12.02.42:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.14-12.02.42:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.14-12.02.42:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.14-12.02.42:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.14-12.02.42:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.14-12.02.42:645][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.14-12.02.42:692][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.14-12.02.42:692][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.14-12.02.42:716][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.14-12.02.42:716][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.14-12.02.42:728][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.14-12.02.42:741][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.14-12.02.42:754][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.14-12.02.42:767][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.14-12.02.42:807][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.14-12.02.42:807][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.14-12.02.42:807][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.14-12.02.42:814][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.14-12.02.42:850][  0]LogShaderCompilers: Guid format shader working directory is 17 characters bigger than the processId version (Z:/Proyecto-final/ProyectoFinal/Intermediate/Shaders/WorkingDirectory/12596/).
+[2019.08.14-12.02.42:850][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/43718467/AppData/Local/Temp/UnrealShaderWorkingDir/2A26124D42F3A0E7D2B72D9688070D96/'.
+[2019.08.14-12.02.42:851][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.14-12.02.42:851][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.14-12.02.42:851][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.14-12.02.43:262][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.14-12.02.43:300][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/43718467/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.14-12.02.43:300][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/43718467/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.08.14-12.02.43:301][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file Z:/Proyecto-final/ProyectoFinal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.14-12.02.43:301][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.14-12.02.43:301][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file Z:/Proyecto-final/ProyectoFinal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.14-12.02.43:301][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.14-12.02.43:311][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.14-12.02.43:311][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.14-12.02.43:311][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.14-12.02.43:323][  0]LogDerivedDataCache: Using Local data cache path C:/Users/43718467/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.14-12.02.43:323][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.14-12.02.43:323][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.14-12.02.43:340][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.14-12.02.43:341][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.14-12.02.43:341][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.14-12.02.43:407][  0]LogAssetRegistry: FAssetRegistry took 0.0311 seconds to start up
+[2019.08.14-12.02.43:963][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.14-12.02.44:067][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.14-12.02.44:067][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.14-12.02.44:067][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.14-12.02.44:067][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.14-12.02.44:067][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.14-12.02.44:074][  0]LogNetVersion: QTE_Tutorial 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2017145018)
+[2019.08.14-12.02.44:503][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.139675 seconds
+[2019.08.14-12.02.44:507][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.08.14-12.02.44:508][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.08.14-12.02.44:508][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.14-12.02.45:117][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.14-12.02.45:130][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.14-12.02.45:131][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/Proyecto-final/ProyectoFinal/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.08.14-12.02.45:131][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/Proyecto-final/ProyectoFinal/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.08.14-12.02.45:234][  0]SourceControl: El control de código fuente está desactivado
+[2019.08.14-12.02.45:234][  0]SourceControl: El control de código fuente está desactivado
+[2019.08.14-12.02.45:235][  0]SourceControl: El control de código fuente está desactivado
+[2019.08.14-12.02.45:236][  0]SourceControl: El control de código fuente está desactivado
+[2019.08.14-12.02.45:322][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.14-12.02.45:374][  0]LogOcInput: OculusInput pre-init called
+[2019.08.14-12.02.45:867][  0]LogEngine: Initializing Engine...
+[2019.08.14-12.02.45:867][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.14-12.02.45:870][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2019.08.14-12.02.46:022][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.14-12.02.46:033][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.14-12.02.46:043][  0]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.14-12.02.46:110][  0]LogInit: FAudioDevice initialized.
+[2019.08.14-12.02.46:110][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.14-12.02.46:158][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/43718467/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.14-12.02.46:169][  0]LogInit: Texture streaming: Enabled
+[2019.08.14-12.02.46:192][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.14-12.02.46:204][  0]LogInit: Transaction tracking system initialized
+[2019.08.14-12.02.46:221][  0]BlueprintLog: New page: Cargar el editor
+[2019.08.14-12.02.46:290][  0]LocalizationService: Localization service is disabled
+[2019.08.14-12.02.46:508][  0]LogFileCache: Scanning file cache for directory 'Z:/Proyecto-final/ProyectoFinal/Content/' took 0.02s
+[2019.08.14-12.02.46:508][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.14-12.02.46:508][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.14-12.02.46:643][  0]SourceControl: El control de código fuente está desactivado
+[2019.08.14-12.02.46:643][  0]Cmd: MAP LOAD FILE="Z:/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.14-12.02.46:644][  0]LightingResults: New page: Diseñar la iluminación
+[2019.08.14-12.02.46:646][  0]MapCheck: New page: Revisión del mapa
+[2019.08.14-12.02.46:646][  0]LightingResults: New page: Diseñar la iluminación
+[2019.08.14-12.02.46:671][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.08.14-12.02.46:903][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.46:903][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.46:903][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.46:904][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.46:909][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.46:909][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.46:909][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.46:910][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.46:939][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.46:939][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.46:939][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.46:939][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.46:965][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.46:965][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.46:966][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.46:966][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.46:971][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.46:971][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.46:972][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.46:972][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.46:976][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.46:976][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.46:976][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.46:976][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.46:980][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.46:981][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.46:981][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.46:981][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.46:990][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.46:990][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.46:990][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.46:991][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.46:995][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.46:996][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.46:996][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.46:996][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.47:001][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.47:001][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.47:001][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.47:001][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.47:007][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.47:007][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.47:007][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.47:008][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.47:091][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.47:091][  0]LoadErrors: Error al cargar /Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton Referenciado por ThirdPerson_AnimBP_C
+[2019.08.14-12.02.47:092][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.47:243][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.47:244][  0]LoadErrors: Error al cargar /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin Referenciado por CharacterMesh0
+[2019.08.14-12.02.47:244][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.47:246][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.47:246][  0]LoadErrors: Error al cargar /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin Referenciado por CharacterMesh0
+[2019.08.14-12.02.47:246][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.47:247][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.47:247][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.47:247][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.47:247][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.47:248][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.47:248][  0]LoadErrors: Error al cargar /Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton Referenciado por ThirdPerson_AnimBP
+[2019.08.14-12.02.47:248][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.47:252][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.47:252][  0]LoadErrors: Error al cargar /Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton Referenciado por ThirdPerson_IdleRun_2D
+[2019.08.14-12.02.47:252][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.47:253][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.47:253][  0]LoadErrors: Error al cargar /Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton Referenciado por ThirdPersonJump_Start
+[2019.08.14-12.02.47:253][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.47:254][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.47:254][  0]LoadErrors: Error al cargar /Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton Referenciado por ThirdPersonJump_Loop
+[2019.08.14-12.02.47:254][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.47:254][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.47:254][  0]LoadErrors: Error al cargar /Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton Referenciado por ThirdPerson_Jump
+[2019.08.14-12.02.47:254][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.47:254][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.47:254][  0]LoadErrors: Error al cargar /Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton Referenciado por RCP
+[2019.08.14-12.02.47:254][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.47:273][  0]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] ThirdPerson_AnimBP  - The skeleton asset for this animation Blueprint is missing, so it cannot be compiled!
+[2019.08.14-12.02.47:287][  0]LogBlueprint: Warning: [Compiler ThirdPerson_AnimBP] [0008,63] Compile of ThirdPerson_AnimBP failed. 1 Fatal Issue(s) 0 Warning(s) [in 22 ms] (/Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP)
+[2019.08.14-12.02.47:299][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.47:299][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.47:301][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.47:302][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.47:844][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.47:844][  0]LoadErrors: Error al cargar /Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton Referenciado por ThirdPersonWalk
+[2019.08.14-12.02.47:844][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.47:845][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.47:845][  0]LoadErrors: Error al cargar /Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton Referenciado por ThirdPersonRun
+[2019.08.14-12.02.47:845][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.47:845][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.47:845][  0]LoadErrors: Error al cargar /Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton Referenciado por ThirdPersonIdle
+[2019.08.14-12.02.47:846][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.47:884][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.47:884][  0]LoadErrors: Error al cargar /Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton Referenciado por SK_Mannequin
+[2019.08.14-12.02.47:884][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.47:921][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.47:921][  0]LoadErrors: Error al cargar /Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton Referenciado por Choking
+[2019.08.14-12.02.47:922][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.47:922][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.47:922][  0]LoadErrors: Error al cargar /Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton Referenciado por MOB1_Stand_Relaxed_Death_B_IPC
+[2019.08.14-12.02.47:923][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.47:925][  0]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.02.47:925][  0]LoadErrors: Error al cargar /Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton Referenciado por Maniobra
+[2019.08.14-12.02.47:925][  0]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.02.48:035][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.14-12.02.48:043][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.14-12.02.48:068][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.08.14-12.02.48:068][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.14-12.02.48:068][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,231ms to complete.
+[2019.08.14-12.02.48:068][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.426
+[2019.08.14-12.02.48:166][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-12.02.48:172][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-12.02.48:177][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-12.02.48:183][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-12.02.48:189][  0]LogCollectionManager: Loaded 0 collections in 0.002732 seconds
+[2019.08.14-12.02.48:204][  0]LogFileCache: Scanning file cache for directory 'Z:/Proyecto-final/ProyectoFinal/Saved/Collections/' took 0.01s
+[2019.08.14-12.02.48:204][  0]LogFileCache: Scanning file cache for directory 'Z:/Proyecto-final/ProyectoFinal/Content/Developers/43718467/Collections/' took 0.00s
+[2019.08.14-12.02.48:204][  0]LogFileCache: Scanning file cache for directory 'Z:/Proyecto-final/ProyectoFinal/Content/Collections/' took 0.00s
+[2019.08.14-12.02.48:204][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.14-12.02.48:211][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2762 classes and 676 folders.
+[2019.08.14-12.02.48:217][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0015 seconds. Added 0 classes and 0 folders.
+[2019.08.14-12.02.48:218][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-12.02.48:219][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-12.02.48:220][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-12.02.48:220][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-12.02.48:220][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-12.02.48:221][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-12.02.48:221][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-12.02.48:221][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-12.02.48:222][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-12.02.48:222][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-12.02.48:222][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-12.02.48:223][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-12.02.48:223][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-12.02.48:223][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-12.02.48:224][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-12.02.48:224][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-12.02.48:225][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-12.02.48:225][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-12.02.48:225][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-12.02.48:226][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-12.02.48:226][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-12.02.48:226][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-12.02.48:227][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-12.02.48:227][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-12.02.48:227][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-12.02.48:228][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-12.02.48:247][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0015 seconds. Added 0 classes and 0 folders.
+[2019.08.14-12.02.48:252][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2019.08.14-12.02.48:263][  0]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.14-12.02.48:264][  0]LogSlate: Took 0.000085 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.14-12.02.48:267][  0]LogSlate: Took 0.000087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.14-12.02.48:313][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.08.14-12.02.48:416][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0015 seconds. Added 0 classes and 0 folders.
+[2019.08.14-12.02.48:416][  0]LogLoad: (Engine Initialization) Total time: 9.76 seconds
+[2019.08.14-12.02.48:416][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.14-12.02.48:426][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.14-12.02.48:464][  0]LogAssetRegistry: Asset discovery search completed in 5.0799 seconds
+[2019.08.14-12.02.48:466][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.14-12.02.48:466][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000032 seconds (updated 0 objects)
+[2019.08.14-12.02.48:467][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.14-12.02.48:475][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.14-12.02.48:493][  0]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.14-12.02.48:507][  1]LogFileCache: Retrieving MD5 hashes for directory 'Z:/Proyecto-final/ProyectoFinal/Content/' took 0.07s
+[2019.08.14-12.02.48:516][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/Proyecto-final/ProyectoFinal/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.08.14-12.02.48:517][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/Proyecto-final/ProyectoFinal/Content/', and we were unable to create a new request.
+[2019.08.14-12.02.48:517][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/Proyecto-final/ProyectoFinal/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.08.14-12.02.48:518][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/Proyecto-final/ProyectoFinal/Content/', and we were unable to create a new request.
+[2019.08.14-12.02.48:518][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/Proyecto-final/ProyectoFinal/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.08.14-12.02.48:518][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/Proyecto-final/ProyectoFinal/Content/Developers/43718467/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.08.14-12.02.48:518][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/Proyecto-final/ProyectoFinal/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.08.14-12.02.48:526][  2]LogDirectoryWatcher: A directory notification failed for 'Z:/Proyecto-final/ProyectoFinal/Content/Developers/43718467/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.08.14-12.02.48:526][  2]LogDirectoryWatcher: A directory notification failed for 'Z:/Proyecto-final/ProyectoFinal/Content/Developers/43718467/Collections/', and we were unable to create a new request.
+[2019.08.14-12.02.48:526][  2]LogDirectoryWatcher: A directory notification failed for 'Z:/Proyecto-final/ProyectoFinal/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.08.14-12.02.48:527][  2]LogDirectoryWatcher: A directory notification failed for 'Z:/Proyecto-final/ProyectoFinal/Saved/Collections/', and we were unable to create a new request.
+[2019.08.14-12.02.48:527][  2]LogDirectoryWatcher: A directory notification failed for 'Z:/Proyecto-final/ProyectoFinal/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.08.14-12.02.48:527][  2]LogDirectoryWatcher: A directory notification failed for 'Z:/Proyecto-final/ProyectoFinal/Content/Collections/', and we were unable to create a new request.
+[2019.08.14-12.02.51:207][320]LogSlate: Window 'Registro del mensaje' being destroyed
+[2019.08.14-12.02.51:212][320]LogSlate: Window 'Registro del mensaje' being destroyed
+[2019.08.14-12.02.53:785][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.14-12.02.57:915][123]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.57:922][123]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.57:928][124]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.57:936][125]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.57:949][126]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.57:958][127]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.57:966][128]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.57:975][129]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.57:983][130]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.57:991][131]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.57:999][132]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:008][133]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:016][134]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:024][135]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:033][136]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:041][137]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:049][138]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:058][139]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:066][140]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:075][141]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:083][142]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:091][143]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:100][144]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:108][145]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:116][146]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:125][147]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:133][148]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:141][149]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:150][150]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:158][151]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:166][152]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:174][153]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:182][154]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:191][155]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:201][156]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:210][157]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:219][158]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:226][159]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:235][160]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:243][161]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:251][162]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:260][163]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:268][164]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:276][165]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:285][166]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:293][167]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:301][168]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:310][169]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:319][170]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:327][171]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:335][172]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:344][173]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:352][174]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:359][175]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:368][176]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:460][187]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:468][188]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:476][189]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:484][190]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:493][191]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:501][192]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:510][193]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:518][194]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:526][195]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:535][196]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:543][197]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:551][198]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:560][199]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:568][200]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:576][201]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:585][202]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:593][203]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:601][204]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:610][205]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:618][206]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:627][207]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:635][208]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:643][209]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:652][210]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:660][211]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:668][212]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:677][213]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:685][214]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:693][215]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:702][216]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:710][217]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:718][218]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:727][219]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:735][220]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:744][221]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:752][222]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:760][223]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:769][224]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:777][225]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:785][226]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:793][227]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:801][228]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:810][229]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:818][230]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:826][231]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:835][232]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:843][233]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:852][234]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:860][235]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:868][236]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:877][237]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:885][238]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:893][239]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:902][240]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:910][241]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:918][242]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:927][243]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:935][244]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:943][245]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:952][246]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:960][247]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:968][248]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:977][249]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:985][250]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.58:993][251]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.59:002][252]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.59:010][253]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.59:018][254]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.59:027][255]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.59:035][256]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.59:044][257]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.59:052][258]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.59:060][259]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.59:069][260]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.59:077][261]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.59:085][262]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.59:094][263]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.59:102][264]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.59:110][265]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.59:118][266]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.59:126][267]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.59:134][268]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.59:143][269]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.59:151][270]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.59:160][271]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.02.59:189][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2019.08.14-12.03.00:527][272]LogSlate: Took 0.000080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.14-12.03.03:980][272]LogSlate: Window '¿Reemplazar las referencias?' being destroyed
+[2019.08.14-12.03.03:984][272]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.14-12.03.06:473][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.08.14-12.03.08:014][272]LogSlate: Window 'Guardar contenido' being destroyed
+[2019.08.14-12.03.08:035][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/Maniobra_continuacion" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Animations/Maniobra_continuacion.uasset" SILENT=true
+[2019.08.14-12.03.08:180][272]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/Maniobra_continuacionB81002784DF970CF7B940EBA77124799.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Animations/Maniobra_continuacion.uasset'
+[2019.08.14-12.03.08:207][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/RespuestaManiobra" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Animations/RespuestaManiobra.uasset" SILENT=true
+[2019.08.14-12.03.08:373][272]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/RespuestaManiobra411DF44F49ACE565B20928A5120EC5B4.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Animations/RespuestaManiobra.uasset'
+[2019.08.14-12.03.08:394][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" SILENT=true
+[2019.08.14-12.03.08:451][272]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/UE4_Mannequin_Skeleton4610B702498E094C28C3BB9DB78C0E66.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2019.08.14-12.03.09:021][330]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:029][331]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:037][332]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:046][333]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:054][334]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:062][335]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:071][336]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:079][337]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:087][338]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:096][339]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:104][340]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:112][341]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:121][342]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:129][343]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:138][344]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:146][345]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:154][346]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:163][347]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:171][348]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:179][349]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:188][350]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:196][351]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:204][352]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:213][353]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:221][354]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:229][355]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:238][356]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:246][357]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:254][358]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:263][359]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:271][360]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:279][361]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:288][362]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:296][363]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:304][364]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:313][365]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:321][366]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:329][367]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:338][368]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:346][369]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:354][370]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:363][371]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:371][372]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:380][373]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:388][374]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:396][375]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:404][376]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:412][377]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:420][378]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:429][379]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:437][380]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:446][381]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:454][382]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:463][383]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:471][384]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:479][385]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:488][386]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:496][387]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:504][388]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:513][389]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:521][390]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:529][391]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:538][392]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:546][393]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:554][394]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:563][395]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:571][396]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:579][397]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:588][398]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:671][408]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:679][409]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:688][410]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:696][411]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:704][412]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:713][413]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:721][414]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:729][415]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:738][416]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:746][417]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:754][418]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:763][419]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:771][420]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:780][421]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:788][422]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:796][423]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:805][424]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:812][425]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:820][426]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:829][427]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:837][428]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:845][429]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:854][430]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:862][431]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.09:871][432]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.10:466][503]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.14-12.03.10:487][503]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.14-12.03.10:487][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.14-12.03.12:984][503]LogSlate: Window 'Mensaje' being destroyed
+[2019.08.14-12.03.12:987][503]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (14/8/2019 6:03:12)
+[2019.08.14-12.03.13:000][503]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.14-12.03.13:007][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005438s)
+[2019.08.14-12.03.13:007][503]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.14-12.03.13:007][503]LogPlayLevel: PIE: World Init took: (0.000405s)
+[2019.08.14-12.03.13:007][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.007445s)
+[2019.08.14-12.03.13:028][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.08.14-12.03.13:032][503]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.14-12.03.13:099][503]LogInit: FAudioDevice initialized.
+[2019.08.14-12.03.13:378][503]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.03.13:378][503]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.03.13:378][503]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.03.13:378][503]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.03.13:384][503]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.03.13:384][503]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.03.13:384][503]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.03.13:384][503]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.03.13:390][503]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.03.13:390][503]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.03.13:390][503]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.03.13:391][503]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.03.13:399][503]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.03.13:399][503]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.03.13:399][503]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.03.13:400][503]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.03.13:413][503]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.03.13:413][503]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.03.13:414][503]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.03.13:414][503]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.03.13:420][503]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.03.13:420][503]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.03.13:421][503]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.03.13:421][503]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.03.13:427][503]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.03.13:427][503]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.03.13:427][503]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.03.13:427][503]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.03.13:439][503]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.03.13:439][503]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.03.13:440][503]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.03.13:440][503]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.03.13:464][503]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.03.13:464][503]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.03.13:468][503]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.03.13:468][503]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.03.14:255][503]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.03.14:255][503]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.03.14:259][503]LogLinker: Warning: No puede encontrar el archivo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton'
+[2019.08.14-12.03.14:259][503]LogLinker: Warning: No puede encontrar el archivo para el activo '/Game/MCO_Mocap_Basics/Character/Mesh/UE4_Mannequin_Skeleton' mientras carga NULL.
+[2019.08.14-12.03.14:313][503]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.14-12.03.14:317][503]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.08.14-09.03.14
+[2019.08.14-12.03.14:317][503]LogWorld: Bringing up level for play took: 0.002442
+[2019.08.14-12.03.14:367][503]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0343 seconds. Added 20 classes and 0 folders.
+[2019.08.14-12.03.14:368][503]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 3,775
+[2019.08.14-12.03.14:368][503]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.14-12.03.21:375][323]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.14-12.03.21:375][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-12.03.21:404][323]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.14-12.03.21:404][323]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.14-12.03.21:428][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-12.03.21:430][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.08.14-12.03.21:477][327]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.08.14-12.03.21:986][388]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.08.14-12.03.22:055][389]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:174][639]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:183][640]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:191][641]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:200][642]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:208][643]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:216][644]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:225][645]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:234][646]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:299][654]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:308][655]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:533][682]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:541][683]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:549][684]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:559][685]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:567][686]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:575][687]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:584][688]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:592][689]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:600][690]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:608][691]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:617][692]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:624][693]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:632][694]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:641][695]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:649][696]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:658][697]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:667][698]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:675][699]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:683][700]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:691][701]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:699][702]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:708][703]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:716][704]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:724][705]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:733][706]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:742][707]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:750][708]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:758][709]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:766][710]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:775][711]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:783][712]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:792][713]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:800][714]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:808][715]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:817][716]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:825][717]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:833][718]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:842][719]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:850][720]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:858][721]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:867][722]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:875][723]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:883][724]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:892][725]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:900][726]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:908][727]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:916][728]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:924][729]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:933][730]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:941][731]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:949][732]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:958][733]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:966][734]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:975][735]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:983][736]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.24:991][737]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:000][738]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:008][739]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:016][740]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:025][741]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:033][742]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:042][743]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:050][744]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:058][745]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:067][746]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:075][747]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:084][748]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:092][749]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:100][750]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:109][751]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:116][752]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:124][753]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:133][754]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:141][755]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:149][756]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:158][757]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:166][758]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:174][759]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:183][760]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:191][761]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:199][762]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:208][763]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:216][764]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:224][765]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:233][766]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:241][767]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:250][768]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:258][769]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:266][770]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:274][771]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:283][772]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:292][773]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:304][774]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:313][775]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:322][776]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:330][777]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:338][778]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:346][779]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:355][780]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:363][781]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:372][782]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:380][783]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:388][784]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:397][785]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:405][786]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:413][787]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:422][788]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:430][789]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:438][790]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:447][791]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:455][792]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:463][793]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:472][794]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:480][795]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:489][796]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:497][797]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:504][798]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:513][799]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:521][800]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:529][801]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:538][802]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:546][803]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:554][804]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:563][805]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:571][806]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:579][807]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:588][808]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.25:605][810]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:688][940]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:697][941]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:705][942]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:713][943]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:722][944]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:730][945]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:738][946]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:747][947]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:755][948]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:763][949]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:772][950]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:780][951]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:788][952]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:797][953]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:805][954]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:814][955]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:822][956]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:830][957]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:839][958]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:847][959]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:855][960]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:864][961]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:872][962]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:880][963]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:889][964]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:897][965]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:905][966]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:914][967]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:922][968]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:931][969]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:938][970]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:946][971]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:955][972]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:963][973]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:971][974]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:980][975]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:988][976]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.26:996][977]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:005][978]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:013][979]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:021][980]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:030][981]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:038][982]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:046][983]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:055][984]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:063][985]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:071][986]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:080][987]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:088][988]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:097][989]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:105][990]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:113][991]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:122][992]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:130][993]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:138][994]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:147][995]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:155][996]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:163][997]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:172][998]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:180][999]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:188][  0]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:197][  1]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:205][  2]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:214][  3]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:222][  4]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:233][  5]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:239][  6]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:248][  7]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:256][  8]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:264][  9]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:273][ 10]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:281][ 11]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:289][ 12]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:298][ 13]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:306][ 14]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:314][ 15]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:323][ 16]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:331][ 17]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:340][ 18]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:347][ 19]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:355][ 20]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:364][ 21]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:372][ 22]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:380][ 23]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:389][ 24]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:397][ 25]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:405][ 26]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:414][ 27]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:422][ 28]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:430][ 29]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:439][ 30]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:447][ 31]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:455][ 32]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:464][ 33]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:472][ 34]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:480][ 35]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:489][ 36]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:498][ 37]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:506][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.14-12.03.27:507][ 38]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:514][ 39]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:523][ 40]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:531][ 41]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:538][ 42]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:547][ 43]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:555][ 44]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:564][ 45]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:572][ 46]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:580][ 47]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:589][ 48]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:605][ 50]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:614][ 51]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:622][ 52]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:630][ 53]LogAnimation: Warning: SkeletalMesh SK_Mannequin has no skeleton. This needs to fixed before an animation can be set
+[2019.08.14-12.03.27:645][ 54]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.08.14-12.03.31:878][ 54]LogSlate: Window 'Mensaje' being destroyed
+[2019.08.14-12.03.31:919][ 54]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.08.14-12.03.35:612][ 54]LogSlate: Window 'Elegir esqueleto' being destroyed
+[2019.08.14-12.03.35:629][ 54]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0025 seconds. Added 1 classes and 2 folders.
+[2019.08.14-12.03.35:778][ 54]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.14-12.03.35:781][ 54]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0015 seconds. Added 1 classes and 0 folders.
+[2019.08.14-12.03.35:826][ 54]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.14-12.03.36:043][ 54]LogSlate: Took 0.000113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.14-12.03.36:113][ 54]LogRenderer: Reallocating scene render targets to support 1208x884 Format 10 NumSamples 1 (Frame:1).
+[2019.08.14-12.03.38:840][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Mesh/SK_Mannequin" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" SILENT=true
+[2019.08.14-12.03.39:460][318]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/SK_MannequinB5CB6BC74262E01EBAD02C8E494738CD.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset'
+[2019.08.14-12.03.40:573][416]LogSlate: Window 'SK_Mannequin' being destroyed
+[2019.08.14-12.03.40:576][416]LogSlate: Window 'SK_Mannequin' being destroyed
+[2019.08.14-12.03.41:586][516]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.14-12.03.41:606][516]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.14-12.03.41:606][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.14-12.03.41:606][516]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (14/8/2019 6:03:41)
+[2019.08.14-12.03.41:606][516]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.14-12.03.41:613][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006229s)
+[2019.08.14-12.03.41:613][516]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.14-12.03.41:613][516]LogPlayLevel: PIE: World Init took: (0.000397s)
+[2019.08.14-12.03.41:613][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.006720s)
+[2019.08.14-12.03.41:636][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.08.14-12.03.41:640][516]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.14-12.03.41:708][516]LogInit: FAudioDevice initialized.
+[2019.08.14-12.03.41:734][516]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.14-12.03.41:737][516]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.08.14-09.03.41
+[2019.08.14-12.03.41:738][516]LogWorld: Bringing up level for play took: 0.002420
+[2019.08.14-12.03.41:749][516]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,844
+[2019.08.14-12.03.41:750][516]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.14-12.03.45:031][904]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.14-12.03.45:032][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-12.03.45:065][904]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.14-12.03.45:066][904]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.14-12.03.45:094][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-12.03.45:096][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2019.08.14-12.03.45:133][907]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.08.14-12.03.46:150][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.14-12.03.46:224][ 38]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.14-12.03.46:246][ 38]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.14-12.03.46:247][ 38]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.14-12.03.46:247][ 38]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (14/8/2019 6:03:46)
+[2019.08.14-12.03.46:247][ 38]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.14-12.03.46:253][ 38]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006273s)
+[2019.08.14-12.03.46:253][ 38]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.14-12.03.46:253][ 38]LogPlayLevel: PIE: World Init took: (0.000416s)
+[2019.08.14-12.03.46:253][ 38]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.006784s)
+[2019.08.14-12.03.46:274][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.08.14-12.03.46:278][ 38]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.14-12.03.46:375][ 38]LogInit: FAudioDevice initialized.
+[2019.08.14-12.03.46:405][ 38]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.14-12.03.46:409][ 38]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.08.14-09.03.46
+[2019.08.14-12.03.46:409][ 38]LogWorld: Bringing up level for play took: 0.003336
+[2019.08.14-12.03.46:423][ 38]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,171
+[2019.08.14-12.03.46:423][ 38]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.14-12.03.53:508][886]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.14-12.03.53:508][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-12.03.53:536][886]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.14-12.03.53:537][886]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.14-12.03.53:562][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-12.03.53:564][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.08.14-12.03.53:613][891]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.08.14-12.03.54:382][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.14-12.03.54:457][992]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.14-12.03.54:479][992]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.14-12.03.54:479][992]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.14-12.03.54:479][992]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (14/8/2019 6:03:54)
+[2019.08.14-12.03.54:479][992]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.14-12.03.54:485][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006787s)
+[2019.08.14-12.03.54:486][992]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.14-12.03.54:486][992]LogPlayLevel: PIE: World Init took: (0.000439s)
+[2019.08.14-12.03.54:486][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.007341s)
+[2019.08.14-12.03.54:506][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.08.14-12.03.54:510][992]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.14-12.03.54:576][992]LogInit: FAudioDevice initialized.
+[2019.08.14-12.03.54:605][992]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.14-12.03.54:608][992]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.08.14-09.03.54
+[2019.08.14-12.03.54:609][992]LogWorld: Bringing up level for play took: 0.002809
+[2019.08.14-12.03.54:621][992]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,028
+[2019.08.14-12.03.54:621][992]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.14-12.03.58:276][429]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.14-12.03.58:276][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-12.03.58:307][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.14-12.03.58:308][429]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.14-12.03.58:337][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-12.03.58:339][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.08.14-12.03.58:376][432]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.08.14-12.04.01:298][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.14-12.04.06:461][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/UE4_Mannequin_Skeleton" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/UE4_Mannequin_Skeleton.uasset" SILENT=true
+[2019.08.14-12.04.06:535][397]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/UE4_Mannequin_Skeleton6E3731DE4049473B1ACB929E843FB95A.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/UE4_Mannequin_Skeleton.uasset'
+[2019.08.14-12.04.06:622][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-12.04.06:646][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.08.14-12.04.06:667][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2019.08.14-12.04.09:518][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/UE4_Mannequin_Skeleton" FILE="Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/UE4_Mannequin_Skeleton.uasset" SILENT=true
+[2019.08.14-12.04.09:586][732]LogSavePackage: Moving 'Z:/Proyecto-final/ProyectoFinal/Saved/UE4_Mannequin_Skeleton01BC489A4619D1BDD87AEB839A36CBC0.tmp' to 'Z:/Proyecto-final/ProyectoFinal/Content/Mannequin/Character/UE4_Mannequin_Skeleton.uasset'
+[2019.08.14-12.04.09:676][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2019.08.14-12.04.09:701][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.08.14-12.04.09:724][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2019.08.14-12.04.12:167][ 21]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.08.14-12.04.12:382][ 21]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.215 s
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: === Handled ensure: ===
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: 
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: Ensure condition failed: Found [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 198]
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: Cannot remove redirection from /Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton, it was not registered
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: Stack: 
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffc832a1711 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffc82f99887 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffc82c1ddbd UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffc58453607 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffc5847e52c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffc4c28a89f UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffc4c24ab33 UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffc4c29a9d7 UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffc49836ba9 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffc498e948a UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffc498e43a8 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffc498ee560 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffc498010b9 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffc49801308 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffc73798bef UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffc7379f390 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffc7377a2c4 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffc73832a12 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffc737a0c95 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffc73684021 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffc73700301 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffc736eaaca UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffc736e0414 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffc9113b8e0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffc9112ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffc9113d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffc9112c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffcb1966d41 USER32.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffcb1966713 USER32.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffc9113e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ff7ff275d3e UE4Editor.exe!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ff7ff28554c UE4Editor.exe!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ff7ff2855ca UE4Editor.exe!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ff7ff29316c UE4Editor.exe!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ff7ff295b8e UE4Editor.exe!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffcb3a73034 KERNEL32.DLL!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: [Callstack] 0x00007ffcb3d63691 ntdll.dll!UnknownFunction []
+[2019.08.14-12.04.12:383][ 21]LogOutputDevice: Error: 
+[2019.08.14-12.04.12:390][ 21]LogStats:                SubmitErrorReport -  0.000 s
