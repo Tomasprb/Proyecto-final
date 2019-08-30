@@ -668,3 +668,245 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.30-14.02.19:416][253]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
 [2019.08.30-14.02.19:629][253]LogSavePackage: Moving '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/ThirdPersonExampleMapE4A7930D46E62606849443865BD9C571.tmp' to '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2019.08.30-14.02.19:762][253]LogSavePackage: Moving '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/ThirdPersonExampleMap_BuiltData117C3AB7447AFD370DC229A8E5F1985B.tmp' to '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.08.30-14.08.20:674][ 57]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/SeleccionNivel.SeleccionNivel
+[2019.08.30-14.11.04:471][596]AssetReimport: New page: Outstanding source content changes 8:11:04
+[2019.08.30-14.11.04:472][596]LogEditorFactories: Performing atomic reimport of [C:/Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/MenusAndHuds/MainMenu/Menu principal.png]
+[2019.08.30-14.11.04:472][596]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/MenusAndHuds/MainMenu/Menu principal.png)
+[2019.08.30-14.11.04:481][596]LogEditorFactories: -- imported successfully
+[2019.08.30-14.11.04:485][596]LogEditorFactories: Performing atomic reimport of [C:/Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/MenusAndHuds/MainMenu/terminal.png]
+[2019.08.30-14.11.04:486][596]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/MenusAndHuds/MainMenu/terminal.png)
+[2019.08.30-14.11.04:637][596]LogEditorFactories: -- imported successfully
+[2019.08.30-14.11.04:685][597]LogSavePackage: Moving '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/Menu_principal11D65E3040BAC5D1F415218D079B9D4E.tmp' to '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/MenusAndHuds/MainMenu/Menu_principal.uasset'
+[2019.08.30-14.11.04:753][597]LogSavePackage: Moving '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/terminal5623B63D4C83AAB820142FBD90214E2B.tmp' to '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/MenusAndHuds/MainMenu/terminal.uasset'
+[2019.08.30-14.11.06:687][813]LogSlate: Window 'Seleccionador de color' being destroyed
+[2019.08.30-14.11.07:767][940]AssetReimport: Reimported asset Menu_principal from C:/Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/MenusAndHuds/MainMenu/Menu principal.png.
+[2019.08.30-14.11.07:767][940]AssetReimport: Reimported asset terminal from C:/Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/MenusAndHuds/MainMenu/terminal.png.
+[2019.08.30-14.12.19:949][763]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2019.08.30-14.12.19:949][763]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.045
+[2019.08.30-14.12.19:950][763]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/MenusAndHuds/MainMenu/MainMenu] ([1] browsable assets)...
+[2019.08.30-14.12.19:950][763]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/MenusAndHuds/MainMenu/MainMenu]
+[2019.08.30-14.12.19:995][763]LogSavePackage: Moving '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/MainMenu_Auto1FD9DBF9B4DEEF128D393258E8FAFE3FB.tmp' to '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/ThirdPersonBP/MenusAndHuds/MainMenu/MainMenu_Auto1.uasset'
+[2019.08.30-14.12.19:996][763]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/SeleccionNivel] ([1] browsable assets)...
+[2019.08.30-14.12.19:996][763]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/SeleccionNivel]
+[2019.08.30-14.12.20:009][763]LogSavePackage: Moving '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/SeleccionNivel_Auto12DD413914A7BB898507093B193747C3E.tmp' to '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/SeleccionNivel_Auto1.uasset'
+[2019.08.30-14.12.20:009][763]LogFileHelpers: Auto-saving content packages took 0.060
+[2019.08.30-14.14.22:702][321]BlueprintLog: New page: Compilar SeleccionNivel
+[2019.08.30-14.14.22:731][321]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.08.30-14.14.23:117][358]LogSavePackage: Moving '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/SeleccionNivelAEC30BF14C7D7F1742BC689A912AAFA3.tmp' to '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/SeleccionNivel.uasset'
+[2019.08.30-14.14.25:055][588]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.30-14.14.25:067][588]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.30-14.14.25:067][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.30-14.14.25:068][588]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (30/8/2019 8:14:25)
+[2019.08.30-14.14.25:080][588]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.30-14.14.25:087][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007136s)
+[2019.08.30-14.14.25:087][588]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.30-14.14.25:088][588]LogPlayLevel: PIE: World Init took: (0.000450s)
+[2019.08.30-14.14.25:088][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.007810s)
+[2019.08.30-14.14.25:117][588]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.08.30-14.14.25:121][588]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.30-14.14.25:187][588]LogInit: FAudioDevice initialized.
+[2019.08.30-14.14.25:231][588]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.30-14.14.25:235][588]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.08.30-11.14.25
+[2019.08.30-14.14.25:235][588]LogWorld: Bringing up level for play took: 0.003226
+[2019.08.30-14.14.25:250][588]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.08.30-14.14.25:252][588]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.08.30-14.14.25:253][588]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 20 classes and 0 folders.
+[2019.08.30-14.14.25:253][588]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,095
+[2019.08.30-14.14.25:253][588]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.30-14.14.26:695][725]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.30-14.14.26:695][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.30-14.14.26:723][725]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.30-14.14.26:723][725]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.30-14.14.26:768][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.30-14.14.26:788][725]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2019.08.30-14.14.26:803][726]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.08.30-14.14.30:846][209]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.30-14.14.30:873][209]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.30-14.14.51:247][647]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.08.30-14.14.52:671][814]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/MainMenuHUD.MainMenuHUD
+[2019.08.30-14.15.11:991][ 96]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.30-14.15.15:885][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.08.30-14.15.16:113][555]LogSavePackage: Moving '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/ThirdPersonExampleMapDC45C33B49463B54BBA957A87905CCC2.tmp' to '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.08.30-14.15.16:213][555]LogSavePackage: Moving '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/ThirdPersonExampleMap_BuiltData81BB51A7454DA964EE56EEBD597E32A9.tmp' to '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.08.30-14.15.16:639][587]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.30-14.15.16:655][587]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.30-14.15.16:655][587]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.30-14.15.16:655][587]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (30/8/2019 8:15:16)
+[2019.08.30-14.15.16:655][587]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.30-14.15.16:662][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006687s)
+[2019.08.30-14.15.16:662][587]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.30-14.15.16:662][587]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2019.08.30-14.15.16:662][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.007418s)
+[2019.08.30-14.15.16:699][587]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.08.30-14.15.16:703][587]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.30-14.15.16:772][587]LogInit: FAudioDevice initialized.
+[2019.08.30-14.15.16:802][587]LogLoad: Game class is 'MainMenuHUD_C'
+[2019.08.30-14.15.16:805][587]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.08.30-11.15.16
+[2019.08.30-14.15.16:805][587]LogWorld: Bringing up level for play took: 0.002510
+[2019.08.30-14.15.16:816][587]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,342
+[2019.08.30-14.15.16:817][587]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.30-14.15.20:460][ 20]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.30-14.15.20:460][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.30-14.15.20:494][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.30-14.15.20:494][ 20]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.30-14.15.20:538][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.30-14.15.20:542][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.08.30-14.15.20:595][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.08.30-14.15.21:513][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.30-14.15.25:076][559]LogSlate: Window 'MainMenuHUD' being destroyed
+[2019.08.30-14.15.25:080][559]LogSlate: Window 'MainMenuHUD' being destroyed
+[2019.08.30-14.15.28:013][899]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.30-14.15.29:137][ 32]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.30-14.15.29:952][129]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.30-14.15.29:962][129]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.30-14.15.29:962][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.30-14.15.29:962][129]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (30/8/2019 8:15:29)
+[2019.08.30-14.15.29:962][129]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.30-14.15.29:969][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006536s)
+[2019.08.30-14.15.29:969][129]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.30-14.15.29:969][129]LogPlayLevel: PIE: World Init took: (0.000439s)
+[2019.08.30-14.15.29:969][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.007077s)
+[2019.08.30-14.15.30:019][129]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2019.08.30-14.15.30:023][129]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.30-14.15.30:090][129]LogInit: FAudioDevice initialized.
+[2019.08.30-14.15.30:116][129]LogLoad: Game class is 'MainMenuHUD_C'
+[2019.08.30-14.15.30:120][129]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.08.30-11.15.30
+[2019.08.30-14.15.30:120][129]LogWorld: Bringing up level for play took: 0.002595
+[2019.08.30-14.15.30:137][129]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,979
+[2019.08.30-14.15.30:138][129]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.30-14.15.32:602][422]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.30-14.15.32:603][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.30-14.15.32:630][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.30-14.15.32:630][422]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.30-14.15.32:676][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.30-14.15.32:689][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.08.30-14.15.32:704][423]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.08.30-14.15.35:035][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.30-14.15.39:786][268]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/MenusAndHuds/MainMenu/MainMenu.MainMenu
+[2019.08.30-14.16.02:465][912]LogSlate: Window 'Seleccionador de color' being destroyed
+[2019.08.30-14.16.23:560][429]BlueprintLog: New page: Compilar MainMenu
+[2019.08.30-14.16.23:597][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.08.30-14.16.24:406][518]LogSavePackage: Moving '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/MainMenu33A3515741A99C10E0CAF58279966D1F.tmp' to '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/MenusAndHuds/MainMenu/MainMenu.uasset'
+[2019.08.30-14.16.26:701][791]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.30-14.16.26:714][791]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.30-14.16.26:714][791]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.30-14.16.26:714][791]PIE: New page: Sesión PIE (reproducción en el editor): ThirdPersonExampleMap (30/8/2019 8:16:26)
+[2019.08.30-14.16.26:714][791]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.30-14.16.26:720][791]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006360s)
+[2019.08.30-14.16.26:721][791]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.30-14.16.26:721][791]LogPlayLevel: PIE: World Init took: (0.000551s)
+[2019.08.30-14.16.26:721][791]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.007020s)
+[2019.08.30-14.16.26:752][791]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.08.30-14.16.26:756][791]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.30-14.16.26:823][791]LogInit: FAudioDevice initialized.
+[2019.08.30-14.16.26:849][791]LogLoad: Game class is 'MainMenuHUD_C'
+[2019.08.30-14.16.26:852][791]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.08.30-11.16.26
+[2019.08.30-14.16.26:853][791]LogWorld: Bringing up level for play took: 0.002649
+[2019.08.30-14.16.26:866][791]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,293
+[2019.08.30-14.16.26:866][791]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.30-14.16.28:766][ 17]Cmd: LevelEditor.ToggleImmersive
+[2019.08.30-14.16.28:913][ 18]LogRenderer: Reallocating scene render targets to support 1360x672 Format 10 NumSamples 1 (Frame:228).
+[2019.08.30-14.16.28:972][ 19]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 10 NumSamples 1 (Frame:230).
+[2019.08.30-14.16.28:974][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.30-14.16.32:462][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.30-14.16.36:830][961]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.30-14.16.36:830][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.30-14.16.36:888][961]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.30-14.16.36:888][961]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.30-14.16.36:923][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.30-14.16.36:926][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.08.30-14.16.36:932][962]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.08.30-14.16.42:126][506]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.30-14.16.43:379][629]LogSlate: Took 0.000111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.30-14.17.17:174][541]BlueprintLog: New page: Compilar MainMenu
+[2019.08.30-14.17.17:207][541]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.08.30-14.17.17:522][567]LogSavePackage: Moving '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/MainMenuB787004E49A7F121E7BBADACFA31E355.tmp' to '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/MenusAndHuds/MainMenu/MainMenu.uasset'
+[2019.08.30-14.17.38:613][976]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/SeleccionNivel.SeleccionNivel
+[2019.08.30-14.19.34:813][142]LogEditorTransaction: Undo Mover Widget
+[2019.08.30-14.19.35:370][195]LogEditorTransaction: Undo Mover Widget
+[2019.08.30-14.19.35:993][266]LogEditorTransaction: Undo Renombrar el Widget
+[2019.08.30-14.19.36:442][316]LogEditorTransaction: Undo Mover Widget
+[2019.08.30-14.20.45:176][238]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/43631478/Desktop/Sin título-1.png)
+[2019.08.30-14.20.45:216][238]LogTexture: Display: Building textures: Sin_título-1 (AutoDXT, 2100X1500)
+[2019.08.30-14.20.53:065][137]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/Sin_título-1.Sin_título-1
+[2019.08.30-14.20.53:071][137]LogBlueprintActionDatabase: Requesting refresh due to module change: TextureEditor (loaded)
+[2019.08.30-14.20.53:072][137]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2019.08.30-14.21.41:918][254]LogHttp: Warning: 0000020B169BE0C0: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2019.08.30-14.21.41:918][254]LogHttp: Warning: 0000020B169BE0C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x20a8a35bf70 [can pipeline])
+[2019.08.30-14.21.41:918][254]LogHttp: Warning: 0000020B169BE0C0: libcurl info message cache 1 (Re-using existing connection! (#10) with host datarouter.ol.epicgames.com)
+[2019.08.30-14.21.41:918][254]LogHttp: Warning: 0000020B169BE0C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.80.175.210) port 443 (#10))
+[2019.08.30-14.21.41:918][254]LogHttp: Warning: 0000020B169BE0C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.08.30-14.21.41:918][254]LogHttp: Warning: 0000020B169BE0C0: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.08.30-14.21.41:919][254]LogHttp: Warning: 0000020B169BE0C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.08.30-14.21.41:919][254]LogHttp: Warning: 0000020B169BE0C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.08.30-14.21.41:919][254]LogHttp: Warning: 0000020B169BE0C0: libcurl info message cache 7 (Closing connection 10)
+[2019.08.30-14.21.41:919][254]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B02C43A77-48F8-75F5-E292-9A8E8349D1AA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=6ac891cc4613383ddca9ba83716c46ba%7C%7C6e7d6d28-a4b6-4c52-92e4-a61f6c8651ee&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.08.30-14.25.32:854][943]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2019.08.30-14.25.32:854][943]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.054
+[2019.08.30-14.25.32:855][943]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/SeleccionNivel] ([1] browsable assets)...
+[2019.08.30-14.25.32:855][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/SeleccionNivel]
+[2019.08.30-14.25.32:868][943]LogSavePackage: Moving '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/SeleccionNivel_Auto21DE4A65148552F1F637A8EB6FFCEA0E4.tmp' to '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/SeleccionNivel_Auto2.uasset'
+[2019.08.30-14.25.32:868][943]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/MainMenuHUD] ([1] browsable assets)...
+[2019.08.30-14.25.32:868][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/MainMenuHUD]
+[2019.08.30-14.25.32:871][943]LogSavePackage: Moving '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/MainMenuHUD_Auto29414CE6943620906BDA47581692C0CE7.tmp' to '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/MainMenuHUD_Auto2.uasset'
+[2019.08.30-14.25.32:872][943]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/Sin_título-1] ([1] browsable assets)...
+[2019.08.30-14.25.32:878][943]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/Sin_título-1.Sin_título-1]
+[2019.08.30-14.25.32:878][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/Sin_título-1]
+[2019.08.30-14.25.32:883][943]LogSavePackage: Moving '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/Sin_título-1_Auto2B6E4FF9E46FA406D9C4DB488552175E0.tmp' to '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/Sin_título-1_Auto2.uasset'
+[2019.08.30-14.25.32:892][943]LogFileHelpers: Auto-saving content packages took 0.037
+[2019.08.30-14.35.50:702][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.30-14.36.57:190][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.08.30-14.37.00:143][667]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.30-14.37.00:226][667]LogSlate: Window 'Sin_título-1' being destroyed
+[2019.08.30-14.37.00:267][667]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/Sin_título-1.Sin_título-1
+[2019.08.30-14.37.00:957][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.08.30-14.37.04:533][719]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/43631478/Desktop/Sin título-1.png)
+[2019.08.30-14.37.04:566][719]LogTexture: Display: Building textures: Sin_título-1 (AutoDXT, 2100X1500)
+[2019.08.30-14.37.12:004][576]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/SeleccionNivel.SeleccionNivel
+[2019.08.30-14.37.30:715][657]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.30-14.37.30:715][657]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/Sin_título-1.Sin_título-1
+[2019.08.30-14.38.04:429][497]LogEditorTransaction: Undo Mover Widget
+[2019.08.30-14.38.10:830][113]LogEditorTransaction: Undo Mover Widget
+[2019.08.30-14.39.04:757][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.30-14.39.13:438][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.30-14.39.23:269][202]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.30-14.39.26:558][596]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.30-14.39.32:496][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.30-14.39.32:538][306]LogSlate: Window 'Sin_título-1' being destroyed
+[2019.08.30-14.39.32:542][306]LogSlate: Window 'Sin_título-1' being destroyed
+[2019.08.30-14.39.59:874][824]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.08.30-14.39.59:874][824]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.044
+[2019.08.30-14.39.59:875][824]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/SeleccionNivel] ([1] browsable assets)...
+[2019.08.30-14.39.59:875][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/SeleccionNivel]
+[2019.08.30-14.39.59:888][824]LogSavePackage: Moving '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/SeleccionNivel_Auto32FCFCE124DBF8B72633A89A20C29367A.tmp' to '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/SeleccionNivel_Auto3.uasset'
+[2019.08.30-14.39.59:888][824]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/Sin_título-1] ([1] browsable assets)...
+[2019.08.30-14.39.59:892][824]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/Sin_título-1.Sin_título-1]
+[2019.08.30-14.39.59:892][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/Sin_título-1]
+[2019.08.30-14.39.59:898][824]LogSavePackage: Moving '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/Sin_título-1_Auto30D367B3C4E964E9C517EEE9AB575EF6C.tmp' to '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/Sin_título-1_Auto3.uasset'
+[2019.08.30-14.39.59:898][824]LogFileHelpers: Auto-saving content packages took 0.023
+[2019.08.30-14.41.01:961][219]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/SeleccionNivel.SeleccionNivel
+[2019.08.30-14.45.37:709][720]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/43631478/Desktop/Nivel 2.png)
+[2019.08.30-14.45.37:715][720]LogTexture: Display: Building textures: Nivel_2 (AutoDXT, 400X400)
+[2019.08.30-14.47.39:552][877]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/43631478/Desktop/Nivel 1.png)
+[2019.08.30-14.47.39:557][877]LogTexture: Display: Building textures: Nivel_1 (AutoDXT, 400X400)
+[2019.08.30-14.47.43:411][318]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.08.30-14.47.44:567][318]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.30-14.47.44:620][318]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.08.30-14.48.54:523][454]LogSlate: Window 'Seleccionador de color' being destroyed
+[2019.08.30-14.50.00:003][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.08.30-14.50.00:003][280]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.029
+[2019.08.30-14.50.00:004][280]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/SeleccionNivel] ([1] browsable assets)...
+[2019.08.30-14.50.00:004][280]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/SeleccionNivel]
+[2019.08.30-14.50.00:017][280]LogSavePackage: Moving '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/SeleccionNivel_Auto4E091658F45D2B7A5BE426386D8D3A578.tmp' to '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/SeleccionNivel_Auto4.uasset'
+[2019.08.30-14.50.00:018][280]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/Nivel_1] ([1] browsable assets)...
+[2019.08.30-14.50.00:022][280]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/Nivel_1.Nivel_1]
+[2019.08.30-14.50.00:022][280]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/Nivel_1]
+[2019.08.30-14.50.00:028][280]LogSavePackage: Moving '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/Nivel_1_Auto4D304728144983A682EBBCEA7F68443DD.tmp' to '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/Nivel_1_Auto4.uasset'
+[2019.08.30-14.50.00:028][280]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/Nivel_2] ([1] browsable assets)...
+[2019.08.30-14.50.00:033][280]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/Nivel_2.Nivel_2]
+[2019.08.30-14.50.00:033][280]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/Nivel_2]
+[2019.08.30-14.50.00:040][280]LogSavePackage: Moving '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/Nivel_2_Auto4727D95614506ADDB2BF48EBFA3BCC898.tmp' to '../../../../../../Users/43631478/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/Nivel_2_Auto4.uasset'
+[2019.08.30-14.50.00:041][280]LogFileHelpers: Auto-saving content packages took 0.037
+[2019.08.30-14.53.07:300][561]LogEditorTransaction: Undo Mover Widget
+[2019.08.30-14.53.48:437][244]LogEditorTransaction: Undo Mover Widget
