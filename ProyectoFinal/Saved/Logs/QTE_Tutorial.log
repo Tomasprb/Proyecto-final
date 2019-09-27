@@ -3832,3 +3832,705 @@ Script Stack (0 frames):
 [2019.09.27-13.21.02:495][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
 [2019.09.27-13.21.03:062][583]LogSavePackage: Moving '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Saved/Demonstration068C133D4A5EBE4305033F915F12B8D0.tmp' to '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Content/SubwayTrain/Maps/Demonstration.umap'
 [2019.09.27-13.21.04:881][583]LogSavePackage: Moving '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Saved/Demonstration_BuiltData4A9922BC4DEDE4E6EA2ACBA519111F2D.tmp' to '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Content/SubwayTrain/Maps/Demonstration_BuiltData.uasset'
+[2019.09.27-13.27.56:986][ 93]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture11)
+[2019.09.27-13.28.05:671][128]Cmd: TRANSACTION UNDO
+[2019.09.27-13.28.05:671][128]LogEditorTransaction: Undo Move Actors
+[2019.09.27-13.28.23:311][243]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-13.28.24:268][353]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-13.31.02:276][267]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.09.27-13.31.02:276][267]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SubwayTrain/Maps/Demonstration' took 0.034
+[2019.09.27-13.41.02:146][192]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-13.41.02:190][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.09.27-13.41.02:190][192]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SubwayTrain/Maps/Demonstration' took 0.030
+[2019.09.27-13.51.02:061][131]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-13.51.02:100][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.09.27-13.51.02:100][131]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SubwayTrain/Maps/Demonstration' took 0.032
+[2019.09.27-14.01.02:422][895]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-14.01.02:492][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.09.27-14.01.02:492][895]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SubwayTrain/Maps/Demonstration' took 0.033
+[2019.09.27-14.02.50:528][844]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-14.03.08:557][879]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-14.03.21:118][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-14.03.27:790][129]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.09.27-14.03.27:839][130]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2019.09.27-14.03.27:902][131]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2019.09.27-14.03.27:948][133]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2019.09.27-14.03.27:992][134]LogMaterial: Display: Missing cached shader map for material Material_4, compiling. 
+[2019.09.27-14.03.31:136][444]LogAssetEditorManager: Opening Asset editor for EditorUtilityWidgetBlueprint /Game/Menu/MainMenu.MainMenu
+[2019.09.27-14.03.34:884][854]LogSlate: Window 'MainMenu' being destroyed
+[2019.09.27-14.03.34:886][854]LogSlate: Window 'MainMenu' being destroyed
+[2019.09.27-14.03.36:230][  1]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/MenusAndHuds/MainMenu/MainMenu.MainMenu
+[2019.09.27-14.03.50:235][650]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/SeleccionNivel.SeleccionNivel
+[2019.09.27-14.11.03:028][564]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2019.09.27-14.11.03:028][564]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SubwayTrain/Maps/Demonstration' took 0.058
+[2019.09.27-14.16.53:366][610]AssetReimport: New page: Outstanding source content changes 8:16:53
+[2019.09.27-14.16.53:381][610]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Content/Menu/torniquete.psd)
+[2019.09.27-14.16.53:477][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/torniquete" FILE="../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Content/Menu/torniquete.uasset" SILENT=true
+[2019.09.27-14.16.53:504][610]LogSavePackage: Moving '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Saved/torniqueteB254497E4D6CAD0D15968F9F7AAFA40D.tmp' to '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Content/Menu/torniquete.uasset'
+[2019.09.27-14.16.56:514][962]AssetReimport: Importing new asset /Game/Menu/torniquete.
+[2019.09.27-14.17.07:697][302]LogAssetEditorManager: Opening Asset editor for EditorUtilityWidgetBlueprint /Game/Menu/MainMenu.MainMenu
+[2019.09.27-14.17.48:216][116]LogSavePackage: Moving '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Saved/torniqueteF36C59524FB685D37D868485F7A42E51.tmp' to '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/MenusAndHuds/MainMenu/torniquete.uasset'
+[2019.09.27-14.17.48:358][116]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2019.09.27-14.17.48:394][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.09.27-14.17.48:425][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.09.27-14.18.38:196][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.09.27-14.18.40:480][770]LogSlate: Window 'Delete Assets' being destroyed
+[2019.09.27-14.18.40:547][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.09.27-14.18.40:577][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.09.27-14.18.40:607][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.09.27-14.21.04:022][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.09.27-14.21.04:022][539]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SubwayTrain/Maps/Demonstration' took 0.028
+[2019.09.27-14.31.04:680][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.09.27-14.31.04:680][333]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SubwayTrain/Maps/Demonstration' took 0.029
+[2019.09.27-14.32.31:710][593]AssetReimport: New page: Outstanding source content changes 8:32:31
+[2019.09.27-14.32.31:712][593]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/torniquete.psd)
+[2019.09.27-14.32.31:827][594]LogSavePackage: Moving '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Saved/torniquete953D84194801EDF58EA7ABB777227EF2.tmp' to '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/torniquete.uasset'
+[2019.09.27-14.32.34:840][938]AssetReimport: Importing new asset /Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/torniquete.
+[2019.09.27-14.32.36:029][ 80]LogAIModule: Creating AISystem for world NivelMenu
+[2019.09.27-14.32.36:031][ 80]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu
+[2019.09.27-14.32.36:061][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.09.27-14.32.36:062][ 80]Cmd: MAP LOAD FILE="../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.27-14.32.36:062][ 80]LightingResults: New page: Diseñar la iluminación
+[2019.09.27-14.32.36:063][ 80]LoadErrors: New page: Cargando mapa: NivelMenu.umap
+[2019.09.27-14.32.36:075][ 80]MapCheck: New page: Revisión del mapa
+[2019.09.27-14.32.36:075][ 80]LightingResults: New page: Diseñar la iluminación
+[2019.09.27-14.32.36:109][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.09.27-14.32.36:110][ 80]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.27-14.32.36:139][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.09.27-14.32.36:174][ 80]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.27-14.32.36:174][ 80]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,089ms to complete.
+[2019.09.27-14.32.36:174][ 80]LogFileHelpers: Loading map 'NivelMenu' took 0.113
+[2019.09.27-14.32.38:363][339]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.27-14.32.38:378][339]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu' with GeneratedClass '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu'
+[2019.09.27-14.32.38:378][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.27-14.32.38:378][339]PIE: New page: Sesión PIE (reproducción en el editor): NivelMenu (27/9/2019 8:32:38)
+[2019.09.27-14.32.38:378][339]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/MenusAndHuds/MainMenu/UEDPIE_0_NivelMenu
+[2019.09.27-14.32.38:379][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000571s)
+[2019.09.27-14.32.38:379][339]LogAIModule: Creating AISystem for world NivelMenu
+[2019.09.27-14.32.38:380][339]LogPlayLevel: PIE: World Init took: (0.000367s)
+[2019.09.27-14.32.38:380][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu to /Game/ThirdPersonBP/MenusAndHuds/MainMenu/UEDPIE_0_NivelMenu.NivelMenu (0.001153s)
+[2019.09.27-14.32.38:408][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.09.27-14.32.38:412][339]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.27-14.32.38:478][339]LogInit: FAudioDevice initialized.
+[2019.09.27-14.32.38:504][339]LogLoad: Game class is 'MenuPrincipal_C'
+[2019.09.27-14.32.38:505][339]LogWorld: Bringing World /Game/ThirdPersonBP/MenusAndHuds/MainMenu/UEDPIE_0_NivelMenu.NivelMenu up for play (max tick rate 0) at 2019.09.27-11.32.38
+[2019.09.27-14.32.38:505][339]LogWorld: Bringing up level for play took: 0.000227
+[2019.09.27-14.32.38:521][339]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/MenusAndHuds/MainMenu/UEDPIE_0_NivelMenu 0,678
+[2019.09.27-14.32.38:521][339]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu' with GeneratedClass '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu'
+[2019.09.27-14.32.46:587][306]LogNet: Browse: /Game/ThirdPersonBP/Maps/TesteoGrafico
+[2019.09.27-14.32.46:587][306]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/TesteoGrafico
+[2019.09.27-14.32.46:619][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.09.27-14.32.46:700][306]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2019.09.27-14.32.46:700][306]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2019.09.27-14.32.46:700][306]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2019.09.27-14.32.46:700][306]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X64)
+[2019.09.27-14.32.46:700][306]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 32X32)
+[2019.09.27-14.32.46:700][306]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2019.09.27-14.32.46:700][306]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2019.09.27-14.32.46:700][306]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/StandUp.StandUp
+[2019.09.27-14.32.46:700][306]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/StandUp.StandUp) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.09.27-14.32.46:721][306]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2019.09.27-14.32.46:721][306]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2019.09.27-14.32.46:721][306]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2019.09.27-14.32.46:859][306]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2019.09.27-14.32.46:860][306]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2019.09.27-14.32.46:860][306]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2019.09.27-14.32.46:860][306]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2019.09.27-14.32.46:860][306]LogMaterial: Display: Missing cached shader map for material Material_013, compiling. 
+[2019.09.27-14.32.47:291][306]LogAIModule: Creating AISystem for world TesteoGrafico
+[2019.09.27-14.32.47:291][306]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.27-14.32.47:296][306]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TesteoGrafico.TesteoGrafico up for play (max tick rate 0) at 2019.09.27-11.32.47
+[2019.09.27-14.32.47:298][306]LogWorld: Bringing up level for play took: 0.005992
+[2019.09.27-14.32.47:298][306]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.09.27-14.32.47:300][306]LogLoad: Took 0.712912 seconds to LoadMap(/Game/ThirdPersonBP/Maps/TesteoGrafico)
+[2019.09.27-14.32.54:017][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-14.32.54:017][ 87]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu' with GeneratedClass '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu'
+[2019.09.27-14.32.54:043][ 87]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.27-14.32.54:043][ 87]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu' with GeneratedClass '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu'
+[2019.09.27-14.32.54:076][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-14.32.54:081][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.09.27-14.32.54:108][ 90]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2019.09.27-14.32.58:834][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-14.32.58:926][668]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.27-14.32.58:942][668]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu' with GeneratedClass '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu'
+[2019.09.27-14.32.58:942][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.27-14.32.58:942][668]PIE: New page: Sesión PIE (reproducción en el editor): NivelMenu (27/9/2019 8:32:58)
+[2019.09.27-14.32.58:942][668]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/MenusAndHuds/MainMenu/UEDPIE_0_NivelMenu
+[2019.09.27-14.32.58:943][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000636s)
+[2019.09.27-14.32.58:943][668]LogAIModule: Creating AISystem for world NivelMenu
+[2019.09.27-14.32.58:943][668]LogPlayLevel: PIE: World Init took: (0.000367s)
+[2019.09.27-14.32.58:943][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu to /Game/ThirdPersonBP/MenusAndHuds/MainMenu/UEDPIE_0_NivelMenu.NivelMenu (0.001084s)
+[2019.09.27-14.32.58:970][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.09.27-14.32.58:974][668]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.27-14.32.59:041][668]LogInit: FAudioDevice initialized.
+[2019.09.27-14.32.59:068][668]LogLoad: Game class is 'MenuPrincipal_C'
+[2019.09.27-14.32.59:069][668]LogWorld: Bringing World /Game/ThirdPersonBP/MenusAndHuds/MainMenu/UEDPIE_0_NivelMenu.NivelMenu up for play (max tick rate 0) at 2019.09.27-11.32.59
+[2019.09.27-14.32.59:069][668]LogWorld: Bringing up level for play took: 0.000224
+[2019.09.27-14.32.59:081][668]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/MenusAndHuds/MainMenu/UEDPIE_0_NivelMenu -0,761
+[2019.09.27-14.32.59:082][668]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu' with GeneratedClass '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu'
+[2019.09.27-14.33.01:471][955]LogNet: Browse: /Game/ThirdPersonBP/Maps/TesteoGrafico
+[2019.09.27-14.33.01:471][955]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/TesteoGrafico
+[2019.09.27-14.33.01:504][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.09.27-14.33.01:541][955]LogAIModule: Creating AISystem for world TesteoGrafico
+[2019.09.27-14.33.01:541][955]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.27-14.33.01:548][955]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TesteoGrafico.TesteoGrafico up for play (max tick rate 0) at 2019.09.27-11.33.01
+[2019.09.27-14.33.01:549][955]LogWorld: Bringing up level for play took: 0.006779
+[2019.09.27-14.33.01:549][955]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.09.27-14.33.01:550][955]LogLoad: Took 0.078402 seconds to LoadMap(/Game/ThirdPersonBP/Maps/TesteoGrafico)
+[2019.09.27-14.33.06:031][492]LogActorComponent: Error: May not destroy component CharacterMovementComponent /Game/ThirdPersonBP/Maps/UEDPIE_0_TesteoGrafico.TesteoGrafico:PersistentLevel.ThirdPersonCharacter_167.CharMoveComp owned by ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_TesteoGrafico.TesteoGrafico:PersistentLevel.ThirdPersonCharacter_167.
+[2019.09.27-14.33.06:581][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-14.33.06:581][558]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu' with GeneratedClass '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu'
+[2019.09.27-14.33.06:614][558]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.27-14.33.06:615][558]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu' with GeneratedClass '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu'
+[2019.09.27-14.33.06:659][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-14.33.06:662][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.09.27-14.33.06:681][560]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2019.09.27-14.33.10:474][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-14.33.11:058][ 85]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.27-14.33.11:074][ 85]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu' with GeneratedClass '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu'
+[2019.09.27-14.33.11:075][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.27-14.33.11:075][ 85]PIE: New page: Sesión PIE (reproducción en el editor): NivelMenu (27/9/2019 8:33:11)
+[2019.09.27-14.33.11:075][ 85]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/MenusAndHuds/MainMenu/UEDPIE_0_NivelMenu
+[2019.09.27-14.33.11:075][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000584s)
+[2019.09.27-14.33.11:076][ 85]LogAIModule: Creating AISystem for world NivelMenu
+[2019.09.27-14.33.11:076][ 85]LogPlayLevel: PIE: World Init took: (0.000469s)
+[2019.09.27-14.33.11:076][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu to /Game/ThirdPersonBP/MenusAndHuds/MainMenu/UEDPIE_0_NivelMenu.NivelMenu (0.001133s)
+[2019.09.27-14.33.11:102][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.09.27-14.33.11:106][ 85]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.27-14.33.11:193][ 85]LogInit: FAudioDevice initialized.
+[2019.09.27-14.33.11:222][ 85]LogLoad: Game class is 'MenuPrincipal_C'
+[2019.09.27-14.33.11:223][ 85]LogWorld: Bringing World /Game/ThirdPersonBP/MenusAndHuds/MainMenu/UEDPIE_0_NivelMenu.NivelMenu up for play (max tick rate 0) at 2019.09.27-11.33.11
+[2019.09.27-14.33.11:223][ 85]LogWorld: Bringing up level for play took: 0.000238
+[2019.09.27-14.33.11:241][ 85]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/MenusAndHuds/MainMenu/UEDPIE_0_NivelMenu -0,601
+[2019.09.27-14.33.11:241][ 85]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu' with GeneratedClass '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu'
+[2019.09.27-14.33.13:866][399]LogNet: Browse: /Game/ThirdPersonBP/Maps/TesteoGrafico
+[2019.09.27-14.33.13:866][399]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/TesteoGrafico
+[2019.09.27-14.33.13:897][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.09.27-14.33.13:936][399]LogAIModule: Creating AISystem for world TesteoGrafico
+[2019.09.27-14.33.13:937][399]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.27-14.33.13:944][399]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TesteoGrafico.TesteoGrafico up for play (max tick rate 0) at 2019.09.27-11.33.13
+[2019.09.27-14.33.13:945][399]LogWorld: Bringing up level for play took: 0.007486
+[2019.09.27-14.33.13:945][399]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.09.27-14.33.13:946][399]LogLoad: Took 0.079781 seconds to LoadMap(/Game/ThirdPersonBP/Maps/TesteoGrafico)
+[2019.09.27-14.33.17:620][836]LogActorComponent: Error: May not destroy component CharacterMovementComponent /Game/ThirdPersonBP/Maps/UEDPIE_0_TesteoGrafico.TesteoGrafico:PersistentLevel.ThirdPersonCharacter_167.CharMoveComp owned by ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_TesteoGrafico.TesteoGrafico:PersistentLevel.ThirdPersonCharacter_167.
+[2019.09.27-14.33.18:920][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-14.33.18:920][992]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu' with GeneratedClass '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu'
+[2019.09.27-14.33.18:946][992]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.27-14.33.18:947][992]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu' with GeneratedClass '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu'
+[2019.09.27-14.33.18:987][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-14.33.18:990][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.09.27-14.33.19:026][996]LogPlayLevel: Display: Destroying online subsystem :Context_107
+[2019.09.27-14.33.26:907][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-14.33.26:998][952]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.27-14.33.27:014][952]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu' with GeneratedClass '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu'
+[2019.09.27-14.33.27:014][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.27-14.33.27:014][952]PIE: New page: Sesión PIE (reproducción en el editor): NivelMenu (27/9/2019 8:33:27)
+[2019.09.27-14.33.27:014][952]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/MenusAndHuds/MainMenu/UEDPIE_0_NivelMenu
+[2019.09.27-14.33.27:014][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000593s)
+[2019.09.27-14.33.27:015][952]LogAIModule: Creating AISystem for world NivelMenu
+[2019.09.27-14.33.27:015][952]LogPlayLevel: PIE: World Init took: (0.000367s)
+[2019.09.27-14.33.27:015][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu to /Game/ThirdPersonBP/MenusAndHuds/MainMenu/UEDPIE_0_NivelMenu.NivelMenu (0.001040s)
+[2019.09.27-14.33.27:046][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.09.27-14.33.27:050][952]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.27-14.33.27:117][952]LogInit: FAudioDevice initialized.
+[2019.09.27-14.33.27:148][952]LogLoad: Game class is 'MenuPrincipal_C'
+[2019.09.27-14.33.27:149][952]LogWorld: Bringing World /Game/ThirdPersonBP/MenusAndHuds/MainMenu/UEDPIE_0_NivelMenu.NivelMenu up for play (max tick rate 0) at 2019.09.27-11.33.27
+[2019.09.27-14.33.27:149][952]LogWorld: Bringing up level for play took: 0.000227
+[2019.09.27-14.33.27:162][952]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/MenusAndHuds/MainMenu/UEDPIE_0_NivelMenu -0,681
+[2019.09.27-14.33.27:162][952]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu' with GeneratedClass '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu'
+[2019.09.27-14.33.35:193][915]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.09.27-14.33.35:193][915]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.09.27-14.33.35:225][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.09.27-14.33.35:272][915]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.27-14.33.35:272][915]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.27-14.33.35:277][915]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.09.27-11.33.35
+[2019.09.27-14.33.35:286][915]LogWorld: Bringing up level for play took: 0.012777
+[2019.09.27-14.33.35:288][915]LogLoad: Took 0.093940 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.09.27-14.33.46:576][268]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu' with GeneratedClass '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu'
+[2019.09.27-14.33.46:576][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-14.33.46:603][268]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.27-14.33.46:604][268]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu' with GeneratedClass '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu'
+[2019.09.27-14.33.46:642][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-14.33.46:646][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.09.27-14.33.46:681][272]LogPlayLevel: Display: Destroying online subsystem :Context_108
+[2019.09.27-14.33.53:078][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-14.33.53:232][ 57]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu
+[2019.09.27-14.33.53:259][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.09.27-14.33.53:260][ 57]Cmd: MAP LOAD FILE="../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.27-14.33.53:260][ 57]LightingResults: New page: Diseñar la iluminación
+[2019.09.27-14.33.53:260][ 57]LoadErrors: New page: Cargando mapa: NivelMenu.umap
+[2019.09.27-14.33.53:260][ 57]MapCheck: New page: Revisión del mapa
+[2019.09.27-14.33.53:260][ 57]LightingResults: New page: Diseñar la iluminación
+[2019.09.27-14.33.53:292][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.09.27-14.33.53:295][ 57]LogAIModule: Creating AISystem for world NivelMenu
+[2019.09.27-14.33.53:295][ 57]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.27-14.33.53:328][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.09.27-14.33.53:349][ 57]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.27-14.33.53:349][ 57]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,081ms to complete.
+[2019.09.27-14.33.53:350][ 57]LogFileHelpers: Loading map 'NivelMenu' took 0.090
+[2019.09.27-14.33.54:558][199]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.27-14.33.54:574][199]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu' with GeneratedClass '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu'
+[2019.09.27-14.33.54:574][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.27-14.33.54:574][199]PIE: New page: Sesión PIE (reproducción en el editor): NivelMenu (27/9/2019 8:33:54)
+[2019.09.27-14.33.54:574][199]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/MenusAndHuds/MainMenu/UEDPIE_0_NivelMenu
+[2019.09.27-14.33.54:575][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000593s)
+[2019.09.27-14.33.54:575][199]LogAIModule: Creating AISystem for world NivelMenu
+[2019.09.27-14.33.54:575][199]LogPlayLevel: PIE: World Init took: (0.000356s)
+[2019.09.27-14.33.54:575][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu to /Game/ThirdPersonBP/MenusAndHuds/MainMenu/UEDPIE_0_NivelMenu.NivelMenu (0.001028s)
+[2019.09.27-14.33.54:607][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.09.27-14.33.54:611][199]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.27-14.33.54:700][199]LogInit: FAudioDevice initialized.
+[2019.09.27-14.33.54:732][199]LogLoad: Game class is 'MenuPrincipal_C'
+[2019.09.27-14.33.54:733][199]LogWorld: Bringing World /Game/ThirdPersonBP/MenusAndHuds/MainMenu/UEDPIE_0_NivelMenu.NivelMenu up for play (max tick rate 0) at 2019.09.27-11.33.54
+[2019.09.27-14.33.54:733][199]LogWorld: Bringing up level for play took: 0.000249
+[2019.09.27-14.33.54:746][199]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/MenusAndHuds/MainMenu/UEDPIE_0_NivelMenu 0,903
+[2019.09.27-14.33.54:746][199]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu' with GeneratedClass '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu'
+[2019.09.27-14.33.58:013][591]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.09.27-14.33.58:013][591]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.09.27-14.33.58:046][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2019.09.27-14.33.58:092][591]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.27-14.33.58:092][591]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.27-14.33.58:097][591]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.09.27-11.33.58
+[2019.09.27-14.33.58:097][591]LogWorld: Bringing up level for play took: 0.004099
+[2019.09.27-14.33.58:098][591]LogLoad: Took 0.084590 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.09.27-14.34.08:580][848]PIE: Warning: The widget 'W_Main_C' was already added to the screen.
+[2019.09.27-14.34.10:289][ 53]PIE: Warning: The widget 'W_Main_C' was already added to the screen.
+[2019.09.27-14.34.13:565][446]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu' with GeneratedClass '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu'
+[2019.09.27-14.34.13:565][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-14.34.13:592][446]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.27-14.34.13:592][446]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu' with GeneratedClass '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu'
+[2019.09.27-14.34.13:627][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-14.34.13:631][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.09.27-14.34.13:637][446]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-14.34.13:668][449]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2019.09.27-14.34.16:901][837]LogSlate: Window 'Registro del mensaje' being destroyed
+[2019.09.27-14.34.16:904][837]LogSlate: Window 'Registro del mensaje' being destroyed
+[2019.09.27-14.34.23:384][607]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.27-14.34.23:388][607]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.09.27-14.34.23:417][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.09.27-14.34.23:418][607]Cmd: MAP LOAD FILE="../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.27-14.34.23:418][607]LightingResults: New page: Diseñar la iluminación
+[2019.09.27-14.34.23:418][607]LoadErrors: New page: Cargando mapa: ThirdPersonExampleMap.umap
+[2019.09.27-14.34.23:419][607]MapCheck: New page: Revisión del mapa
+[2019.09.27-14.34.23:419][607]LightingResults: New page: Diseñar la iluminación
+[2019.09.27-14.34.23:448][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.09.27-14.34.23:453][607]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.27-14.34.23:481][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.09.27-14.34.23:500][607]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.27-14.34.23:500][607]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,093ms to complete.
+[2019.09.27-14.34.23:500][607]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.083
+[2019.09.27-14.34.24:841][764]MapCheck: New page: Revisión del mapa
+[2019.09.27-14.34.24:854][764]Cmd: MAP REBUILD ALLVISIBLE
+[2019.09.27-14.34.24:854][764]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.09.27-14.34.24:893][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.09.27-14.34.24:923][764]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.27-14.34.24:928][764]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.27-14.34.24:934][764]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.27-14.34.24:940][764]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.27-14.34.24:949][764]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.27-14.34.24:957][764]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.27-14.34.24:964][764]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.27-14.34.24:972][764]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.27-14.34.24:980][764]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.27-14.34.24:988][764]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.27-14.34.24:996][764]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.27-14.34.25:002][764]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.27-14.34.25:008][764]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.27-14.34.25:015][764]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.27-14.34.25:021][764]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.27-14.34.25:026][764]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.27-14.34.25:032][764]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.27-14.34.25:038][764]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.27-14.34.25:044][764]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.09.27-14.34.25:928][764]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.09.27-14.34.25:928][764]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.09.27-14.34.25:928][764]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.09.27-14.34.25:928][764]TextureStreamingBuild: Display: Compiling optional shaders took 1.009 seconds.
+[2019.09.27-14.34.26:002][764]LogLevel: Display: Export Material TexCoord Scales took 0.073 seconds.
+[2019.09.27-14.34.26:034][764]TextureStreamingBuild: Display: Build Texture Streaming took 0.032 seconds.
+[2019.09.27-14.34.26:066][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.09.27-14.34.26:066][764]LightingResults: New page: Diseño de la iluminación - 27/9/2019 8:34:26
+[2019.09.27-14.34.26:070][764]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.09.27-14.34.26:073][764]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.09.27-14.34.26:073][764]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.09.27-14.34.26:074][764]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.09.27-14.34.26:074][764]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8984
+[2019.09.27-14.34.30:610][764]LightingResults: Warning: No se ha encontrado ningún volumen relevante y la escena es tan larga que el volumen combinado automáticamente no dará buenos resultados. Por favor, añadir un volumen relevante de Lightmass delimitado estrechamente para optimizar los tiempos de diseño de la iluminación y calidad de su escena.
+[2019.09.27-14.34.30:610][764]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.09.27-14.34.30:610][764]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.09.27-14.34.30:610][764]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.09.27-14.34.30:611][764]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.09.27-14.34.30:611][764]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.09.27-14.34.30:776][764]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.09.27-14.34.30:776][764]MapCheck: New page: ThirdPersonExampleMap - 27/9/2019 8:34:30
+[2019.09.27-14.34.30:776][764]MapCheck: Error: WorldSettings_1 Los mapas necesitan rediseñar la iluminación 
+[2019.09.27-14.34.30:776][764]MapCheck: Warning: SM_TableRound23 SM_TableRound23 está en la misma ubicación que SM_TableRound25 
+[2019.09.27-14.34.30:776][764]MapCheck: Warning: SM_TableRound25 SM_TableRound25 está en la misma ubicación que SM_TableRound23 
+[2019.09.27-14.34.30:777][764]MapCheck: Map check complete: 1 Error(s), 2 Warning(s), took 1,125ms to complete.
+[2019.09.27-14.34.30:800][764]LogEditorBuildUtils: Build time 0:05
+[2019.09.27-14.34.30:816][764]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.09.27-14.34.30:822][764]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.09.27-14.34.30:851][765]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Concrete_Panels, compiling. 
+[2019.09.27-14.34.30:859][765]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Concrete_Panels, compiling. 
+[2019.09.27-14.34.30:877][766]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer T_Wood_Oak_Mat, compiling. 
+[2019.09.27-14.34.30:884][766]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer T_Wood_Oak_Mat, compiling. 
+[2019.09.27-14.34.30:933][767]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer T_Concrete_Tiles_Mat, compiling. 
+[2019.09.27-14.34.30:940][767]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer T_Concrete_Tiles_Mat, compiling. 
+[2019.09.27-14.34.30:970][768]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ground_Moss, compiling. 
+[2019.09.27-14.34.30:978][768]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ground_Moss, compiling. 
+[2019.09.27-14.34.31:011][769]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_TableRound, compiling. 
+[2019.09.27-14.34.31:019][769]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_TableRound, compiling. 
+[2019.09.27-14.34.31:045][770]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2019.09.27-14.34.31:054][770]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2019.09.27-14.34.31:101][771]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2019.09.27-14.34.31:110][771]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2019.09.27-14.34.31:136][772]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Glass, compiling. 
+[2019.09.27-14.34.31:145][772]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Glass, compiling. 
+[2019.09.27-14.34.31:164][773]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Chair, compiling. 
+[2019.09.27-14.34.31:173][773]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Chair, compiling. 
+[2019.09.27-14.34.31:191][774]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Lamp, compiling. 
+[2019.09.27-14.34.31:202][774]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Lamp, compiling. 
+[2019.09.27-14.34.31:221][775]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Frame, compiling. 
+[2019.09.27-14.34.31:231][775]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Frame, compiling. 
+[2019.09.27-14.34.31:250][776]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer _CorrogateShiny_1, compiling. 
+[2019.09.27-14.34.31:259][776]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer _CorrogateShiny_1, compiling. 
+[2019.09.27-14.34.31:277][777]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Tech_Panel, compiling. 
+[2019.09.27-14.34.31:286][777]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Tech_Panel, compiling. 
+[2019.09.27-14.34.31:308][778]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Cut_Stone, compiling. 
+[2019.09.27-14.34.31:317][778]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Cut_Stone, compiling. 
+[2019.09.27-14.34.31:334][779]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Door, compiling. 
+[2019.09.27-14.34.31:344][779]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Door, compiling. 
+[2019.09.27-14.34.33:752][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.09.27-14.34.36:782][ 46]LogSlate: Window 'Registro del mensaje' being destroyed
+[2019.09.27-14.34.36:786][ 46]LogSlate: Window 'Registro del mensaje' being destroyed
+[2019.09.27-14.34.37:232][ 86]Job is a success!
+[2019.09.27-14.34.37:313][ 87]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.033s
+[2019.09.27-14.34.37:313][ 87]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2019.09.27-14.34.37:313][ 87]LogVolumetricLightmapImport:      BrickData 40x5x5 = 0.0Mb
+[2019.09.27-14.34.37:313][ 87]LogVolumetricLightmapImport:      Bricks at Level
+[2019.09.27-14.34.37:313][ 87]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2019.09.27-14.34.37:313][ 87]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2019.09.27-14.34.37:313][ 87]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2019.09.27-14.34.37:384][ 87]LightingResults: Warning: SpotLight2 Pérdida grave de rendimiento: Falló al asignar el canal del mapa de sombreado para la luz estacionaria debido a la superposición - ¡la luz volverá a las sombras dinámicas!
+[2019.09.27-14.34.38:006][ 87]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2019.09.27-14.34.38:006][ 87]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.09.27-14.34.38:006][ 87]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.09.27-14.34.38:006][ 87]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2019.09.27-14.34.38:006][ 87]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.09.27-14.34.38:006][ 87]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.09.27-14.34.38:006][ 87]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 512X256)
+[2019.09.27-14.34.38:006][ 87]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2019.09.27-14.34.38:006][ 87]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2019.09.27-14.34.38:006][ 87]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 128X64)
+[2019.09.27-14.34.38:006][ 87]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 128X128)
+[2019.09.27-14.34.38:006][ 87]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 128X128)
+[2019.09.27-14.34.38:006][ 87]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2019.09.27-14.34.38:006][ 87]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2019.09.27-14.34.38:006][ 87]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2019.09.27-14.34.38:053][ 87]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X256)
+[2019.09.27-14.34.38:070][ 87]Lightmass on A-PDELL18-11: 4.04 sec total, 106 ms importing, 74 ms setup, 951 ms photons, 2.88 sec processing, 0 ms extra exporting [87/87 mappings]. Threads: 31.2 sec total, 17.4 sec processing.
+[2019.09.27-14.34.38:073][ 87]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 87 meshes in 8 LightmapResourceClusters (10.9 Meshes per cluster).
+[2019.09.27-14.34.38:076][ 87]LogMaterial: Warning: Material /Game/StarterContent/Textures/T_Wood_Oak_Mat.T_Wood_Oak_Mat needed to have new flag set bUsedWithStaticLighting !
+[2019.09.27-14.34.38:084][ 87]LogMaterial: Display: Missing cached shader map for material T_Wood_Oak_Mat, compiling. 
+[2019.09.27-14.34.38:100][ 87]LogMaterial: Warning: Material /Game/ThirdPerson/Meshes/_CorrogateShiny_1._CorrogateShiny_1 needed to have new flag set bUsedWithStaticLighting !
+[2019.09.27-14.34.38:103][ 87]LogMaterial: Display: Missing cached shader map for material _CorrogateShiny_1, compiling. 
+[2019.09.27-14.34.38:119][ 87]LogMaterial: Warning: Material /Game/StarterContent/Textures/T_Concrete_Tiles_Mat.T_Concrete_Tiles_Mat needed to have new flag set bUsedWithStaticLighting !
+[2019.09.27-14.34.38:122][ 87]LogMaterial: Display: Missing cached shader map for material T_Concrete_Tiles_Mat, compiling. 
+[2019.09.27-14.34.38:180][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.09.27-14.34.38:183][ 87]LogStaticLightingSystem: Illumination: 12.1 sec (622 ms encoding lightmaps, 43 ms encoding shadowmaps)
+[2019.09.27-14.34.38:183][ 87]LogStaticLightingSystem: Lightmap texture memory:  6.1 MB (6.1 MB streaming, 0.0 MB non-streaming), 10 textures
+[2019.09.27-14.34.38:183][ 87]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.09.27-14.34.43:621][ 87]DumpUnbuiltLightIteractions
+[2019.09.27-14.34.43:621][ 87]Lights with unbuilt interactions: 0
+[2019.09.27-14.34.43:621][ 87]
+[2019.09.27-14.34.43:621][ 87]Primitives with unbuilt interactions: 0
+[2019.09.27-14.34.43:737][ 88]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.09.27-14.34.43:737][ 88]MapCheck: New page: ThirdPersonExampleMap - 27/9/2019 8:34:43
+[2019.09.27-14.34.43:737][ 88]MapCheck: Warning: SM_TableRound23 SM_TableRound23 está en la misma ubicación que SM_TableRound25 
+[2019.09.27-14.34.43:737][ 88]MapCheck: Warning: SM_TableRound25 SM_TableRound25 está en la misma ubicación que SM_TableRound23 
+[2019.09.27-14.34.43:738][ 88]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 0,764ms to complete.
+[2019.09.27-14.37.05:113][703]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/devandroid.ALMAGRO.003/Pictures/torniquete.png)
+[2019.09.27-14.37.05:121][703]LogTexture: Display: Building textures: torniquete (BGRA8, 615X306)
+[2019.09.27-14.37.29:711][640]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2019.09.27-14.37.46:486][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp_Ceiling)
+[2019.09.27-14.37.47:367][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp_Ceiling4)
+[2019.09.27-14.37.49:817][ 19]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight4)
+[2019.09.27-14.37.51:209][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp_Ceiling)
+[2019.09.27-14.37.51:945][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lamp_Ceiling)
+[2019.09.27-14.37.53:221][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound39)
+[2019.09.27-14.37.57:820][960]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.09.27-14.38.15:506][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-14.38.33:303][980]LogSlate: Took 0.008252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.09.27-14.40.01:735][334]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/MenusAndHuds/MainMenu/MenuPrincipal.MenuPrincipal
+[2019.09.27-14.40.17:462][858]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/MenusAndHuds/MainMenu/Menu2.Menu2
+[2019.09.27-14.40.25:056][659]LogEditorTransaction: Undo Paste clipboard contents
+[2019.09.27-14.42.27:095][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.09.27-14.42.28:495][127]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/Seleccion2.Seleccion2
+[2019.09.27-14.42.44:310][955]LogEditorTransaction: Undo Eliminar Widget
+[2019.09.27-14.42.46:415][199]LogEditorTransaction: Undo Eliminar Widget
+[2019.09.27-14.42.58:694][520]LogEditorTransaction: Undo Mover Widget
+[2019.09.27-14.43.02:782][880]LogEditorTransaction: Undo Mover Widget
+[2019.09.27-14.43.03:122][905]LogEditorTransaction: Undo Eliminar Widget
+[2019.09.27-14.43.03:424][929]LogEditorTransaction: Undo Move Anchor
+[2019.09.27-14.43.04:544][ 43]LogSlate: Window 'Seleccion2' being destroyed
+[2019.09.27-14.43.04:547][ 43]LogSlate: Window 'Seleccion2' being destroyed
+[2019.09.27-14.43.06:821][296]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/Seleccion2.Seleccion2
+[2019.09.27-14.43.30:104][ 30]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.09.27-14.43.30:104][ 30]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/ThirdPersonBP/MenusAndHuds/MainMenu/torniquete.torniquete
+[2019.09.27-14.43.30:116][ 30]LogBlueprintActionDatabase: Requesting refresh due to module change: TextureEditor (loaded)
+[2019.09.27-14.43.30:117][ 30]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2019.09.27-14.44.29:770][840]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2019.09.27-14.44.30:021][840]LogSavePackage: Moving '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Saved/ThirdPersonExampleMap_Auto25DA604294E1F18B4C60B2A8810B52352.tmp' to '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2019.09.27-14.44.30:022][840]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.309
+[2019.09.27-14.44.30:022][840]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.309
+[2019.09.27-14.44.30:024][840]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/SeleccionNivel] ([1] browsable assets)...
+[2019.09.27-14.44.30:024][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/SeleccionNivel]
+[2019.09.27-14.44.30:039][840]LogSavePackage: Moving '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Saved/SeleccionNivel_Auto23238182C41E163FF4DDBD8A9B1C50FBD.tmp' to '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/SeleccionNivel_Auto2.uasset'
+[2019.09.27-14.44.30:039][840]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Concrete_Tiles_Mat] ([1] browsable assets)...
+[2019.09.27-14.44.30:058][840]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Concrete_Tiles_Mat.T_Concrete_Tiles_Mat]
+[2019.09.27-14.44.30:058][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Concrete_Tiles_Mat]
+[2019.09.27-14.44.30:070][840]LogSavePackage: Moving '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Saved/T_Concrete_Tiles_Mat_Auto25FACA3AF42CD7524F471809CE0E9D6BF.tmp' to '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/StarterContent/Textures/T_Concrete_Tiles_Mat_Auto2.uasset'
+[2019.09.27-14.44.30:070][840]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Wood_Oak_Mat] ([1] browsable assets)...
+[2019.09.27-14.44.30:088][840]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Wood_Oak_Mat.T_Wood_Oak_Mat]
+[2019.09.27-14.44.30:088][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Wood_Oak_Mat]
+[2019.09.27-14.44.30:100][840]LogSavePackage: Moving '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Saved/T_Wood_Oak_Mat_Auto2752793EC4726BE40BB08B79C95C4F2A3.tmp' to '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/StarterContent/Textures/T_Wood_Oak_Mat_Auto2.uasset'
+[2019.09.27-14.44.30:101][840]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Meshes/_CorrogateShiny_1] ([1] browsable assets)...
+[2019.09.27-14.44.30:119][840]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPerson/Meshes/_CorrogateShiny_1._CorrogateShiny_1]
+[2019.09.27-14.44.30:119][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Meshes/_CorrogateShiny_1]
+[2019.09.27-14.44.30:128][840]LogSavePackage: Moving '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Saved/_CorrogateShiny_1_Auto2FF4D360442FDD34F0F90CFBC0C8B355C.tmp' to '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/ThirdPerson/Meshes/_CorrogateShiny_1_Auto2.uasset'
+[2019.09.27-14.44.30:128][840]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/MenusAndHuds/MainMenu/torniquete] ([1] browsable assets)...
+[2019.09.27-14.44.30:131][840]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/MenusAndHuds/MainMenu/torniquete.torniquete]
+[2019.09.27-14.44.30:131][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/MenusAndHuds/MainMenu/torniquete]
+[2019.09.27-14.44.30:135][840]LogSavePackage: Moving '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Saved/torniquete_Auto2724C62DF4998D69428C112AE50631857.tmp' to '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/ThirdPersonBP/MenusAndHuds/MainMenu/torniquete_Auto2.uasset'
+[2019.09.27-14.44.30:136][840]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/MenusAndHuds/MainMenu/Menu2] ([1] browsable assets)...
+[2019.09.27-14.44.30:136][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/MenusAndHuds/MainMenu/Menu2]
+[2019.09.27-14.44.30:139][840]LogSavePackage: Moving '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Saved/Menu2_Auto214EB17024E3F9D7F7B8DCC87FCCE1824.tmp' to '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/ThirdPersonBP/MenusAndHuds/MainMenu/Menu2_Auto2.uasset'
+[2019.09.27-14.44.30:139][840]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/Seleccion2] ([1] browsable assets)...
+[2019.09.27-14.44.30:139][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/Seleccion2]
+[2019.09.27-14.44.30:153][840]LogSavePackage: Moving '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Saved/Seleccion2_Auto2A2446CD44D09F956A24CBEA1F33A4824.tmp' to '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Saved/Autosaves/Game/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/Seleccion2_Auto2.uasset'
+[2019.09.27-14.44.30:153][840]LogFileHelpers: Auto-saving content packages took 0.130
+[2019.09.27-14.44.38:444][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-14.45.12:935][491]LogAIModule: Creating AISystem for world NivelMenu
+[2019.09.27-14.45.12:937][491]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu
+[2019.09.27-14.45.12:971][491]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.09.27-14.45.14:340][491]LogSlate: Window 'Guardar contenido' being destroyed
+[2019.09.27-14.45.14:351][491]LogSavePackage: Moving '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Saved/T_Concrete_Tiles_MatF36AD2184EA818C25ECB20973554285D.tmp' to '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Content/StarterContent/Textures/T_Concrete_Tiles_Mat.uasset'
+[2019.09.27-14.45.14:355][491]LogSavePackage: Moving '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Saved/T_Wood_Oak_MatDBAC4B1541C8B4FF66E50FB913E8E7F1.tmp' to '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Content/StarterContent/Textures/T_Wood_Oak_Mat.uasset'
+[2019.09.27-14.45.14:359][491]LogSavePackage: Moving '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Saved/_CorrogateShiny_1610E587E453FF24DAB36BAB6071F4DC3.tmp' to '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPerson/Meshes/_CorrogateShiny_1.uasset'
+[2019.09.27-14.45.14:391][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.09.27-14.45.14:636][491]LogSavePackage: Moving '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Saved/ThirdPersonExampleMap4F10787E43469BD3158B178F06EDBEC9.tmp' to '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.09.27-14.45.14:657][491]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.298
+[2019.09.27-14.45.14:836][491]LogSavePackage: Moving '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Saved/ThirdPersonExampleMap_BuiltDataEB5EE3F54610A0809DA0EE8B1D513698.tmp' to '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.09.27-14.45.14:840][491]LogSavePackage: Moving '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Saved/Menu285B3918D4756A208272147825DCE71F2.tmp' to '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/MenusAndHuds/MainMenu/Menu2.uasset'
+[2019.09.27-14.45.14:856][491]LogSavePackage: Moving '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Saved/torniqueteAD5FB5F5431C1D3F2DCC87B8EC4E8872.tmp' to '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/MenusAndHuds/MainMenu/torniquete.uasset'
+[2019.09.27-14.45.14:870][491]LogSavePackage: Moving '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Saved/Seleccion2A6FCB23C4DA10AFA8264ACAF1446EA4B.tmp' to '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/Seleccion2.uasset'
+[2019.09.27-14.45.14:884][491]LogSavePackage: Moving '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Saved/SeleccionNivel7749CAA74348FB3B70294BAD8FDD2643.tmp' to '../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/MenusAndHuds/SeleccionEscenario/SeleccionNivel.uasset'
+[2019.09.27-14.45.14:885][491]Cmd: MAP LOAD FILE="../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.27-14.45.14:885][491]LightingResults: New page: Diseñar la iluminación
+[2019.09.27-14.45.14:886][491]LoadErrors: New page: Cargando mapa: NivelMenu.umap
+[2019.09.27-14.45.14:887][491]MapCheck: New page: Revisión del mapa
+[2019.09.27-14.45.14:887][491]LightingResults: New page: Diseñar la iluminación
+[2019.09.27-14.45.14:924][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.09.27-14.45.14:925][491]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.27-14.45.14:956][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.09.27-14.45.14:976][491]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.27-14.45.14:980][491]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3,547ms to complete.
+[2019.09.27-14.45.14:980][491]LogFileHelpers: Loading map 'NivelMenu' took 0.095
+[2019.09.27-14.45.15:089][491]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.27-14.45.17:238][727]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.27-14.45.17:255][727]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu' with GeneratedClass '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu'
+[2019.09.27-14.45.17:255][727]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.09.27-14.45.17:259][727]LogPlayLevel: [PlayLevel] Compiling SeleccionNivel before play...
+[2019.09.27-14.45.17:267][727]LogPlayLevel: [PlayLevel] Compiling Menu2 before play...
+[2019.09.27-14.45.17:269][727]LogPlayLevel: [PlayLevel] Compiling Seleccion2 before play...
+[2019.09.27-14.45.17:434][727]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.09.27-14.45.17:434][727]LogPlayLevel: PlayLevel: Blueprint regeneration took 179 ms (3 blueprints)
+[2019.09.27-14.45.17:434][727]PIE: New page: Sesión PIE (reproducción en el editor): NivelMenu (27/9/2019 8:45:17)
+[2019.09.27-14.45.17:434][727]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/MenusAndHuds/MainMenu/UEDPIE_0_NivelMenu
+[2019.09.27-14.45.17:435][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000602s)
+[2019.09.27-14.45.17:435][727]LogAIModule: Creating AISystem for world NivelMenu
+[2019.09.27-14.45.17:436][727]LogPlayLevel: PIE: World Init took: (0.000378s)
+[2019.09.27-14.45.17:436][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu to /Game/ThirdPersonBP/MenusAndHuds/MainMenu/UEDPIE_0_NivelMenu.NivelMenu (0.001061s)
+[2019.09.27-14.45.17:467][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.09.27-14.45.17:471][727]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.27-14.45.17:540][727]LogInit: FAudioDevice initialized.
+[2019.09.27-14.45.17:570][727]LogLoad: Game class is 'MenuPrincipal_C'
+[2019.09.27-14.45.17:571][727]LogWorld: Bringing World /Game/ThirdPersonBP/MenusAndHuds/MainMenu/UEDPIE_0_NivelMenu.NivelMenu up for play (max tick rate 0) at 2019.09.27-11.45.17
+[2019.09.27-14.45.17:571][727]LogWorld: Bringing up level for play took: 0.000270
+[2019.09.27-14.45.17:584][727]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/MenusAndHuds/MainMenu/UEDPIE_0_NivelMenu -0,263
+[2019.09.27-14.45.17:585][727]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu' with GeneratedClass '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu'
+[2019.09.27-14.45.49:481][541]LogNet: Browse: /Game/ThirdPersonBP/Maps/TesteoGrafico
+[2019.09.27-14.45.49:481][541]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/TesteoGrafico
+[2019.09.27-14.45.49:516][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.09.27-14.45.49:554][541]LogAIModule: Creating AISystem for world TesteoGrafico
+[2019.09.27-14.45.49:554][541]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.27-14.45.49:564][541]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TesteoGrafico.TesteoGrafico up for play (max tick rate 0) at 2019.09.27-11.45.49
+[2019.09.27-14.45.49:565][541]LogWorld: Bringing up level for play took: 0.010361
+[2019.09.27-14.45.49:565][541]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.09.27-14.45.49:565][541]LogLoad: Took 0.084278 seconds to LoadMap(/Game/ThirdPersonBP/Maps/TesteoGrafico)
+[2019.09.27-14.45.53:091][957]LogActorComponent: Error: May not destroy component CharacterMovementComponent /Game/ThirdPersonBP/Maps/UEDPIE_0_TesteoGrafico.TesteoGrafico:PersistentLevel.ThirdPersonCharacter_167.CharMoveComp owned by ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_TesteoGrafico.TesteoGrafico:PersistentLevel.ThirdPersonCharacter_167.
+[2019.09.27-14.46.01:391][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-14.46.01:391][953]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu' with GeneratedClass '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu'
+[2019.09.27-14.46.01:420][953]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.27-14.46.01:421][953]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu' with GeneratedClass '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu'
+[2019.09.27-14.46.01:471][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-14.46.01:474][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.09.27-14.46.01:494][955]LogPlayLevel: Display: Destroying online subsystem :Context_117
+[2019.09.27-14.46.11:006][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-14.46.11:153][112]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu
+[2019.09.27-14.46.11:183][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.09.27-14.46.11:184][112]Cmd: MAP LOAD FILE="../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Content/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.27-14.46.11:184][112]LightingResults: New page: Diseñar la iluminación
+[2019.09.27-14.46.11:185][112]LoadErrors: New page: Cargando mapa: NivelMenu.umap
+[2019.09.27-14.46.11:185][112]MapCheck: New page: Revisión del mapa
+[2019.09.27-14.46.11:185][112]LightingResults: New page: Diseñar la iluminación
+[2019.09.27-14.46.11:217][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.09.27-14.46.11:254][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.09.27-14.46.11:286][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.09.27-14.46.11:289][112]LogAIModule: Creating AISystem for world NivelMenu
+[2019.09.27-14.46.11:290][112]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.27-14.46.11:322][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.09.27-14.46.11:343][112]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.27-14.46.11:343][112]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,079ms to complete.
+[2019.09.27-14.46.11:344][112]LogFileHelpers: Loading map 'NivelMenu' took 0.160
+[2019.09.27-14.46.13:024][310]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.27-14.46.13:038][310]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu' with GeneratedClass '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu'
+[2019.09.27-14.46.13:038][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.27-14.46.13:038][310]PIE: New page: Sesión PIE (reproducción en el editor): NivelMenu (27/9/2019 8:46:13)
+[2019.09.27-14.46.13:038][310]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/MenusAndHuds/MainMenu/UEDPIE_0_NivelMenu
+[2019.09.27-14.46.13:038][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000603s)
+[2019.09.27-14.46.13:039][310]LogAIModule: Creating AISystem for world NivelMenu
+[2019.09.27-14.46.13:039][310]LogPlayLevel: PIE: World Init took: (0.000364s)
+[2019.09.27-14.46.13:039][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu to /Game/ThirdPersonBP/MenusAndHuds/MainMenu/UEDPIE_0_NivelMenu.NivelMenu (0.001047s)
+[2019.09.27-14.46.13:068][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.09.27-14.46.13:072][310]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.27-14.46.13:158][310]LogInit: FAudioDevice initialized.
+[2019.09.27-14.46.13:189][310]LogLoad: Game class is 'MenuPrincipal_C'
+[2019.09.27-14.46.13:189][310]LogWorld: Bringing World /Game/ThirdPersonBP/MenusAndHuds/MainMenu/UEDPIE_0_NivelMenu.NivelMenu up for play (max tick rate 0) at 2019.09.27-11.46.13
+[2019.09.27-14.46.13:189][310]LogWorld: Bringing up level for play took: 0.000224
+[2019.09.27-14.46.13:207][310]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/ThirdPersonBP/MenusAndHuds/MainMenu/UEDPIE_0_NivelMenu -0,64
+[2019.09.27-14.46.13:207][310]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu' with GeneratedClass '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu'
+[2019.09.27-14.46.17:625][839]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.09.27-14.46.17:625][839]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2019.09.27-14.46.17:657][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.09.27-14.46.17:703][839]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.27-14.46.17:704][839]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.27-14.46.17:708][839]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.09.27-11.46.17
+[2019.09.27-14.46.17:708][839]LogWorld: Bringing up level for play took: 0.003739
+[2019.09.27-14.46.17:709][839]LogLoad: Took 0.083230 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2019.09.27-14.46.27:418][  4]PIE: Warning: The widget 'W_Main_C' was already added to the screen.
+[2019.09.27-14.46.29:327][233]PIE: Warning: The widget 'W_Main_C' was already added to the screen.
+[2019.09.27-14.46.31:236][462]PIE: Warning: The widget 'W_Main_C' was already added to the screen.
+[2019.09.27-14.46.33:245][703]PIE: Warning: The widget 'W_Main_C' was already added to the screen.
+[2019.09.27-14.46.35:253][944]PIE: Warning: The widget 'W_Main_C' was already added to the screen.
+[2019.09.27-14.46.37:261][185]PIE: Warning: The widget 'W_Main_C' was already added to the screen.
+[2019.09.27-14.46.39:219][420]PIE: Warning: The widget 'W_Main_C' was already added to the screen.
+[2019.09.27-14.46.43:362][917]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu' with GeneratedClass '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu'
+[2019.09.27-14.46.43:363][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-14.46.43:398][917]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.27-14.46.43:399][917]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu' with GeneratedClass '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu_C' with ClassGeneratedBy '/Game/ThirdPersonBP/MenusAndHuds/MainMenu/NivelMenu.NivelMenu:PersistentLevel.NivelMenu'
+[2019.09.27-14.46.43:443][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-14.46.43:447][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.09.27-14.46.43:455][917]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-14.46.43:466][918]LogPlayLevel: Display: Destroying online subsystem :Context_118
+[2019.09.27-14.46.45:182][124]LogSlate: Window 'Registro del mensaje' being destroyed
+[2019.09.27-14.46.45:186][124]LogSlate: Window 'Registro del mensaje' being destroyed
+[2019.09.27-14.46.49:789][660]LogAIModule: Creating AISystem for world Demonstration
+[2019.09.27-14.46.49:832][660]LogAssetEditorManager: Opening Asset editor for World /Game/SubwayTrain/Maps/Demonstration.Demonstration
+[2019.09.27-14.46.49:871][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.09.27-14.46.49:872][660]Cmd: MAP LOAD FILE="../../../../../../Users/devandroid.ALMAGRO.003/Desktop/Proyecto-final/ProyectoFinal/Content/SubwayTrain/Maps/Demonstration.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.27-14.46.49:872][660]LightingResults: New page: Diseñar la iluminación
+[2019.09.27-14.46.49:872][660]LoadErrors: New page: Cargando mapa: Demonstration.umap
+[2019.09.27-14.46.49:873][660]MapCheck: New page: Revisión del mapa
+[2019.09.27-14.46.49:873][660]LightingResults: New page: Diseñar la iluminación
+[2019.09.27-14.46.49:905][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.09.27-14.46.49:954][660]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.27-14.46.49:987][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.09.27-14.46.50:007][660]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.27-14.46.50:007][660]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,147ms to complete.
+[2019.09.27-14.46.50:007][660]LogFileHelpers: Loading map 'Demonstration' took 0.136
+[2019.09.27-14.46.53:117][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-14.46.53:175][ 29]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.27-14.46.53:189][ 29]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/SubwayTrain/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.09.27-14.46.53:189][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.27-14.46.53:189][ 29]PIE: New page: Sesión PIE (reproducción en el editor): Demonstration (27/9/2019 8:46:53)
+[2019.09.27-14.46.53:189][ 29]LogPlayLevel: Creating play world package: /Game/SubwayTrain/Maps/UEDPIE_0_Demonstration
+[2019.09.27-14.46.53:223][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034241s)
+[2019.09.27-14.46.53:224][ 29]LogAIModule: Creating AISystem for world Demonstration
+[2019.09.27-14.46.53:224][ 29]LogPlayLevel: PIE: World Init took: (0.000412s)
+[2019.09.27-14.46.53:224][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SubwayTrain/Maps/Demonstration.Demonstration to /Game/SubwayTrain/Maps/UEDPIE_0_Demonstration.Demonstration (0.034778s)
+[2019.09.27-14.46.53:257][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.09.27-14.46.53:261][ 29]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.27-14.46.53:347][ 29]LogInit: FAudioDevice initialized.
+[2019.09.27-14.46.53:377][ 29]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.27-14.46.53:392][ 29]LogWorld: Bringing World /Game/SubwayTrain/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2019.09.27-11.46.53
+[2019.09.27-14.46.53:394][ 29]LogWorld: Bringing up level for play took: 0.016051
+[2019.09.27-14.46.53:407][ 29]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/SubwayTrain/Maps/UEDPIE_0_Demonstration -0,441
+[2019.09.27-14.46.53:407][ 29]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/SubwayTrain/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.09.27-14.46.59:765][788]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/SubwayTrain/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.09.27-14.46.59:765][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-14.46.59:796][788]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.27-14.46.59:796][788]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/SubwayTrain/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.09.27-14.46.59:844][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-14.46.59:849][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.09.27-14.46.59:875][790]LogPlayLevel: Display: Destroying online subsystem :Context_119
+[2019.09.27-14.47.00:583][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-14.47.00:659][884]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.27-14.47.00:673][884]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/SubwayTrain/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.09.27-14.47.00:673][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.27-14.47.00:673][884]PIE: New page: Sesión PIE (reproducción en el editor): Demonstration (27/9/2019 8:47:00)
+[2019.09.27-14.47.00:673][884]LogPlayLevel: Creating play world package: /Game/SubwayTrain/Maps/UEDPIE_0_Demonstration
+[2019.09.27-14.47.00:706][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033598s)
+[2019.09.27-14.47.00:706][884]LogAIModule: Creating AISystem for world Demonstration
+[2019.09.27-14.47.00:706][884]LogPlayLevel: PIE: World Init took: (0.000394s)
+[2019.09.27-14.47.00:706][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SubwayTrain/Maps/Demonstration.Demonstration to /Game/SubwayTrain/Maps/UEDPIE_0_Demonstration.Demonstration (0.034113s)
+[2019.09.27-14.47.00:739][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.09.27-14.47.00:743][884]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.27-14.47.00:809][884]LogInit: FAudioDevice initialized.
+[2019.09.27-14.47.00:846][884]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.27-14.47.00:872][884]LogWorld: Bringing World /Game/SubwayTrain/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2019.09.27-11.47.00
+[2019.09.27-14.47.00:875][884]LogWorld: Bringing up level for play took: 0.025972
+[2019.09.27-14.47.00:888][884]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/SubwayTrain/Maps/UEDPIE_0_Demonstration 1,04
+[2019.09.27-14.47.00:888][884]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/SubwayTrain/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.09.27-14.47.03:766][224]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/SubwayTrain/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.09.27-14.47.03:766][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-14.47.03:802][224]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.27-14.47.03:802][224]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/SubwayTrain/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.09.27-14.47.03:849][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-14.47.03:854][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.09.27-14.47.03:869][225]LogPlayLevel: Display: Destroying online subsystem :Context_120
+[2019.09.27-14.47.05:704][444]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-14.47.07:444][648]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-14.47.07:445][648]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration
+[2019.09.27-14.47.18:125][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-14.47.18:176][892]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.27-14.47.18:190][892]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/SubwayTrain/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.09.27-14.47.18:191][892]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.27-14.47.18:191][892]PIE: New page: Sesión PIE (reproducción en el editor): Demonstration (27/9/2019 8:47:18)
+[2019.09.27-14.47.18:191][892]LogPlayLevel: Creating play world package: /Game/SubwayTrain/Maps/UEDPIE_0_Demonstration
+[2019.09.27-14.47.18:225][892]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033788s)
+[2019.09.27-14.47.18:225][892]LogAIModule: Creating AISystem for world Demonstration
+[2019.09.27-14.47.18:225][892]LogPlayLevel: PIE: World Init took: (0.000405s)
+[2019.09.27-14.47.18:225][892]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SubwayTrain/Maps/Demonstration.Demonstration to /Game/SubwayTrain/Maps/UEDPIE_0_Demonstration.Demonstration (0.034320s)
+[2019.09.27-14.47.18:260][892]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.09.27-14.47.18:264][892]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.27-14.47.18:351][892]LogInit: FAudioDevice initialized.
+[2019.09.27-14.47.18:378][892]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.09.27-14.47.18:387][892]LogWorld: Bringing World /Game/SubwayTrain/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2019.09.27-11.47.18
+[2019.09.27-14.47.18:389][892]LogWorld: Bringing up level for play took: 0.009889
+[2019.09.27-14.47.18:403][892]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/SubwayTrain/Maps/UEDPIE_0_Demonstration 0,554
+[2019.09.27-14.47.18:403][892]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/SubwayTrain/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.09.27-14.47.55:808][378]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/SubwayTrain/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.09.27-14.47.55:809][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-14.47.55:846][378]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.27-14.47.55:847][378]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/SubwayTrain/Maps/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/SubwayTrain/Maps/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2019.09.27-14.47.55:895][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-14.47.55:901][378]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.09.27-14.47.55:915][379]LogPlayLevel: Display: Destroying online subsystem :Context_122
+[2019.09.27-14.50.59:344][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-14.51.08:440][293]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/QuickTimeEvents/QTE_Library.QTE_Library
+[2019.09.27-14.56.52:781][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-15.02.31:671][104]LogWindowsDesktop: Alt-F4 pressed!
+[2019.09.27-15.02.31:673][104]LogSlate: Window 'QTE_Library' being destroyed
+[2019.09.27-15.02.31:676][104]LogSlate: Window 'QTE_Library' being destroyed
+[2019.09.27-15.02.37:854][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
