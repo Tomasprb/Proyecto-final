@@ -1,0 +1,2 @@
+C:\Users\devandroid.ALMAGRO.003\Desktop\Proyecto-final\ProyectoFinal\Intermediate\Source\QTE_Tutorial.Build.cs
+C:\Users\devandroid.ALMAGRO.003\Desktop\Proyecto-final\ProyectoFinal\Intermediate\Source\QTE_Tutorial.Target.cs

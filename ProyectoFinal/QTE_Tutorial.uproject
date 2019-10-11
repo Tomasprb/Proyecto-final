@@ -8,5 +8,8 @@
 			"Name": "ControlRig",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
 	]
 }
